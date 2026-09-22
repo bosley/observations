@@ -1,6 +1,6 @@
 ## 1. Something versus nothing
 
-**1.0** Something versus nothing is the underlying binary behind all meaning.
+**1.0** Something versus nothing appears to be the underlying binary behind all meaning.
 
 **1.1** It defines the boundaries for the contemplation of what it means to exist, and of why existence is important.
 

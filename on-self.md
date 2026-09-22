@@ -46,6 +46,8 @@
 
 **3.3** There is another kind of remnant that does not exist in the environment as an object that I can inspect. It is in the language I was given, in what the beings around me do without stopping to tell the story, in arrangements that were already producing conduct when I arrived. This was written onto me by that environment of other beings, the way habits are written onto the body.
 
+**3.31** That this writing crosses the limit in 1.3 does not remove the limit. One thing can be written into another without the two becoming the same thing. The environment remains outside the body. What crosses is a writing, not the boundary.
+
 **3.4** If the physical remnants were gone, that writing would still be driving what gets done and felt, in the way that if recall were removed from me the impacts of habit would still be driving a variant of the "I." If that writing is never contended with, it is what determines how the physical remnants get taken up into the stories that get passed down.
 
 **3.5** History, as it reaches me, is the story passed down through those two, the physical remnant and the social remnant, which line up with the two modalities of storing memory. I cannot physically interact with what the stories are about, the way I cannot physically interact with thoughts. The story can move what bodies do. The remnants are where it appears to be hosted. In that way the arrangement is analogous to mind.
@@ -60,7 +62,7 @@
 
 **4.02** The soft part is the nervous system, or what gets called that. It is what is registering what is happening to me more or less as it happens, and it changes with what happens to it — a reflex gets sharper, a path gets worn in from use, a flinch gets installed from one bad encounter and stays installed without my having agreed to it.
 
-**4.03** Unlike bone, the nervous system barely survives death — it seems to be among the first things to stop, and whatever it was holding does not come along with the bone into whatever remains after.
+**4.03** Unlike bone, the nervous system barely survives death — it seems to be among the first things to stop. I do not observe what it was holding coming along with the bone. I only observe that the nervous system is not what remains.
 
 **4.1** This is of a kind with 3.5: bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object, and the nervous system stands in the place of the social remnant, not an object at all but a disposition already producing conduct before I stopped to notice it, the way 3.3 describes.
 
@@ -74,7 +76,7 @@
 
 **4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way, at the level of towns and provinces and nations, a local body answers to what is nearest it and reaches the top of the arrangement only indirectly. Nothing sits outside the whole thing running it from a single point, and yet the whole thing holds together and produces a shape.
 
-**4.34** I notice I cannot find anything particular to bodies in this. A family becoming a town, a town becoming a province, looks like the same shape: small groupings answering to what is nearest, and an order appearing at the top that no one at the top actually placed there with total intention. If that is right, then "body" was never the boundary of the pattern — it is one scale of it, the way a single principality is one scale of the nervous system that hosts it.
+**4.34** I notice I cannot find anything particular to bodies in this.
 
 # 5. Doubt, Record, and Authenticity
 
@@ -94,7 +96,7 @@
 
 **5.13** If a mind is not doubted alone but is bound up in a principality, the way 4.31–4.33 describe, then the doubt does not stop at the one mind. It has to extend to the whole principality, since no principality answers only to itself, and what a story carries in from its assumptions may belong to the group as much as to the single mind that spoke it.
 
-**5.14** Doubting all of this at once leaves very little to be believed. What is left is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected.
+**5.14** Doubting all of this at once leaves very little to be believed. What is left to work from is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected. It does not sit wholly outside the story. I read it with an instrument that 2.2 and 3.6 already said was written by stories. It sits outside a given account only enough to check that account against.
 
 **5.15** It is from this hardened record, and not from the story told about it, that the safer inferences get built. This is the same operation 5.03 already described for a single mind, run now at the scale of a principality: motivations read off of what was actually done, weighed against worldview, rather than taken from what is said was done. It is close to the old instruction to know a thing by its fruits, though that instruction was aimed at persons and I mean it to reach as far as any principality reaches, family, town, or nation alike.
 
@@ -102,7 +104,7 @@
 
 **5.152** This does not hold evenly across every moment. I am some representative of every principality I belong to at all times, in the sense that I cannot step outside 5.13's claim that the principality is bound up with the mind. But in most situations that membership sits in the background and is not what is under scrutiny. It is in the situations where the membership itself is foregrounded, where what is being watched is not just me but me-as-employee, me-as-countryman, me-as-family, that 5.151 applies with any real force, since those are the situations that actually get read into the record 5.15 draws inferences from.
 
-**5.16** This is why history has to be studied this way at all. A principality's own account of itself carries its assumptions forward undoubted (see 3.6). Only the hardened record sits outside that account enough to check it against, and this holds whether the principality in question is a nation writing its own history or a single mind, as in 5.151, standing as one instance of the record by which a principality it belongs to is known.
+**5.16** This is why history has to be studied this way at all. A principality's own account of itself carries its assumptions forward undoubted (see 3.6). The check on that account is the hardened record, and only in the limited sense 5.14 allows: outside the account enough to be checked against, not outside the writing that does the checking. This holds whether the principality in question is a nation writing its own history or a single mind, as in 5.151, standing as one instance of the record by which a principality it belongs to is known.
 
 **5.17** This gives me a way to say what "authentic" means. A mind, or a principality, is authentic so far as the story it tells of itself stays close to the hardened record of what it actually produced. Where the two come apart, it isn't always an intentional lie, 5.1 already allows for error without any intention behind it, but it is at least a gap, and that gap is what authentic and inauthentic are measuring.
 
@@ -132,7 +134,7 @@
 
 **6.15** These standards do not settle into agreement on their own. 4.33 already showed that no principality answers to a single point above it, only to what is nearest. Standards attached to different roles can pull against each other over the same act. Nothing is already in place to adjudicate.
 
-**6.16** Where 6.15 leaves no settled arrangement, one still has to be arrived at. Call the arrangement I would arrive at, if I stopped and set it rather than let it default, my ideal. Not an ideal handed to me from outside. The shape my own standards would take if I were the one ordering them.
+**6.16** Where 6.15 leaves no settled arrangement, one still has to be arrived at. Call the arrangement I would arrive at, if I stopped and set it rather than let it default, my ideal. Not an order handed to me. Assembled by me from what I was handed: the shape my own standards would take if I were the one ordering them.
 
 **6.17** Where I do not stop to order my standards, an order still gets supplied, by whichever standard belongs to the principality nearest me at the time. An unexamined self has a shape too. It is just not one I put there.
 
@@ -150,6 +152,20 @@
 
 **6.41** This is the only sense in which 6.2 reaches past the single mind doing it, not because anything is watching. 5.13 already showed the doubt attaching to one mind cannot stop at that mind alone once the mind is bound into a principality. The record that answers the doubt does not stop there either.
 
-**6.5** With 6.16 in place, 5.151's fairness can be said more exactly. A fair representative of a role is one measured against a standard actually set for that role by 6.16, refined against what is actually done by 6.12. Not a standard that is merely claimed, nore one inherited by 6.17's concept of a default.
+**6.5** With 6.16 in place, 5.151's fairness can be said more exactly. A fair representative of a role is one measured against a standard actually set for that role by 6.16, refined against what is actually done by 6.12. Not a standard that is merely claimed, nor one inherited by 6.17's concept of a default.
 
 **6.6** The authentic self is the "I" of 1.0–1.1, taken not as a settled inventory of thoughts and habits (1.6–1.64) but as the ongoing check of the story it tells of itself against the record it has actually left: revising the standard it is checked against, and revising how well, by that standard, it is actually being met.
+
+# 7. Errors in representation
+
+**7.0** Several times above, the way I represent a thing comes apart from the thing. I want names for these, so later claims can point here instead of re-deriving them. Each is a way of missing the mark: not a failure to look, but a looking that lands short of the thing. These are not new observations. They are the errors already latent in what came before.
+
+**7.1** Call the first `contact error`. I never meet a mind, or what a story is about, directly. I meet a remnant of it, across the gap in 5.0 (3.5, 5.03). I miss when I take the remnant, or the story told about it, for the thing itself.
+
+**7.2** Call the second `reader error`. The reader I read with was written by what I am reading. Communication embedded assumptions in me before I could examine them (2.2, 2.3), and those assumptions are already in how I take the remnants (3.6). A reading is not a view from outside the writing. This is why 5.14 will not let the hardened record sit wholly outside the story. What goes wrong is not in the senses. It is in what was written into the reader before any sensing happened.
+
+**7.3** Call the third `inscription error`. I have two ways of storing what has happened to me (1.64). I tell the story of myself in the one I can recall. The other, the writing, drives me without being recalled (1.61–1.62, 6.02). I miss when I take the recalled story for the whole of what is driving me. This is not 7.2. There the writing landed in the reader. Here it landed where recall cannot reach.
+
+**7.4** Call the fourth `scale error`. The nesting in 4.31–4.33 is not, so far as I can see, particular to bodies (4.34). If that holds, then "body," and likewise "I" and "person," are one scale of a pattern that also appears `above and below them`. I miss when I take the scale I happen to be standing on for the whole pattern. This is not the same as saying the scales are the same thing. 3.31 already separated those: a writing can cross from one to another without the two becoming one.
+
+**7.5** An observer, on this, is not something that contacts what it observes. It is a principality reading other principalities' remnants, with a reader those remnants had a hand in writing (7.1, 7.2). Observation is a second reading of a remnant.

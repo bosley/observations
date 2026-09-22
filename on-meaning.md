@@ -1,4 +1,6 @@
-## 1. Something versus nothing is the underlying binary behind all meaning.
+## 1. Something versus nothing
+
+**1.0** Something versus nothing is the underlying binary behind all meaning.
 
 **1.1** It defines the boundaries for the contemplation of what it means to exist, and of why existence is important.
 
@@ -10,7 +12,9 @@
 
 **1.5** From that, directly or indirectly, come political and religious outlooks on all matters.
 
-## 2. Nobody has authority on the origin of existence itself. Not even specialists.
+## 2. No authority on origin
+
+**2.0** Nobody has authority on the origin of existence itself. Not even specialists.
 
 **2.1** Philosopher, mathematician, physicist: all work inside the subset that is perceptible and understandable to us.
 
@@ -18,15 +22,19 @@
 
 **2.3** The notion that you understand the whole picture through something aimed at a bottom corner of the frame is absurd.
 
-## 3. No account of origins is validatable.
+## 3. No validatable account
 
-**3.1** The lacking of the ability to be fully "validated" is not an a reason to not create an origin account that you can hold as viable.
+**3.0** No account of origins is validatable.
+
+**3.1** That does not permit an opt-out.
 
 **3.2** If you do not construct an understanding sufficient for a worldview, the worldview already adopted will form the implied understanding for you.
 
-**3.3** An origin account of self that lacks consideration has a low chance of viability throughout the life of the self
+**3.3** Origin without consideration.
 
-## 4. The unexamined modern default often implies the spontaneous arising of something from nothing.
+## 4. The unexamined default
+
+**4.0** The unexamined modern default often implies the spontaneous arising of something from nothing.
 
 **4.1** It is permitted because it is unfalsifiable. Unfalsifiable in that way is a hollow exemption: an origin with no antecedent, allowed because nothing can check it.
 
@@ -34,13 +42,17 @@
 
 **4.3** Grant the first occurrence from nothing and further occurrences of the same kind are not automatically off the table.
 
-## 5. A worldview from which ethics can be derived must contend with something versus nothing.
+## 5. Ethics and the uncentered
+
+**5.0** A worldview from which ethics can be derived must contend with something versus nothing.
 
 **5.1** Unless that work is done, the downstream opinions are uncentered.
 
 **5.2** Uncentered opinion has no authority with respect to oughts.
 
-## 6. There are boundaries in every dimension of life that you could liken to singularities.
+## 6. Singularities
+
+**6.0** There are boundaries in every dimension of life that you could liken to singularities.
 
 **6.1** Places where the logic in use goes circular, or starts contradicting itself.
 
@@ -50,7 +62,9 @@
 
 **6.4** If you know where you stand from the root of something versus nothing, that sort of thing gets easy to hear.
 
-## 7. Every opinion is a mix of facts, feelings, and ideals.
+## 7. Facts, feelings, and ideals
+
+**7.0** Every opinion is a mix of facts, feelings, and ideals.
 
 **7.1** The facts arrive already spoken for, in the way the words are already used.
 
@@ -60,9 +74,9 @@
 
 **7.4** The scene does not set how hard it is felt. The notion of the reason for the scene modulates the amplitude.
 
-## 8. Watch a dichotomy of principalities before the same incident.
+## 8. Opposite extremes
 
-**8.0** A principality is not a person and not a doctrine written down. It is a group of people, and within that group the smaller circles of actors and their audiences: those who speak, those who carry the speech onward, and those who receive it. The circles nest. Together they make something like an organic hierarchy, held by shared use of words rather than by an office. Two principalities can face the same incident and already be two different instruments for what the incident is allowed to count as.
+**8.0** Watch a dichotomy of principalities before the same incident.
 
 **8.1** They do not come away with two mild readings. They come away at opposite extremes.
 
@@ -74,13 +88,17 @@
 
 **8.5** You think you are looking at the facts. You are looking at the use you have already given them.
 
-## 9. Once the origin-account is in place, the work is application.
+## 9. Application
+
+**9.0** Once the origin-account is in place, the work is application.
 
 **9.1** Within the boundaries you find acceptable as cornerstone questions for justifying authenticity of opinion, test whether the account can bear the oughts already lived by.
 
 **9.2** The first of those questions is whether the account of something and nothing can still support the claim that anything is important at all.
 
-## 10. Because nobody can say with certainty why we are here, or what anything means, we must choose.
+## 10. Choice
+
+**10.0** Because nobody can say with certainty why we are here, or what anything means, we must choose.
 
 **10.1** To choose not to choose is still a choice. The unexamined account will be supplied.
 

@@ -15,3 +15,21 @@ The point of this project is to think. Generating the thinking with AI would def
 ## License
 
 Shared under the terms in [LICENSE.txt](LICENSE.txt). You may use this material, but you must reference it explicitly.
+
+## Links
+
+Some of my writings that are similar to this do not appear in this repo. The ones not in this repo are similar in kind, but are scheduled to be rewritten into a singular coherent text as a result of the work of this project:
+
+https://beausolai.substack.com/p/the-primordiant
+https://beausolai.substack.com/p/the-primordiant-ex-nihilo-nihil-fit
+https://beausolai.substack.com/p/the-primordiant-emergence-of-complex
+
+https://beausolai.substack.com/p/the-temperature-of-a-culture
+https://beausolai.substack.com/p/the-weather-of-a-self
+https://beausolai.substack.com/p/architect-of-the-self
+
+https://beausolai.substack.com/p/the-first-contrast
+
+https://beausolai.substack.com/p/on-suffering
+https://beausolai.substack.com/p/on-the-process-of-argumentation
+https://beausolai.substack.com/p/temperature-of-the-body

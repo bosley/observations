@@ -76,7 +76,6 @@
 
 **4.34** I notice I cannot find anything particular to bodies in this. A family becoming a town, a town becoming a province, looks like the same shape: small groupings answering to what is nearest, and an order appearing at the top that no one at the top actually placed there with total intention. If that is right, then "body" was never the boundary of the pattern — it is one scale of it, the way a single principality is one scale of the nervous system that hosts it.
 
-
 # 5. Doubt
 
 **5.0** I have never been able to read the intentions of other minds without traversing the gap presented by our environment. No mind I have ever interfaced with has appeared to have the ability to interface with minds without doing the same.
@@ -85,7 +84,7 @@
 
 **5.02** Since I cannot cross that gap directly, I proceed on an assumption instead: that other minds of a kind similar to mine have internal mechanisms my mind could fathom. That is, I can hold a representation of another's worldview close enough to their actual worldview that I can make inferences about their motivations from it.
 
-**5.03** That representation isn't fixed once formed. I refine my sense of another mind's worldview by weighing their apparent motivations against new information, drawn from the record their interactions leave in the environment, in contexts tied to carrying out whatever motivation is in question. This record is of the same kind as the physical remnant in 3.2, and as the bone in 4.01. It is the hard part, the part that stays and can still be inspected after the fact, unlike the mind's own recall of itself, to which I have no direct access at all. Where I can revise my model of a mind I did not witness directly, it is because that mind, like me, leaves something durable behind in the environment. Refining my model is then just reading that remnant, in the same way 3.2 already describes remnants being read.
+**5.03** The representation is dynamic, and undergoing constant refinement. I refine my sense of another mind's worldview by weighing their apparent motivations against new information, drawn from the record their interactions leave in the environment, in contexts tied to carrying out whatever motivation is in question. This record is of the same kind as the physical remnant in 3.2, and as the bone in 4.01. It is the hard part, the part that stays and can still be inspected after the fact, unlike the mind's own recall of itself, to which I have no direct access at all. Where I can revise my model of a mind I did not witness directly, it is because that mind, like me, leaves something durable behind in the environment. Refining my model is then just reading that remnant, in the same way 3.2 already describes remnants being read.
 
 **5.1** Since stories can be told that don't map to reality (5.01), we have to assume that all stories we've ever been told may contain some degree of error.
 

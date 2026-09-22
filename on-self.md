@@ -14,7 +14,7 @@
 
 **1.6** My memories, though products of the mind, are in some way stored in the physical body in such a way that destruction or modification of that physical makeup of memories impacts the ability to recall those memories.
 
-**1.61** I cannot find what would still constitute the "I" I conceive of, once every memory I can recall is gone, if "I" is my mind taken with respect to time. What I picture instead is not that "I" with something removed. It is a blank where the notion was.
+**1.61** In what gets called dense autobiographical amnesia, the recall is removed, and I cannot find what would still constitute the "I" I conceive of if "I" is my mind with respect to time. What remains to drive the person is habit, and the rest of what the nervous system has had written into it.
 
 **1.62** If all recall were to be removed from me, the various impacts my habits have had on my physical makeup would drive my emotions and various abilities to control said emotions (oral fixation demands, and other areas affected by the nervous system).
 

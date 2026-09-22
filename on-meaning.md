@@ -20,7 +20,7 @@
 
 **2.2** Their systems can uncover insight about particular forms and processes.
 
-**2.3** The notion that you understand the whole picture through something aimed at a bottom corner of the frame is absurd.
+**2.3** The notion that the whole picture is understood through something aimed at a bottom corner of the frame is absurd.
 
 ## 3. No validatable account
 
@@ -28,19 +28,19 @@
 
 **3.1** That does not permit an opt-out.
 
-**3.2** If you do not construct an understanding sufficient for a worldview, the worldview already adopted will form the implied understanding for you.
+**3.2** If I do not construct an understanding sufficient for a worldview, the worldview already adopted will form the implied understanding for me.
 
 **3.3** Origin without consideration.
 
 ## 4. The unexamined default
 
-**4.0** The unexamined modern default often implies the spontaneous arising of something from nothing.
+**4.0** The unexamined modern default, as I take it, often implies the spontaneous arising of something from nothing.
 
 **4.1** It is permitted because it is unfalsifiable. Unfalsifiable in that way is a hollow exemption: an origin with no antecedent, allowed because nothing can check it.
 
 **4.2** That assumption is no less valid than any other origin-account.
 
-**4.3** Grant the first occurrence from nothing and further occurrences of the same kind are not automatically off the table.
+**4.3** If the first occurrence from nothing is granted, further occurrences of the same kind are not automatically off the table.
 
 ## 5. Ethics and the uncentered
 
@@ -52,15 +52,15 @@
 
 ## 6. Singularities
 
-**6.0** There are boundaries in every dimension of life that you could liken to singularities.
+**6.0** There are boundaries in every dimension of life that, as I take it, could be likened to singularities.
 
 **6.1** Places where the logic in use goes circular, or starts contradicting itself.
 
-**6.2** The feelings at each stage remain valid. Add them up and they are naught.
+**6.2** As I take it, the feelings at each stage remain valid. Added up, they are naught.
 
-**6.3** If you do not know your existential landscape, or how to contend with the limits you have imposed on yourself within it, traps will expose the singularities in the existential account. That exposure will justify a feeling response.
+**6.3** If I do not know my existential landscape, or how to contend with the limits I have imposed on myself within it, traps will expose the singularities in the existential account. That exposure will justify a feeling response.
 
-**6.4** If you know where you stand from the root of something versus nothing, that sort of thing gets easy to hear.
+**6.4** If I know where I stand from the root of something versus nothing, that sort of thing gets easy to hear.
 
 ## 7. Facts, feelings, and ideals
 
@@ -76,29 +76,29 @@
 
 ## 8. Opposite extremes
 
-**8.0** Watch a dichotomy of principalities before the same incident.
+**8.0** A dichotomy of principalities can be watched before the same incident.
 
-**8.1** They do not come away with two mild readings. They come away at opposite extremes.
+**8.1** As I take it, they do not come away with two mild readings. They come away at opposite extremes.
 
 **8.2** They can point at the same frames and still not mean the same thing by them.
 
 **8.3** They are fighting about what the scene counts as. The feelings scale to that.
 
-**8.4** Without knowing the root of the ideals, you cannot tell which of those you are doing.
+**8.4** Without knowing the root of the ideals, I cannot tell which of those I am doing.
 
-**8.5** You think you are looking at the facts. You are looking at the use you have already given them.
+**8.5** I think I am looking at the facts. I am looking at the use I have already given them.
 
 ## 9. Application
 
 **9.0** Once the origin-account is in place, the work is application.
 
-**9.1** Within the boundaries you find acceptable as cornerstone questions for justifying authenticity of opinion, test whether the account can bear the oughts already lived by.
+**9.1** Within the boundaries I find acceptable as cornerstone questions for justifying authenticity of opinion, what remains is to test whether the account can bear the oughts already lived by.
 
 **9.2** The first of those questions is whether the account of something and nothing can still support the claim that anything is important at all.
 
 ## 10. Choice
 
-**10.0** Because nobody can say with certainty why we are here, or what anything means, we must choose.
+**10.0** Because nobody can say with certainty why we are here, or what anything means, we cannot avoid choosing.
 
 **10.1** To choose not to choose is still a choice. The unexamined account will be supplied.
 
@@ -106,6 +106,6 @@
 
 **10.3** Fusion, not mere governance. The person is dissolved into the account that already fills the channel they live in.
 
-**10.4** Form the account. Then contemplate, with stark honesty, the ideal action in this moment given your existential landscape.
+**10.4** Once the account is formed, what remains is contemplation, with stark honesty, of the ideal action in this moment given my existential landscape.
 
 **10.5** A person becomes more themselves by aligning act to their own notion of what it means to be.

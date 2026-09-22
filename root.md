@@ -62,6 +62,8 @@
 
 ## 8. Watch a dichotomy of principalities before the same incident.
 
+**8.0** A principality is not a person and not a doctrine written down. It is a group of people, and within that group the smaller circles of actors and their audiences: those who speak, those who carry the speech onward, and those who receive it. The circles nest. Together they make something like an organic hierarchy, held by shared use of words rather than by an office. Two principalities can face the same incident and already be two different instruments for what the incident is allowed to count as.
+
 **8.1** They do not come away with two mild readings. They come away at opposite extremes.
 
 **8.2** They can point at the same frames and still not mean the same thing by them.

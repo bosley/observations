@@ -20,11 +20,11 @@
 
 ## 3. No account of origins is validatable.
 
-**3.1** That does not permit an opt-out.
+**3.1** The lacking of the ability to be fully "validated" is not an a reason to not create an origin account that you can hold as viable.
 
 **3.2** If you do not construct an understanding sufficient for a worldview, the worldview already adopted will form the implied understanding for you.
 
-**3.3** Origin without consideration.
+**3.3** An origin account of self that lacks consideration has a low chance of viability throughout the life of the self
 
 ## 4. The unexamined modern default often implies the spontaneous arising of something from nothing.
 

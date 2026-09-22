@@ -1,0 +1,27 @@
+Copyright (c) 2026 Josh A. Bosley. All rights reserved.
+
+Permission is granted to read, share, quote, adapt, and build upon this
+material, provided that all of the following are met:
+
+1. Credit is explicit. Any use must name the author and the work, and must
+   link to the original repository, placed where a reader will actually see
+   it. A reuse that does not identify its source is not permitted.
+
+2. Adapted material says so. If you modify, excerpt, or build upon this
+   material, you must say that your version is adapted from it, and you must
+   link to the original. You may not present derived material as the original
+   or as your own unaided work.
+
+3. No endorsement is implied. You may not suggest that the author endorses,
+   agrees with, or is affiliated with your use. The author's name may not be
+   used to lend authority to derived material.
+
+4. The same terms travel with it. If you redistribute this material or
+   material adapted from it, you must include this license with it.
+
+This material is shared so it can be used and argued with. It is not placed in
+the public domain, and no rights are waived beyond what is stated here.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM ITS USE.

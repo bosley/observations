@@ -19,3 +19,16 @@
 
 3.0 My environment seems to have existed before me, as there are other beings who existed before me who can attest to such within our environment.
 3.01 As the ones who taught me the language that created the "I" that I am, they passed down to me stories
+
+
+3.02 Those stories concern what was here before me, and the ones who pass them down can point to things still in the environment that they take as what is left of what the stories are about.
+
+3.2 Those things I can encounter with my senses the way I encounter anything else outside my body. Their physical makeup can be destroyed or modified, and when it is, what the stories can still attest to changes with it, in the way that modification of the physical makeup of my memories impacts what I can recall.
+
+3.3 There is another kind of remnant that does not exist in the environment as an object that I can inspect. It is in the language I was given, in what the beings around me do without stopping to tell the story, in arrangements that were already producing conduct when I arrived. This was written onto me by that environment of other beings, the way habits are written onto the body.
+
+3.4 If the physical remnants were gone, that writing would still be driving what gets done and felt, in the way that if recall were removed from me the impacts of habit would still be driving a variant of the "I". If that writing is never contended with, it is what determines how the physical remnants get taken up into the stories that get passed down.
+
+3.5 History, as it reaches me, is the story passed down through those two, the physical remnant and the social remnant, which line up with the two modalities of storing memory. I can not physically interact with what the stories are about, the way I can not physically interact with thoughts. The story can move what bodies do. The remnants are where it appears to be hosted. In that way the arrangement is analogous to mind.
+
+3.6 Contained within those stories are further assumptions, of the same kind as the ones that got baked into me through communication, and those assumptions are already constituents of how I take the remnants and of the sense I have of what came before me.

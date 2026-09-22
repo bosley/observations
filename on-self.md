@@ -51,3 +51,27 @@
 **3.5** History, as it reaches me, is the story passed down through those two, the physical remnant and the social remnant, which line up with the two modalities of storing memory. I cannot physically interact with what the stories are about, the way I cannot physically interact with thoughts. The story can move what bodies do. The remnants are where it appears to be hosted. In that way the arrangement is analogous to mind.
 
 **3.6** Contained within those stories are further assumptions, of the same kind as the ones that got baked into me through communication, and those assumptions are already constituents of how I take the remnants and of the sense I have of what came before me.
+
+# That which constitutes 'a body'
+
+**4.0** My body, like my environment, seems on inspection to hold both a hard part and a soft part, and the two do not last in the same way.
+
+**4.01** The hard part is bone. It is what stays longest. It was laid down slowly, over a span I did not witness and cannot recall, by processes that had mostly finished before I had anything like the "I" who is writing this. It does not update much now. It is closer to something acted on than something acting.
+
+**4.02** The soft part is the nervous system, or what gets called that. It is what is registering what is happening to me more or less as it happens, and it changes with what happens to it — a reflex gets sharper, a path gets worn in from use, a flinch gets installed from one bad encounter and stays installed without my having agreed to it.
+
+**4.03** Unlike bone, the nervous system barely survives death — it seems to be among the first things to stop, and whatever it was holding does not come along with the bone into whatever remains after.
+
+**4.1** This is of a kind with 3.5: bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object, and the nervous system stands in the place of the social remnant, not an object at all but a disposition already producing conduct before I stopped to notice it, the way 3.3 describes.
+
+**4.2** The habits from 1.62, the ones that would go on driving a variant of "I" even with all recall removed, are then probably just this soft system's version of that unrecalled writing. And bone, on this reading, is what would be left once even that stopped.
+
+**4.3** But looking closer at the soft system, I don't think it is one undifferentiated thing that simply changes as a whole. When something in it shifts, a cluster of related responses shifts with it, not the whole system at once. And these clusters seem to belong to larger clusters, which belong to larger ones again, without my having called a meeting to arrange it that way.
+
+**4.31** I want a word for one of these groups of groups. I will call it a "principality." A principality is bounded enough that I can point at it and say this governs how I flinch, or this governs how I talk when I am frightened, while also being made of smaller principalities I could point to underneath it, and belonging to a larger one above it that I could also point to, if less precisely.
+
+**4.32** No principality got installed by a single act of will, mine or anyone else's. Each one seems to have formed the way bone formed, by repetition and consequence accumulating past the point where I was tracking it, except that what accumulates here is not a fixed shape but an arrangement that keeps organizing whatever happens to it next along lines already laid down.
+
+**4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way, at the level of towns and provinces and nations, a local body answers to what is nearest it and reaches the top of the arrangement only indirectly. Nothing sits outside the whole thing running it from a single point, and yet the whole thing holds together and produces a shape.
+
+**4.34** I notice I cannot find anything particular to bodies in this. A family becoming a town, a town becoming a province, looks like the same shape: small groupings answering to what is nearest, and an order appearing at the top that no one at the top actually placed there with total intention. If that is right, then "body" was never the boundary of the pattern — it is one scale of it, the way a single principality is one scale of the nervous system that hosts it.

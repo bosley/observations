@@ -75,7 +75,11 @@
 
 **4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way, at the level of towns and provinces and nations, a local body answers to what is nearest it and reaches the top of the arrangement only indirectly. Nothing sits outside the whole thing running it from a single point, and yet the whole thing holds together and produces a shape.
 
-**4.34** I notice I cannot find anything particular to bodies in this.
+**4.34** I notice I cannot find anything particular to bodies in this. The same kind of arrangement seems to appear again when I look above the body and below it, so what I am seeing is not that bodies are empty of anything particular, but that the pattern appears to be analogous at scale.
+
+**4.341** Taken far enough, this seeing is what I think people lean on when they adopt occult correspondence as an internal justification, tarot, zodiac, star signs treated as relating to one’s being, and the like, where the likeness across scales is no longer held as likeness and is treated as a readable identity.
+
+**4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape I will come to later, a place where the ordinary shape of the self will not hold and a finished map across scales is taken up because it is the nearest principality.
 
 # 5. Doubt, Record, and Authenticity
 

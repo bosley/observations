@@ -247,7 +247,7 @@
 
 **9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present. 
 
-# 10. Time
+# 10. Flame and Fathom
 
 **10.0** When I ask "when is now?", the now I am asking about has already gone. The question takes time to run. By the time I have it, what I am pointing at is past.
 

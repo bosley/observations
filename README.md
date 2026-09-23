@@ -12,6 +12,10 @@ This tractate is a record of how the world appears from here where I am, not a c
 
 The numbered lines are a helpful way to reference likeness or contrast, hoping to build a coherent self-refencing work that paints the picture of reality as I am able to see it.
 
+I can't speak on anything that I don't know about. All I know is how I'm representing things in my mind, and how clear that representation maps to the reality I've experienced (1.0, 5.03, 5.14). We all make assumptions about how the minds of others work, and the only sane way for me to approach this internally is to assume they, like me, are operating with similar-enough relations, using similar-to-degree biology to host the mind (1.4, 1.5, 2.0), that we share the same unified world, in that there is an objective reality and we both map it to a degree (2.11, 5.0).
+
+I'm not speaking with authority over others, only with authenticity of self, in which I can say I believe what I claim here because I claim it as truthfully as I can understand it (6.1, 6.2).
+
 ## On AI
 
 AI is a tool I use. Not as the source of any of this, but as an aide for formatting and argumentation. I sometimes use it to turn speech-to-text into consistent prose, and I use it to argue against my points so I can see where they fail. I do this in software I made for my own work and purposes, called [Insula](https://insulalabs.io). 

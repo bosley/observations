@@ -101,6 +101,8 @@
 
 **5.14** Doubting all of this at once leaves very little to be believed. What is left to work from is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected. I read it with an instrument conditioned by stories (2.2, 3.6). A given account can be held up to it. It is not a view from outside that conditioning.
 
+**5.141** "Hardened" here is relative. It means only durable compared to recall (5.03), not fixed the way bone is fixed (4.01). The record can still be destroyed or altered (3.2), and it is reached only through a reader it did not produce alone (7.2).
+
 **5.15** Safer inferences get built from this hardened record. The same operation as 5.03, run now at the scale of a principality: motivations read off of what was actually done, weighed against worldview. It is close to the old instruction to know a thing by its fruits, though that instruction was aimed at persons and I mean it to reach as far as any principality reaches, family, town, or nation alike.
 
 **5.151** If a principality is known by its fruits, then I am myself one piece of that fruit whenever the principality I stand for is legible in what I am doing. In those moments what I do is not just mine. It becomes part of the hardened record in 5.14. This is why, when I take part willingly in a principality (employer, nation, family), I hold myself to acting as a fair representative of it. I do not choose whether I represent it; once another mind understands me to exist within that group, I am, to that mind, the concept of the principality as they hold it (like a mask). Fairness is the only part that is still mine to choose.

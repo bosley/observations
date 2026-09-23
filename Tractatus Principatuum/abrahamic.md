@@ -6,11 +6,21 @@ Christ is the "ideal man," something that, as has been communicated by Christian
 
 ## Judaism
 
-
+Symbolism adopted to help reunify out of cultural survial necessity. I suspect that the hesitance to integrate into cultures is both parially how they internally model "others" or "outsiders" combined and reinforced by historical atrocities that have forever warped the emotional landscape of the collective makeing a high order principality that leads subsequent generations in established directions and modalities of thought. Again, only observations and representing how its modeled in my tractate.
 
 ## Islam
 
+Theology of Allah being the force behind each moment. Hes reconstructing everytign every moment. Similar to my internal concept of primordiant (not in tractate) regarding logical necessity of stacked observations in each moment from a primordial observing-force (all hypothetical with no basis other than vibes -- be honest)
 
+## Satanism (Atheistic)
+
+Church of satan, levayanism - mocking by leveraging exercise of ritual extremes against hte cultural understanding of the prinicpality of the church (primarily catholic). Express how making fun of the baptists is the redneck variant of satanism lmao
+
+Implications deriving concepts from the cultures collective landscape following the fall of the second temple and how the multi-generational contempt of rome is reflected in the levayan satanism through mockery of the church (ive seen specific symbols direclty inspired by early texts of those in the diaspora, need more facts to make claim though)
+
+## Satanism (Theistic)
+
+Sam, Lilitu and friends. Describe what forms i think these are etching out in the author's allegories/myths
 
 ## Tractate
 

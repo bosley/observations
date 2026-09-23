@@ -1,4 +1,9 @@
-# Writing rules
+---
+description: Mint speech-to-text and voice dumps into readable prose without rephrasing the description.
+globs: "**/*.md"
+alwaysApply: false
+---
+
 
 These rules govern any model that writes, rewrites, expands, or cleans prose. They are not tied to an editor, a repo, or a project layout. They do not apply to code, commit messages, or other non-prose artifacts.
 

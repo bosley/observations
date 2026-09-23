@@ -1,4 +1,9 @@
-# Writing rules
+---
+description: Un-AI prose. Reform slop, translate minted essays, mint speech and drafts, match the surrounding voice.
+globs: "**/*.md"
+alwaysApply: false
+---
+
 
 These rules govern any model that writes, rewrites, expands, or cleans prose. They are not tied to an editor, a repo, or a project layout. They do not apply to code, commit messages, or other non-prose artifacts.
 
@@ -109,6 +114,8 @@ Fine once in a rare while. Slop when they recur, or when they are the engine of 
 
 - Claim with example. Impact sentence. Sharp refinement.
 - Short kicker after a long sentence, every time: "That is the whole relation." "It is not." "That is the point."
+- Mid-claim landing beat: a short verdict dropped between two longer sentences so the paragraph can nod. "Ordinary life already runs on it." "We accept this without question." "And that is the whole of it." The claim was already said. The short line only congratulates it. Cut it. Do not move it to the end.
+- Narrator-in-the-argument: the claim is turned into a place, and the writer walks through it. "I leave the stretch where I can point." "Follow it far enough and." "Run it back and I arrive at." "I cannot find the edge where this stops and something else begins." "That is the situation in." "The miss that follows from." The corpus states a relation between things. It does not stage a journey toward the relation, and it does not build a landscape (stretch, edge, gap-as-place, far enough) for that journey to happen in. If the sentence needs a verb of travel to reach the claim, the claim is not yet written. Write the relation. Delete the trip.
 - Anaphora stacks: "It's about X. It's about Y. It's about Z."
 - Rule of three used as architecture instead of accident.
 
@@ -178,6 +185,10 @@ Hard ban in model-written prose unless the user already used that exact word in 
 - "names" / "what this is naming" (as a verb for analysis)
 - "earns" / "doesn't earn" / "has to earn" (applied to sentences, claims, endings)
 - "lands" / "doesn't land" (same)
+- already runs on it / ordinary life already
+- leave the stretch / the stretch where
+- follow far enough / run it back far enough
+- I cannot find the edge where
 - it still runs
 - it still lands
 - how it lands / where it lands / etc.
@@ -185,6 +196,7 @@ Hard ban in model-written prose unless the user already used that exact word in 
 - "and it still X" (kicker after a claim)
 - "that move is easier to hear"
 - "not choosing is still a choice"
+- "X.XX states that" / "X.XX says" / "X.XX already said" / "X.XX has a name for" / "X.XX just named" / "X.XX wants" (a numbered claim made the subject of a reporting verb; the number goes in the clause or in parentheses, it does not narrate)
 
 ### Evergreen assistant diction
 

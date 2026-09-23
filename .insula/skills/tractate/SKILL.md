@@ -9,14 +9,15 @@ The work lives in `Tractatus Principatuum/`. The page is `tractate.md`. `todo.md
 
 This is statement work. Continuous-prose habits do not transfer. The page is the corpus.
 
-## Load before writing or rewriting
+## Rules are not optional
 
-Read these in full before any sentence is proposed or placed:
+Before any sentence is proposed, placed, or rewritten, read `.insula/rules/writing.md` in full in this turn. Not a range. Not the cadence section. The file. If that read has not happened in this turn, do not draft. Do not edit `tractate.md`. Do not answer a voice question from memory of the rules.
 
-1. `.insula/rules/writing.md` — modes, idiolect extraction, statements, banned cadences and words.
-2. `.insula/rules/dictation.md` — only when the input is speech-to-text, a transcript, or a voice dump. Ironing and rephrasing are different jobs. Do not mix them.
+Read `.insula/rules/dictation.md` in full in this turn when the input is speech-to-text, a transcript, or a voice dump. Ironing and rephrasing are different jobs. Do not mix them. Do not read it "just in case" on an essay and then treat that as having done the writing rules.
 
 If those files and this skill conflict, the rules win on voice and cadence. This skill wins on tractate form and on which job is being done.
+
+A draft written without that read is a failed draft even if the sentences look fine. Delete it and start over after the read. Do not patch the one line the user caught and call the rest compliant.
 
 ## Reddit writing
 
@@ -52,7 +53,8 @@ Extract from `tractate.md`, not from a portrait and not from `todo.md`.
 
 - First person. "I think," "I notice," "I will call it." Rare "we," and only for a term being named, not a lectern.
 - One claim per integer. Bold number, then the sentence or two that do that claim's job. A subpoint specifies. It does not restate the parent in a new metaphor.
-- Cross-cites are part of the grammar: `(4.32)`, `6.16`, `the way 3.3 describes`. Cite a number that is on the page. Do not cite a number you are about to invent.
+- Cross-cites are part of the grammar: `(4.32)`, `6.16`, `the way 3.3 describes`, `By 5.151`. Cite a number that is on the page. Do not cite a number you are about to invent.
+- A number is a marker, not a speaker. When a mint or a rephrase asks for the justification to be embedded, work the number into the clause (`the remnant across a gap (7.1)`) or set it parenthetically at the point it justifies. Do not hand the number a verb: "7.4 states that," "4.34 already said," "11.3 just named," "9.132 wants." Nobody talks that way, and the page does not either. If the sentence only exists to report what the other number said, the sentence is the failure. Fold the number in and let the claim stand on its own.
 - Local nouns stay local once named: principality, remnant, soft system, hard system, weight, emotional landscape, singularity, flame, fathom, chosen, placed, mitigation. Do not rotate them through synonyms. Do not upgrade them.
 - Analogies are one move, then a return. Temperature, bone, towns. The likeness is held as likeness. 4.341 is the failure mode: likeness treated as readable identity.
 - Register jumps without a gear-change sentence. A stiff term can sit next to "sort of" or "I don't think."
@@ -113,7 +115,7 @@ Signal: "where did I say," "cite the place," "check this against," "does this co
 Before handing back written propositions:
 
 - One job per integer. No slogan. No reddit writing: no beat-then-punch, no turn, no button, no stack of three. Grep the draft against the banned cadences in writing.md. If a line could close a post, it does not go on the page.
-- Every parenthetical number exists in `tractate.md`.
+- Every parenthetical number exists in `tractate.md`. No number is the subject of a reporting verb. "X.XX states that," "already said," "just named," "wants" are the failure even once. The number sits in the clause or in parentheses.
 - No new noun where the page already has one.
 - The likeness is still a likeness, unless they explicitly asked to cross 4.341.
 - Source speech, if any, was ironed before it was rephrased, and the two passes were not collapsed.

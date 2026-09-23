@@ -14,13 +14,13 @@
 
 **1.6** My memories, though products of the mind, are in some way stored in the physical body in such a way that destruction or modification of that physical makeup of memories impacts the ability to recall those memories.
 
-**1.61** In what gets called dense autobiographical amnesia, the recall is removed, and I cannot find what would still constitute the "I" I conceive of if "I" is my mind with respect to time. What remains to drive the person is habit, and the rest of what the nervous system has had written into it.
+**1.61** In what gets called dense autobiographical amnesia, the recall is removed, and I cannot find what would still constitute the "I" I conceive of if "I" is my mind with respect to time. What remains to drive the person is habit, and the rest of what the nervous system has had impressed into it.
 
 **1.62** If all recall were to be removed from me, the various impacts my habits have had on my physical makeup would drive my emotions and various abilities to control said emotions (oral fixation demands, and other areas affected by the nervous system).
 
 **1.63** Similarly, without the unconscious bodily memory being mitigated or controlled in every given moment, the current "I" would cease to be in favor of a different variant of "I."
 
-**1.64** The "I" that constitutes my self is then seemingly a property of not only a mind-body feedback system, but also a property of two modalities of mind that are differentiated by their means of storing memory. One being the storage of information that we can freely recall (thoughts, sensory recordings), and one being the storage of information that is written on us by environment (habits, etc).
+**1.64** The "I" that constitutes my self is then seemingly a property of not only a mind-body feedback system, but also a property of two modalities of mind that are differentiated by their means of storing memory. One being the storage of information that we can freely recall (thoughts, sensory recordings), and one being the storage of information that is imprinted on us by environment (habits, etc).
 
 ## 2. Other beings and communication
 
@@ -44,11 +44,10 @@
 
 **3.2** Those things I can encounter with my senses the way I encounter anything else outside my body. Their physical makeup can be destroyed or modified, and when it is, what the stories can still attest to changes with it, in the way that modification of the physical makeup of my memories impacts what I can recall.
 
-**3.3** There is another kind of remnant that does not exist in the environment as an object that I can inspect. It is in the language I was given, in what the beings around me do without stopping to tell the story, in arrangements that were already producing conduct when I arrived. This was written onto me by that environment of other beings, the way habits are written onto the body.
+**3.3** There is another kind of remnant that does not exist in the environment as an object that I can inspect. It is in the language I was given, in what the beings around me do without stopping to tell the story, in arrangements that were already producing conduct when I arrived. This was impressed onto me by that environment of other beings, the way habits are imprinted onto the body.
 
-**3.31** That this writing crosses the limit in 1.3 does not remove the limit. One thing can be written into another without the two becoming the same thing. The environment remains outside the body. What crosses is a writing, not the boundary.
 
-**3.4** If the physical remnants were gone, that writing would still be driving what gets done and felt, in the way that if recall were removed from me the impacts of habit would still be driving a variant of the "I." If that writing is never contended with, it is what determines how the physical remnants get taken up into the stories that get passed down.
+**3.4** If the physical remnants were gone, that impress would still be driving what gets done and felt, in the way that if recall were removed from me the impacts of habit would still be driving a variant of the "I." If that is never contended with, it is what determines how the physical remnants get taken up into the stories that get passed down.
 
 **3.5** History, as it reaches me, is the story passed down through those two, the physical remnant and the social remnant, which line up with the two modalities of storing memory. I cannot physically interact with what the stories are about, the way I cannot physically interact with thoughts. The story can move what bodies do. The remnants are where it appears to be hosted. In that way the arrangement is analogous to mind.
 
@@ -66,7 +65,7 @@
 
 **4.1** This is of a kind with 3.5: bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object, and the nervous system stands in the place of the social remnant, not an object at all but a disposition already producing conduct before I stopped to notice it, the way 3.3 describes.
 
-**4.2** The habits from 1.62, the ones that would go on driving a variant of "I" even with all recall removed, are then probably just this soft system's version of that unrecalled writing. And bone, on this reading, is what would be left once even that stopped.
+**4.2** The habits (1.62) that would go on driving a variant of "I" even with all recall removed, are then probably just this soft system's version of that unrecalled imprint. And bone, on this reading, is what would be left once even that stopped.
 
 **4.3** But looking closer at the soft system, I don't think it is one undifferentiated thing that simply changes as a whole. When something in it shifts, a cluster of related responses shifts with it, not the whole system at once. And these clusters seem to belong to larger clusters, which belong to larger ones again, without my having called a meeting to arrange it that way.
 
@@ -96,7 +95,7 @@
 
 **5.13** If a mind is bound up in a principality (4.31–4.33), the doubt does not stop at the one mind. It has to extend to the whole principality, since no principality answers only to itself, and what a story carries in from its assumptions may belong to the group as much as to the single mind that spoke it.
 
-**5.14** Doubting all of this at once leaves very little to be believed. What is left to work from is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected. I read it with an instrument written by stories (2.2, 3.6). A given account can be held up to it. It is not a view from outside the writing.
+**5.14** Doubting all of this at once leaves very little to be believed. What is left to work from is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected. I read it with an instrument conditioned by stories (2.2, 3.6). A given account can be held up to it. It is not a view from outside that conditioning.
 
 **5.15** Safer inferences get built from this hardened record. The same operation as 5.03, run now at the scale of a principality: motivations read off of what was actually done, weighed against worldview. It is close to the old instruction to know a thing by its fruits, though that instruction was aimed at persons and I mean it to reach as far as any principality reaches, family, town, or nation alike.
 
@@ -104,7 +103,7 @@
 
 **5.152** This does not hold evenly across every moment. I am some representative of every principality I belong to at all times, in the sense that I cannot step outside 5.13's claim that the principality is bound up with the mind. But in most situations that membership sits in the background and is not what is under scrutiny. It is in the situations where the membership itself is foregrounded, where what is being watched is not just me but me-as-employee, me-as-countryman, me-as-family, that 5.151 applies with any real force, since those are the situations that actually get read into the record 5.15 draws inferences from.
 
-**5.16** A principality's own account of itself carries its assumptions forward undoubted (3.6). What answers that account is the hardened record, in the limited sense 5.14 allows, and the answering is still done with a writing. This holds whether the principality in question is a nation writing its own history or a single mind, as in 5.151, standing as one instance of the record by which a principality it belongs to is known.
+**5.16** A principality's own account of itself carries its assumptions forward undoubted (3.6). What answers that account is the hardened record, in the limited sense 5.14 allows, and the answering is still done with an impress. This holds whether the principality in question is a nation writing its own history or a single mind, as in 5.151, standing as one instance of the record by which a principality it belongs to is known.
 
 **5.17** A mind, or a principality, is authentic so far as the story it tells of itself stays close to the hardened record of what it actually produced. Where the two come apart, the gap is what authentic and inauthentic are measuring. A gap is not, by itself, a lie (5.1).
 
@@ -112,9 +111,9 @@
 
 **6.0** "Self" is the "I" that my mind (1.0–1.1) understands itself to be.
 
-**6.01** That understanding is of both modalities of memory in 1.64. Part of what makes up "I" is never recalled at all. It is written into the body as habit, and it drives a variant of "I" even where recall is gone (1.61–1.62).
+**6.01** That understanding is of both modalities of memory in 1.64. Part of what makes up "I" is never recalled at all. It is imprinted into the body as habit, and it drives a variant of "I" even where recall is gone (1.61–1.62).
 
-**6.02** 5.03 said a representation of another mind has to keep getting refined, because I cannot reach that mind's own recall of itself. I have some access to my own recall. I do not have the same access to my own habit. The soft system in 4.02 writes itself into me largely without my noticing, the same way it does in anyone else. My understanding of myself is under the same refinement. The gap is smaller. It is not closed.
+**6.02** 5.03 said a representation of another mind has to keep getting refined, because I cannot reach that mind's own recall of itself. I have some access to my own recall. I do not have the same access to my own habit. The soft system in 4.02 conditions itself into me largely without my noticing, the same way it does in anyone else. My understanding of myself is under the same refinement. The gap is smaller. It is not closed.
 
 **6.03** For another mind, the way past that gap was to read the hardened record instead of the story (5.15). Nothing rules that method out for my own mind. So far as I know myself honestly, I know myself by reading what I have actually done, not by consulting what I already believe about myself.
 
@@ -124,7 +123,7 @@
 
 **6.1** Apply 5.17 to the self: an authentic self is one whose story of itself stays close to its own hardened record.
 
-**6.11** 5.17's authenticity is a comparison made at a moment. The soft system does not hold still (4.32). It keeps organizing whatever happens next along lines laid down earlier, whether I am aware of it or not. A self is being written even while the comparison is being made.
+**6.11** 5.17's authenticity is a comparison made at a moment. The soft system does not hold still (4.32). It keeps organizing whatever happens next along lines laid down earlier, whether I am aware of it or not. A self is being shaped even while the comparison is being made.
 
 **6.12** So the comparison in 6.1 has to run the way 5.03 runs it for other minds: continually, each new piece of record folded back in to correct the story.
 
@@ -162,13 +161,13 @@
 
 **7.1** `contact error`: I never meet a mind, or what a story is about, directly. I meet a remnant of it, across the gap in 5.0 (3.5, 5.03). I miss when I take the remnant, or the story told about it, for the thing itself.
 
-**7.2** `reader error`: the reader I read with was written by what I am reading. Communication embedded assumptions in me before I could examine them (2.2, 2.3), and those assumptions are in how I take the remnants (3.6). What goes wrong was written into the reader before any sensing, which is why 5.14 will not let the hardened record sit clear of the story.
+**7.2** `reader error`: the reader I read with was conditioned by what I am reading. Communication embedded assumptions in me before I could examine them (2.2, 2.3), and those assumptions are in how I take the remnants (3.6). What goes wrong was impressed into the reader before any sensing (5.14).
 
-**7.3** `inscription error`: I have two ways of storing what has happened to me (1.64). I tell the story of myself in the one I can recall. The other, the writing, drives me without being recalled (1.61–1.62, 6.02). I miss when I take the recalled story for the whole of what is driving me. Here the writing landed where recall cannot reach (in 7.2 it landed in the reader).
+**7.3** `inscription error`: I have two ways of storing what has happened to me (1.64). I tell the story of myself in the one I can recall. The other, the imprint, drives me without being recalled (1.61–1.62, 6.02). I miss when I take the recalled story for the whole of what is driving me. Here the imprint landed where recall cannot reach (in 7.2 it landed in the reader).
 
-**7.4** `scale error`: the nesting in 4.31–4.33 is not, so far as I can see, particular to bodies (4.34). If that holds, then "body," and likewise "I" and "person," are one scale of a pattern that also appears `above and below them`. I miss when I take the scale I happen to be standing on for the whole pattern. A writing can cross from one scale to another without the two becoming one (3.31).
+**7.4** `scale error`: the nesting in 4.31–4.33 is not, so far as I can see, particular to bodies (4.34). If that holds, then "body," and likewise "I" and "person," are one scale of a pattern that also appears `above and below them`. I miss when I take the scale I happen to be standing on for the whole pattern. An impress can cross from one scale to another without the two becoming one (3.31).
 
-**7.5** An observer is a principality reading other principalities' remnants, with a reader those remnants had a hand in writing (7.1, 7.2). Observation is a second reading of a remnant.
+**7.5** An observer is a principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning (7.1, 7.2). Observation is a second reading of a remnant.
 
 # 8. Finding Meaning
 
@@ -184,11 +183,11 @@
 
 **8.2** I choose, and it is chosen for me, and both are in operation. 6.16 is the order I set when I stop and set it. 6.17 is an order arriving whether I stop or not, from whichever standard is nearest. 5.151 is the part I do not decline: once I am read as inside a principality, I am its fruit.
 
-**8.21** The self is being written either way (6.11). What the effort can change is how much of that writing goes through unexamined. I will call that mitigation.
+**8.21** The self is being shaped either way (6.11). What the effort can change is how much of that shaping goes through unexamined. I will call that mitigation.
 
-**8.22** The principalities I am fruit of are not all the same from where I stand. Call one `chosen` when the foregrounding in 5.152 is something I can find myself having done: a membership I can point to as mine to take up or set down. Call one `placed` when the foregrounding is already there before any such pointing, and what I can find is only that I am already being read as inside it. Body, family, the tongue I was written in (2.2) are the plain cases of placed.
+**8.22** The principalities I am fruit of are not all the same from where I stand. Call one `chosen` when the foregrounding in 5.152 is something I can find myself having done: a membership I can point to as mine to take up or set down. Call one `placed` when the foregrounding is already there before any such pointing, and what I can find is only that I am already being read as inside it. Body, family, the tongue I was conditioned in (2.2) are the plain cases of placed.
 
-**8.23** Chosen and placed are relative to the observer, and they do not stay put. An observer is a principality reading other principalities' remnants (7.5). From where I stand a membership can look chosen, and from the principality that reads me the same membership can look placed: I was their fruit before I called the taking-up mine. From a third it may not show as membership at all. Taking the scale I stand on for the whole pattern is the miss in 7.4. A placed one can later be chosen, in that I stop and keep it by 6.16 instead of merely finding it on me. A chosen one can harden into placed, once the writing has gone on long enough that setting it down is no longer something the record will show as available.
+**8.23** Chosen and placed are relative to the observer, and they do not stay put. An observer is a principality reading other principalities' remnants (7.5). From where I stand a membership can look chosen, and from the principality that reads me the same membership can look placed: I was their fruit before I called the taking-up mine. From a third it may not show as membership at all. Taking the scale I stand on for the whole pattern is the miss in 7.4. A placed one can later be chosen, in that I stop and keep it by 6.16 instead of merely finding it on me. A chosen one can harden into placed, once the conditioning has gone on long enough that setting it down is no longer something the record will show as available.
 
 **8.3** A more authentic self, on 6.2, has set its standards and is working to meet them. The fruit is better only by that standard. By 6.4 that fruit does not stay private. Once membership is foregrounded (5.152) it is already part of the record the principality is known by (5.15, 5.151).
 
@@ -198,7 +197,7 @@
 
 **8.4** I do not need to be rewarded explicitly. An explicit reward would be another story about the act, and 5.17 is the measure of a story that has come apart from the record. If I wait to feel paid before the record is written, the feeling has been made the condition of the ideal entering the fruit (6.31).
 
-**8.41** I may not feel the consequence while I am in it. The story I can recall and the writing that drives me without recall are not the same (7.3). The habit in 8.01 asks what I will get because that is how the soft system was constructed, and mitigation often does not answer in that coin. What 5.14 will count is a change in what gets left behind. Refinement is one of the few changes in that leaving I can still choose to make. The rest is being chosen for me.
+**8.41** I may not feel the consequence while I am in it. The story I can recall and the imprint that drives me without recall are not the same (7.3). The habit in 8.01 asks what I will get because that is how the soft system was constructed, and mitigation often does not answer in that coin. What 5.14 will count is a change in what gets left behind. Refinement is one of the few changes in that leaving I can still choose to make. The rest is being chosen for me.
 
 **8.5** The principality may not notice the mitigation, may not repay it, and may punish the correction. The line is in the record anyway. 8.3 does not depend on being noticed. If I take the notice as the reason, I have made a story the measure, which 5.15 treats as the less safe inference.
 
@@ -210,13 +209,13 @@
 
 **9.01** Weight is stored in the soft system (4.02) of the mind that meets the subject. The subject is the key that releases it. It is not the source of it.
 
-**9.02** Weight is installed the way anything is written into the soft system: by repetition and consequence accumulating past the point where the mind was tracking it (4.32). The recalled story may have no clear account of why a given subject carries what it carries. The writing is there regardless (7.3).
+**9.02** Weight is installed the way anything is conditioned into the soft system: by repetition and consequence accumulating past the point where the mind was tracking it (4.32). The recalled story may have no clear account of why a given subject carries what it carries. The imprint is there regardless (7.3).
 
-**9.03** The spectrum of weight runs from mild to extreme. At the low end a subject produces a small perturbation, a spring that returns quickly, with little written on the soft system to sustain it. At the high end the writing has extended past sensory contact to the representation itself, and a symbol, a word, an abstraction is enough to release what the original encounter installed. The more extreme the original consequence, and the deeper it was written, the more abstract the trigger can become while still releasing the full response.
+**9.03** The spectrum of weight runs from mild to extreme. At the low end a subject produces a small perturbation, a spring that returns quickly, with little impressed on the soft system to sustain it. At the high end the impress has extended past sensory contact to the representation itself, and a symbol, a word, an abstraction is enough to release what the original encounter installed. The more extreme the original consequence, and the deeper it was imprinted, the more abstract the trigger can become while still releasing the full response.
 
-**9.031** At sufficient magnitude, the writing does not stop at the soft system. It crosses into the hard system (4.01), the body. Somatic responses, structural changes that go beyond habit and closer to bone. At that depth the writing is no longer something that updates the way the soft system does. It is closer to something acted on than something acting. The response at that level may not be mitigable the way a soft-system inscription is. The recalled story has even less access to what is driving it than 7.3 describes.
+**9.031** At sufficient magnitude, the imprint does not stop at the soft system. It crosses into the hard system (4.01), the body. Somatic responses, structural changes that go beyond habit and closer to bone. At that depth the imprint is no longer something that updates the way the soft system does. It is closer to something acted on than something acting. The response at that level may not be mitigable the way a soft-system inscription is. The recalled story has even less access to what is driving it than 7.3 describes.
 
-**9.04** When a response exceeds what the subject warrants on its own, the excess is coming from something the other mind has encountered and associated with it. The magnitude of a response indicates the weight carried, and the weight carried indicates what the soft system has had written into it, whether or not the recalled story can account for it.
+**9.04** When a response exceeds what the subject warrants on its own, the excess is coming from something the other mind has encountered and associated with it. The magnitude of a response indicates the weight carried, and the weight carried indicates what the soft system has had impressed into it, whether or not the recalled story can account for it.
 
 **9.05** When I am attending to another mind's motivations and the response I meet is disproportionate, the disproportion is information about the mind. The subject was the activating function. What the response shows me is that there is something else there.
 
@@ -234,12 +233,12 @@
 
 **9.131** This structure has been observed before under different names. In certain occultic literature the region I am describing as a singularity appears in representations of Choronzon — referred to by Aleister Crowley as the Dweller in the Abyss. As I read it, Choronzon is not a moral evil but a name for the formlessness that exists where the architecture of a mind's self-understanding fails. The Abyss in that cosmology is the region where the accumulated structure of the self dissolves. Rather than a place of knowledge its a place where the process responsible for `the ability to know` breaks down. That is the singularity at its maximum.
 
-**9.132** The rituals of deliberate self-induced extremity that appear in that tradition are, as I take it, attempts to rapidly rewrite the emotional landscape by force. If weight is installed by consequence and experience (9.02), then deliberately induced extreme experience is a method of collapsing existing geometry and installing new high-weight notions in its place, essentially navigating the landscape by destabilizing it. Whether the method achieves what its practitioners intend is a separate question. The internal logic of why one would attempt it is coherent within this framework. This also connects to the scaling observation in 7.4, that the pattern visible `above and below` the individual scale may apply here too. The singularity in a single mind, in a culture, in a civilisation, may follow the same geometry.
+**9.132** The rituals of deliberate self-induced extremity that appear in that tradition are, as I take it, attempts to rapidly recondition the emotional landscape by force. If weight is installed by consequence and experience (9.02), then deliberately induced extreme experience is a method of collapsing existing geometry and installing new high-weight notions in its place, essentially navigating the landscape by destabilizing it. Whether the method achieves what its practitioners intend is a separate question. The internal logic of why one would attempt it is coherent within this framework. This also connects to the scaling observation in 7.4, that the pattern visible `above and below` the individual scale may apply here too. The singularity in a single mind, in a culture, in a civilisation, may follow the same geometry.
 
 **9.133** The fact that this structure has been arrived at independently, from a direction with no overlap with the one taken here, is itself worth noting. It is not offered as authority. It is offered as corroboration.
 
 **9.2** When I observe this across many minds, certain regions produce the same or similar distortion repeatedly. A singularity particular to one mind tells me something about that mind's history. A singularity that appears in the same region across many minds signals to me something about the territory. The weight is not particular to any one history, rather it is a property of the region itself.
 
-**9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often written in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier that acts as a pushing force to drive away contemplation.
+**9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often impressed in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier that acts as a pushing force to drive away contemplation.
 
-**9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was written in by the principalities that installed the account (4.32), before the "I" who might have examined it was present. 
+**9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present. 

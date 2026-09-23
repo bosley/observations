@@ -287,8 +287,6 @@
 
 **11.12** Prior to time, there is no point left at which a record of the cup, or of anything else, can be identified by me or by anyone I can still ask. I do not know what is there. Another event of the same kind, put in that place, is only one more point in the record.
 
-**11.121** I have the notion that "information can not be created or destroyed" which forces me to `fathom` that information itself exists as a "type of being" outside the boundaries of the material object.
-
 **11.2** There is a different question, and it does not look at the steps of time before the holding of the cup. If we remove time as we did in examining "now" (10.1), then in that instant the cup is up because my arm is under it, and the arm is under it because the muscles are pulling, and the muscles are pulling because something is telling them to, and all of that is present together. I can take my attention off the telling and the cup is still up. I cannot take the arm out and have the cup still be where it is.
 
 **11.21** A group of things that depend on each other has an effect none of them has alone. One particle moving is not a temperature. A lot of them moving together is, sort of. The "holding of the cup" in 11.2 is that kind of group, and it is the same arrangement at another scale (4.34, 4.33). Nothing in the group is the group.
@@ -300,3 +298,9 @@
 **11.32** The holding and the history are not the same question. I can give the whole record of how the cup got into my hand and still not have said what is keeping it up in this instant, and I can say what is keeping it up and still not have said where it was before.
 
 **11.4** When I sit with either question, I seems to beg asking for something if another kind. Another event in the record has not ended the record (11.12), and another member of the group has not held the instant, it has only been one more thing that also has to be held.
+
+**11.41** I want a word for what 11.12 and 11.4 both keep asking after and do not find in the record or in the group. I will call it the Primordiant. The superset from which abstractions and implementations emerge. It preceded the beginning of time, and it is holding every present instant.
+
+**11.411** Prior to time there is no point left at which a record can be identified (11.12). Putting another event in that place only adds a point to the record. The Primordiant is what I am pointing at when the record has run out and I still have not found a thing with no prior (11.0).
+
+**11.412** In the instant, another member of the group has not held the instant (11.4). A fathom is the span a flame takes (10.12), and the flame is attention (10.2), so a fathom is already a mind able to fathom. At that first one, however much time had to go by before there was a mind that could, the patterns the fathom is of have to already be there, and whatever makes those patterns has to already be there too, or the fathom has nothing to be of. That may only be where I am standing, a limit of what I can possibly know. For the sake of the operation I assume it. The Primordiant is what is holding that, and what it holds are the patterns, for the sake of the fathom.

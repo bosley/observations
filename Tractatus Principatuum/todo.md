@@ -28,6 +28,8 @@ That keeps the project from being read as more supernatural-committed than I mea
 
 Not a new argument. One reference page: principality, weight, singularity, remnant, flame, fathom, Primordiant, contact error, reader error, inscription error, scale error. Each entry cites the proposition that installed the term, so later revision and later fiction do not drift off the technical sense.
 
+should we declare "fruit" being an "active record" ? i kind of use it as "active record" with a smuggled-in sense of "good"
+
 ## Feedback
 
 Notions close to your content that I don't see fully developed

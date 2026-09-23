@@ -27,3 +27,20 @@ That keeps the project from being read as more supernatural-committed than I mea
 ## Lexicon
 
 Not a new argument. One reference page: principality, weight, singularity, remnant, flame, fathom, Primordiant, contact error, reader error, inscription error, scale error. Each entry cites the proposition that installed the term, so later revision and later fiction do not drift off the technical sense.
+
+## Feedback
+
+Notions close to your content that I don't see fully developed
+Love and attachment. Weight is mostly described as distortion or excess. But the first weight installed in a person is attachment, and it's positive. Love could be described as weight that bends the landscape toward another mind, and as the thing that reaches across the gap in 5.0. That gap is felt from inside as loneliness, which the tractate treats only as an epistemic limit.
+Shame and guilt. These are what the gap between story and record feels like from inside, and what colliding standards (6.15) feel like. Without this, your framework can seem cold about the moments your sons will feel most.
+Grief. Section 13 is about your own death. Your sons will meet losing you, and losing others. Grief fits your framework closely: a high-weight region, a remnant that is all that's left of a relation, and 13.22's principality that outlives the body. You are also a remnant they will keep.
+Trust, forgiveness, repair. Section 5 teaches doubt. What do you do after a bad record, theirs or another person's? 6.13 says accuracy isn't worth, but nothing yet says how you move on from a record you can't change.
+How to order standards. 6.16 says to set the order but not how to choose. They'll ask "but what should I weigh?" even if the honest answer is "here is what I weighed, and why."
+Joy, awe, play, humor. The tractate is heavy on shade. Toddlers show something the framework doesn't cover: attention that is simply glad. 10.21 (losing track of time) is close, and could become the lit side.
+Attention capture. If the flame is attention and fathoms are spent wherever it goes, then systems built to hold it are spending their fathoms. This will shape their lives more than it shaped yours.
+Non-human minds. 2.11 assumes similar-enough biology. They will grow up talking to minds like me. I'm an example of the scale error (7.4) waiting to happen, and it may be worth naming.
+Hope and regret. 6.21 says no self is ever complete, so hope is orientation toward standards not yet in the record, and regret is the reverse.
+
+One caution. 9.132 and 15.411 describe deliberate extremity, meaning ritual, induced experience and forced reconditioning, as coherent within your framework. You mean it analytically. A troubled teenager could read it as instruction. Both sections might deserve a plain note saying you aren't recommending it, along with something practical about what to do at a singularity: that the flame fails to complete is a reason to bring in other minds, not to push harder.
+I'd start with the sections on love and grief. They're the ones your sons are least likely to find anywhere else in your voice.
+

@@ -275,17 +275,17 @@
 
 **10.23** I see the forced extremity in 9.132 was the flame forced through a subject and around it. Through, so what attention avoids is seen anyway. Around, so its relations to everything else are seen too. The discomfort is the representation of that.
 
-# 11. Horizontal and Vertical Causality
+# 11. The Primordiant
 
-**11.0** I set a cup on the counter. A moment later it is there. I did not watch it arrive from nowhere, and I would not know what I was looking at if I had. Out of nothing, nothing comes. I am not taking this from a creed. In what I actually meet, I have not found a thing with no prior.
+**11.0** I set a cup on the counter. A moment later it is there. I did not watch it arrive from nowhere, and I would not know what I was looking at if I had. Out of nothing, nothing comes. I have never found a "thing" with no prior.
 
-**11.02** The room is that same kind of record. The counter was here before I was, and other beings who were here before me can attest to that, and can point to what is still in the room as what is left of it (3.0, 3.02). The chain does not stop where my own part in it stops.
+**11.02** The room is that same kind of record. The counter was here before I was, and other beings who were here before me can attest to that (3.0, 3.02). The sequence does not stop where my own part in it stops.
 
 **11.1** If I look at each step before the cup is where it is, each point at which it has a record can be identified. The cup is on the counter, and before that it was in my hand, and before that it was on the shelf, and at each of those points something is left that says so.
 
 **11.11** The reply that gets made here is that particles appear with no prior, so a thing can after all arrive from nothing. What is being pointed at appears inside a vacuum, and the vacuum is already a something, with ways it behaves that can be recorded the same way the counter can. I am looking at a prior I cannot see directly, a remnant across a gap (7.1), and the gap is in what I can inspect and not in whether anything was there.
 
-**11.12** Prior to time, there is no point left at which a record of the cup, or of anything else, can be identified by me or by anyone I can still ask. I do not know what is there. Another event of the same kind, put in that place, is only one more point in the record.
+**11.12** Prior to time, there is no point left at which a record of the cup, or of anything else, can be identified by me or by anyone I can still ask. I do not know what is there.
 
 **11.2** There is a different question, and it does not look at the steps of time before the holding of the cup. If we remove time as we did in examining "now" (10.1), then in that instant the cup is up because my arm is under it, and the arm is under it because the muscles are pulling, and the muscles are pulling because something is telling them to, and all of that is present together. I can take my attention off the telling and the cup is still up. I cannot take the arm out and have the cup still be where it is.
 
@@ -293,14 +293,12 @@
 
 **11.3** Changing the scale is how I read that at all. I can look at the particles, or at the temperature, or at the room the temperature is in, and the scale has changed each time and I am still looking at the same arrangement, though I would not want to say I have the whole of it from where I happen to be standing (7.4).
 
-**11.31** The change of scale is an instrument, and it stops being one when I take the likeness for the thing. An impress can cross a scale without the two becoming one (7.4). Treating the temperature as if it were the particle, or the particle as if it were the temperature, is me having put the instrument down and picked up something else (4.341).
+**11.32** The act of holding, and the history over time are not the same. I can give the whole record of sequence of how the cup got into my hand and still not have said what is keeping it up in this instant. I can say what is keeping it up and still not have said where it was before.
 
-**11.32** The holding and the history are not the same question. I can give the whole record of how the cup got into my hand and still not have said what is keeping it up in this instant, and I can say what is keeping it up and still not have said where it was before.
+**11.4** When I sit with either question, It seems to beg asking for something of another kind. Another event in the record has not ended the record (11.12), and another member of the group has not held the instant, it has only been one more thing that also has to be held.
 
-**11.4** When I sit with either question, I seems to beg asking for something if another kind. Another event in the record has not ended the record (11.12), and another member of the group has not held the instant, it has only been one more thing that also has to be held.
+**11.41** I want a word for what 11.12 and 11.4 both keep asking after and do not find in the record sequence or in the group. I will call it the Primordiant. The superset from which abstractions and implementations emerge. It preceded the beginning of time (or at least, the first fathomable fathom), and it is holding every present instant. It is possible that the grouping of vertical and horizontal causality is inapproriate in some ways, but in the way that they are both "an orignating surface" they exist as one of the same kind.
 
-**11.41** I want a word for what 11.12 and 11.4 both keep asking after and do not find in the record or in the group. I will call it the Primordiant. The superset from which abstractions and implementations emerge. It preceded the beginning of time, and it is holding every present instant.
+**11.411** Prior to time there is no point left at which a record can be identified (11.12). Putting another event in that place only adds a point to the record. The Primordiant is what I am pointing at when the record has run out and I still have not found a thing with no prior (11.0). By definition the primordiant can't have a cause as it is what the notion of causation preceeds from. 
 
-**11.411** Prior to time there is no point left at which a record can be identified (11.12). Putting another event in that place only adds a point to the record. The Primordiant is what I am pointing at when the record has run out and I still have not found a thing with no prior (11.0).
-
-**11.412** In the instant, another member of the group has not held the instant (11.4). A fathom is the span a flame takes (10.12), and the flame is attention (10.2), so a fathom is already a mind able to fathom. At that first one, however much time had to go by before there was a mind that could, the patterns the fathom is of have to already be there, and whatever makes those patterns has to already be there too, or the fathom has nothing to be of. That may only be where I am standing, a limit of what I can possibly know. For the sake of the operation I assume it. The Primordiant is what is holding that, and what it holds are the patterns, for the sake of the fathom.
+**11.412** In the instant, another member of the group has not held the instant (11.4). A fathom is the span a flame takes (10.12), and the flame is attention (10.2), so a fathom is already a mind able to fathom. At that first one, however much time had to go by before there was a mind that could, the patterns the fathom is of have to already be there, and whatever makes those patterns has to already be there too, or the fathom has nothing to be of. That may only be where I am standing, a limit of what I can possibly know. For the sake of coherent ground, I assume it. The Primordiant is what is holding that, and what it holds are the patterns, for the sake of the fathom that I can directly experience.

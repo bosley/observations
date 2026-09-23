@@ -10,6 +10,7 @@ Symbolism adopted to help reunify out of cultural survial necessity. I suspect t
 
 Facts I have not said in the note, and that the page already has a place for. Sterile, as the Christianity note asked. I am not saying the page proves any of this.
 
+- Influence in undermining vatican 2ß
 - The tongue, the family, and the people I arrive among are placed, not chosen (8.22). A membership I did not take up is already producing how I get read. Hesitance to integrate, if it is that, is a placed principality being kept, not a decision each generation sits down and makes again.
 - What gets passed when the objects are gone is the social remnant: language, conduct that does not stop to tell the story, arrangements already producing conduct when I arrived (3.3, 3.4). A people that keeps the remnant after the temple, the land, or the local dead are gone is doing what 3.4 describes. The impress drives what gets done and felt, and then it decides how the physical remnants that remain get taken up into the next story.
 - History as it reaches me is those two remnants lined up (3.5). I do not meet the people the stories are about. I meet the remnant (7.1, 5.0). "Outsider" and "other," as a mind inside the principality holds them, are a representation across that gap, under refinement if the record is being read, and carried forward undoubted if it is not (5.02, 5.03, 5.16).

@@ -374,3 +374,22 @@
 **13.41** I cannot help seeing that as analogous to what Christian theologians say of God: the beginning and the end, the first and the last, and the sustainer of all beings. The likeness is the shape: first of the fathom, present in the last now, sustaining the instants between. I am not necessarily stating that the Primordiant is that God. If God exists, then in my framework the Primordiant would be analogous to the Father, with his throne seated in the collective emotional landscape, that which we all share; creation, death, and every "now". That is a likeness, and I am still meeting a remnant rather than the thing (7.1, 4.341).
 
 **13.42** Other minds already have pictures of this collapse, and the pictures do not agree. In Islam, as I have met it, the moment you die you are face to face with Allah. In others, the meeting is judgment, and it waits until the end of time. Both are accounts of what the last now is a meeting with, and of when the meeting is. What is on record, in this consideration, is the series of "nows" the self mitigated while it was still fathoming. A "now" I can point at is already a remembered one (10.0, 10.01), and the fathom is the span attention took in it (10.2, 10.12).
+
+# 14. Degrees of the will
+
+**14.0** Free will is a spectrum.
+
+**14.01** True unadulterated free will is possible only to the degree the body and the established landscape of the mind can permit (4.01, 9.031, 9.12). What gets called truth is the far end of a grading, asymptotic (approached and not reached), and what I actually have are degrees of falsehood (12.21). "True" in "true free will" is affected by that.
+
+**14.1** The will that watches the record laid, and directs the path the laying happens on, can move in degrees of freedom.
+
+**14.11** Those degrees are a function of the level of authenticity of self, and of the resolution of mapping the mind has (12.01).
+
+**14.12** Only the authentic self can accurately read the record (6.03, 6.22). A self that matches its record and never set anything is consistent, and I do not call it authentic (6.3).
+
+**14.13** The mind cannot fathom what it cannot imagine by definition, and it cannot imagine what it has not experienced, as all imagination is downstream from experience and inferences made on experience (9.11).
+
+**14.2** What the act of directing does is on record where the resulting actions leave traces that other minds can illuminate (5.14, 7.1, 13.21).
+
+**14.21** That record carries no implied worth with my statement, worth is a judgement function relative to the observing mind. Accuracy and worth are different questions (6.13).
+

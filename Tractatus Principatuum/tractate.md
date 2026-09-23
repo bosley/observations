@@ -393,3 +393,32 @@
 
 **14.21** That record carries no implied worth with my statement, worth is a judgement function relative to the observing mind. Accuracy and worth are different questions (6.13).
 
+# 15. Analogy, Metaphor, and Allegory
+
+**15.0** An analogy is a likeness held as a likeness. I point at the same shape somewhere else, and then I come back. In this document thus-far `temperature` and the `fathom` are examples of this (10.11, 10.13) as are `weight` and `gravity` (9.12).
+
+**15.01** The arrangement of principalities is analogous at scale, above the body and below it (4.34). Taken far enough, that likeness is no longer held as likeness and is treated as a readable identity (4.341). Tarot, zodiac, a finished map across scales. That taking sits where a boundary already is (9.3, 10.22): attention had been pushed off the subject, and the relation was not made (12.12).
+
+**15.011** A gap is not, by itself, a lie (5.17). Crossing it at this juncture, the likeness taken for the identity, is where suspicion is the response I would want. The check is the other relations of the same shape, weighed the way 5.11 weighs a goal, until the form being identified is one that can sit in the emotional landscape (9.1) without the notions nearest it having to bend to hold it (9.12).
+
+**15.012** If that check is not made, the order that arrives is the one 6.17 supplies when I do not stop to set it (6.16, 8.1). A story can then come apart from the record by accumulation, and still not be a lie I am in a position to attribute intention to (5.11, 5.1).
+
+**15.1** A metaphor is a substitution that finishes inside one fathom (10.12), the likeness claimed as a usable identity for that span, as when the flame stands in for attention (10.2). Once the impress is deep enough, the word can release what the encounters installed, the way a symbol does at high weight (9.03).
+
+**15.11** The emotional landscape is not some loose metaphor for mood (9.1). The space is being claimed as the thing the notions sit in. A metaphor kept past that fathom has started to ask for the return an analogy asks for: that I come back, and check the likeness against what I left. Without that return, the substitution is the miss in 4.341.
+
+**15.2** An allegory does not finish inside one fathom. It is a sequence of relations. I have to go through a series of acts, distances, and consequences before the shape is outlined. A form is not a thing in-and-of itself (12.0). The flame consumes fathoms to pass through relations, and what the passing shows I could not have had from one end (12.3, 11.21). I cannot have the holding of the cup from one member of the group. I cannot have the allegory from one emblem.
+
+**15.21** Fire holds heat at one distance and scorches at another, and no second kind was added (12.32, 12.321). Taken inside one fathom, the figure is the metaphor in 15.1, and the shade is evil. Held across the distances, it is the allegory. The form shows which face I met only once I have occupied more than one of them.
+
+**15.3** An allegory can be built so that each figure stands for one proposition and the path is a quiz. Then the remnant has been taken for the thing (7.1), only later. 
+
+**15.4** Where an allegory is not that quiz, the relations are implied, and I have to put the flame to them the way I would put it to a puzzle I have not been given the key for. Each relation I pass is another line in the outline (12.01). More relations, and the resolution of the shape is finer. The form comes into view as the shape those relations outline, and I could not have had it from one of them.
+
+**15.41** The outline an allegory leaves is in the emotional landscape (9.1). Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can pass the flame through (12.12), and the passing is what can leave the territory. Repetition and consequence are how a principality gets installed (4.32). An allegory uses the same two, across a span, instead of across a life I had to be in. The metaphor finished before any of those relations had to be passed, so the outline it leaves is more coarse (12.01).
+
+**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder, a reconditioning of the emotional landscape by induced experience (9.132). Here the will directs the path the laying happens on (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands in both modalities of what the \"I\" stores (1.64): the material, as habit in the body, and the mental, as what can be recalled.
+
+**15.412** That impress can be used to refine the self toward the authentic self, or away from it (6.2, 6.22). Toward, the record shows movement on a standard the self set (6.16, 6.12). Away, the same repetition installs a shape the self did not set, and 6.3 does not call that authentic. The directing leaves a trace either way (14.2). Worth is still a separate question (14.21, 6.13).
+
+**15.42** The allegory is still a story, and a story may contain some degree of error (5.1). I read it with a reader the stories had a hand in conditioning (5.14, 7.2). If I take the shape the allegory outlined for the form it was a likeness of, I have treated the likeness as a readable identity (4.341).

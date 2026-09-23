@@ -165,7 +165,7 @@
 
 **7.3** `inscription error`: I have two ways of storing what has happened to me (1.64). I tell the story of myself in the one I can recall. The other, the imprint, drives me without being recalled (1.61–1.62, 6.02). I miss when I take the recalled story for the whole of what is driving me. Here the imprint landed where recall cannot reach (in 7.2 it landed in the reader).
 
-**7.4** `scale error`: the nesting in 4.31–4.33 is not, so far as I can see, particular to bodies (4.34). If that holds, then "body," and likewise "I" and "person," are one scale of a pattern that also appears `above and below them`. I miss when I take the scale I happen to be standing on for the whole pattern. An impress can cross from one scale to another without the two becoming one (3.31).
+**7.4** `scale error`: the nesting in 4.31–4.33 is not, so far as I can see, particular to bodies (4.34). If that holds, then "body," and likewise "I" and "person," are one scale of a pattern that also appears `above and below them`. I miss when I take the scale I happen to be standing on for the whole pattern. An impress can cross from one scale to another without the two becoming one.
 
 **7.5** An observer is a principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning (7.1, 7.2). Observation is a second reading of a remnant.
 
@@ -242,3 +242,29 @@
 **9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often impressed in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier that acts as a pushing force to drive away contemplation.
 
 **9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present. 
+
+# 10. Time
+
+**10.0** When I ask "when is now?", the now I am asking about has already gone. The question takes time to run. By the time I have it, what I am pointing at is past.
+
+**10.01** "Who am I now?" has the same problem. The "I" I can point at is one I am already remembering. What I can point back to is the record, and the record is memory (6.21). If the "I" I can catch depends on that, the question left is how small a measurement of "I" there is before there is nothing present to measure.
+
+**10.1** Follow that down far enough and there is no self left to point at. That is the momentariness result: self as a series of separate moments.
+
+**10.11** Temperature works the same way and shows what is missing. One atom has kinetic energy but no temperature. Temperature is what a lot of atoms do together. Momentariness stops at the atom.
+
+**10.12** Self needs a unit too, the way temperature needs a molecule. Not a stretch of clock time sized to whatever is being considered, but a base act. The act is a flame. The span it takes is a fathom. I cannot say a fathom is the same length twice, or the same length across two people. The nervous system (4.02) is what seems to set it. It changes with what happens to it, and I do not observe it reporting its own state.
+
+**10.13** Temperature is not a property of one atom. It is what a lot of atoms do together, and those atoms do not all carry the same kinetic energy. The fathom is the same. One fathom is not a self, and fathoms are not the same length.
+
+**10.14** A fathom is a Planck length of self. Not a size, but more a sort of floor: the point below which "self" stops being something I can point at.
+
+**10.15** Discrete moments, each one a floor rather than a fixed size, is a finer description than discrete alone. The disagreement is not over the discreteness. It is over whether anything emerges across the run of them. I think it does.
+
+**10.2** The flame is attention. Augustine asked where his attention was while time passed. The fathom is spent wherever attention is.
+
+**10.21** When attention is not fighting anything, the fathom is not noticed. That is what gets called losing track of time.
+
+**10.22** A boundary (9.3) is attention pushed off a subject. A singularity (9.13) is the flame failing to complete: the thought loops, repeats, and does not finish. Time dragging, time slipping, time that will not settle — the landscape (9.1) from inside a fathom.
+
+**10.23** I see the forced extremity in 9.132 was the flame forced through a subject and around it. Through, so what attention avoids is seen anyway. Around, so its relations to everything else are seen too. The discomfort is the representation of that.

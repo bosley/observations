@@ -241,7 +241,7 @@
 
 **9.132** The rituals of deliberate self-induced extremity that appear in that tradition are, as I take it, attempts to rapidly recondition the emotional landscape by force. If weight is installed by consequence and experience (9.02), then deliberately induced extreme experience is a method of collapsing existing geometry and installing new high-weight notions in its place, essentially navigating the landscape by destabilizing it. Whether the method achieves what its practitioners intend is a separate question. The internal logic of why one would attempt it is coherent within this framework. This also connects to the scaling observation in 7.4, that the pattern visible `above and below` the individual scale may apply here too. The singularity in a single mind, in a culture, in a civilisation, may follow the same geometry.
 
-**9.133** The fact that this structure has been arrived at independently, from a direction with no overlap with the one taken here, is itself worth noting. It is not offered as authority. It is offered as corroboration.
+**9.133** The fact that this structure has been arrived at independently, from a direction with no overlap with the one taken here, is itself worth noting. It is not offered as authority, merely as corroboration.
 
 **9.2** When I observe this across many minds, certain regions produce the same or similar distortion repeatedly. A singularity particular to one mind tells me something about that mind's history. A singularity that appears in the same region across many minds signals to me something about the territory. The weight is not particular to any one history, rather it is a property of the region itself.
 
@@ -271,7 +271,7 @@
 
 **10.21** When attention is not fighting anything, the fathom is not noticed. That is what gets called losing track of time.
 
-**10.22** A boundary (9.3) is attention pushed off a subject. A singularity (9.13) is the flame failing to complete: the thought loops, repeats, and does not finish. Time dragging, time slipping, time that will not settle — the landscape (9.1) from inside a fathom.
+**10.22** A boundary (9.3) is attention pushed off a subject. A singularity (9.13) is the flame failing to complete: the thought loops, repeats, and does not finish.
 
 **10.23** I see the forced extremity in 9.132 was the flame forced through a subject and around it. Through, so what attention avoids is seen anyway. Around, so its relations to everything else are seen too. The discomfort is the representation of that.
 
@@ -319,11 +319,13 @@
 
 **12.12** A fathom is the span a flame takes, and the flame is attention (10.12, 10.2). Passing a fathom is how a relation can be made. Where attention is, the relation can become. Where attention is pushed off a subject, the relation is not made, and that is a boundary. The flame failing to finish is the other case in the same place, and I am not using it here (10.22).
 
+**12.121** Repeating a relation already made (12.12) across further fathoms, with the reader as one end (12.1), is the consequence accumulating past the point where I am tracking it (4.32). I will call that repetition etch. The relation can be found later as imprint (12.11) without a return through the senses (1.2).
+
 **12.13** Without that, a principality is close to any pattern that nests. The emotional landscape is not any pattern (9.1). It is notions existing and relating, and weight is what bends the relations nearest a notion (9.12). The grouping in 11.21 is the same requirement at another scale: a group of things that depend on each other, and nothing in the group is the group.
 
 **12.2** I have not observed a truth I could point at and call the thing itself. What I meet is a remnant across a gap (7.1), read with a reader the remnant had a hand in conditioning (7.2), at a scale I happen to be standing on (7.4). A story can be held up to the hardened record (5.14). The record is still a remnant. 
 
-**12.21** What I can grade is how far the account has come apart from the remnant. Stories may contain some degree of error (5.1). A gap is not, by itself, a lie (5.17). The degrees are degrees of missing the mark (7.0). I will treat what gets called truth as the far end of that grading, asymptotic, approached and not reached. What I actually have are degrees of falsehood, and they can get smaller without my arriving there.
+**12.21** What I can grade is how far the account has come apart from the remnant. Stories may contain some degree of error (5.1). The degrees are degrees of missing the mark (7.0). I will treat what gets called truth as the far end of that grading, asymptotic, approached and not reached. What I actually have are degrees of falsehood which can get smaller without my arriving there.
 
 **12.22** Light is the likeness I am reaching for, and the reaching is the act of observation. Full light would be the form with no remainder of miss, and I do not observe that. I observe illumination that stops, and a shade where it stopped. A silhouette has the outline and none of the substance, and when I turn the object the shade turns with it.
 
@@ -415,7 +417,7 @@
 
 **15.4** Where an allegory is not that quiz, the relations are implied, and I have to put the flame to them the way I would put it to a puzzle I have not been given the key for. Each relation I pass is another line in the outline (12.01). More relations, and the resolution of the shape is finer. The form comes into view as the shape those relations outline, and I could not have had it from one of them.
 
-**15.41** The outline an allegory leaves is in the emotional landscape (9.1). Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can pass the flame through (12.12), and the passing is what can leave the territory. Repetition and consequence are how a principality gets installed (4.32). An allegory uses the same two, across a span, instead of across a life I had to be in. The metaphor finished before any of those relations had to be passed, so the outline it leaves is more coarse (12.01).
+**15.41** The outline an allegory leaves is in the emotional landscape (9.1). Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can pass the flame through (12.12), and the passing is what can leave the territory. Repetition and consequence are how a principality gets installed (4.32). An allegory uses the same two, across a span, instead of across a life I had to be in. This act of repitition and observation causes the `etch` (12.121). The metaphor finished before any of those relations had to be passed, so the outline it leaves is more coarse (12.01).
 
 **15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder, a reconditioning of the emotional landscape by induced experience (9.132). Here the will directs the path the laying happens on (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands in both modalities of what the \"I\" stores (1.64): the material, as habit in the body, and the mental, as what can be recalled.
 

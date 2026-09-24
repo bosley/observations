@@ -1,3 +1,13 @@
+## Preface
+
+This tractate is a record of how the world appears from here where I am, not a claim that the world must be this way or an argument that you should see it this way.
+
+The numbered lines are a helpful way to reference likeness or contrast, hoping to build a coherent self-referencing work that paints the picture of reality as I am able to see it. Missing numbers or gaps may appear for later fill-in or as a result of pruning.
+
+I can't speak on anything that I don't know about. All I know is how I'm representing things in my mind, and how clear that representation maps to the reality I've experienced (1.0, 5.03, 5.14). We all make assumptions about how the minds of others work, and the only sane way for me to approach this internally is to assume they, like me, are operating with similar-enough relations, using similar-to-degree biology to host the mind (1.4, 1.5, 2.0), that we share the same unified world, in that there is an objective reality and we both map it to a degree (2.11, 5.0).
+
+I'm not speaking with authority over others, only with authenticity of self, in which I can say I believe what I claim here because I claim it as truthfully as I can understand it (6.1, 6.2).
+
 ## 1. Mind, body, and environment
 
 **1.0** I think, but I cannot physically interact with thoughts. Thoughts are the realm of what we can call "mind."
@@ -46,14 +56,13 @@
 
 **3.3** There is another kind of remnant that does not exist in the environment as an object that I can inspect. It is in the language I was given, in what the beings around me do without stopping to tell the story, in arrangements that were already producing conduct when I arrived. This was impressed onto me by that environment of other beings, the way habits are imprinted onto the body.
 
-
 **3.4** If the physical remnants were gone, that impress would still be driving what gets done and felt, in the way that if recall were removed from me the impacts of habit would still be driving a variant of the "I." If that is never contended with, it is what determines how the physical remnants get taken up into the stories that get passed down.
 
 **3.5** History, as it reaches me, is the story passed down through those two, the physical remnant and the social remnant, which line up with the two modalities of storing memory. I cannot physically interact with what the stories are about, the way I cannot physically interact with thoughts. The story can move what bodies do. The remnants are where it appears to be hosted. In that way the arrangement is analogous to mind.
 
 **3.6** Contained within those stories are further assumptions, of the same kind as the ones that got structurally embedded into me through communication, and those assumptions are already constituents of how I take the remnants and of the sense I have of what came before me.
 
-# 4. That which constitutes 'a body'
+## 4. That which constitutes 'a body'
 
 **4.0** My body, like my environment, seems on inspection to hold both a hard part and a soft part, and the two do not last in the same way.
 
@@ -77,11 +86,11 @@
 
 **4.34** I notice I cannot find anything particular to bodies in this. The same kind of arrangement seems to appear again when I look above the body and below it, so what I am seeing is not that bodies are empty of anything particular, but that the pattern appears to be analogous at scale.
 
-**4.341** Taken far enough, this seeing is what I think people lean on when they adopt occult correspondence as an internal justification, tarot, zodiac, star signs treated as relating to one’s being, and the like, where the likeness across scales is no longer held as likeness and is treated as a readable identity.
+**4.341** Taken far enough, this seeing is what I think people lean on when they adopt occult correspondence as an internal justification, tarot, zodiac, star signs treated as relating to one's being, and the like, where the likeness across scales is no longer held as likeness and is treated as a readable identity.
 
 **4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape I will come to later, a place where the ordinary shape of the self will not hold and a finished map across scales is taken up because it is the nearest principality.
 
-# 5. Doubt, Record, and Authenticity
+## 5. Doubt, Record, and Authenticity
 
 **5.0** I have never been able to read the intentions of other minds without traversing the gap presented by our environment. No mind I have ever interfaced with has appeared to have the ability to interface with minds without doing the same.
 
@@ -113,7 +122,7 @@
 
 **5.17** A mind, or a principality, is authentic so far as the story it tells of itself stays close to the hardened record of what it actually produced. Where the two come apart, the gap is what authentic and inauthentic are measuring. A gap is not, by itself, a lie (5.1).
 
-# 6. Authentic self
+## 6. Authentic self
 
 **6.0** "Self" is the "I" that my mind (1.0–1.1) understands itself to be.
 
@@ -161,7 +170,7 @@
 
 **6.6** The authentic self is the "I" of 1.0–1.1 keeping the story it tells honest to the record it has left, revising the standard and revising how well that standard is being met (1.6–1.64).
 
-# 7. Errors in representation
+## 7. Errors in representation
 
 **7.0** Several times above, the way I represent a thing comes apart from the thing. I want names for these, so later claims can point here instead of re-deriving them. Each is a way of missing the mark. These are errors already in what came before.
 
@@ -175,7 +184,7 @@
 
 **7.5** An observer is a principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning (7.1, 7.2). Observation is a second reading of a remnant.
 
-# 8. Finding Meaning
+## 8. Finding Meaning
 
 **8.0** From 6 I can tell whether the story I tell myself stays close to the fruits of my labor on record. Accuracy is not worth (6.13). The work in 6.2 does not stop. It sets standards, and it acts on the difference between story and record. What reason would I have to put energy into that refinement?
 
@@ -209,7 +218,7 @@
 
 **8.6** There is no record of a self that has finished this (6.21). Mitigation is itself the fruit. Nothing here is obliged to show me a second reward behind it. If I will not move until I am shown one, the nearest standard has set the rate (6.17).
 
-# 9. Weight and the Emotional Landscape
+## 9. Weight and the Emotional Landscape
 
 **9.0** When I attend to the motivations of other minds, the resistance I meet does not distribute evenly across subjects. Some exchanges are a smooth passage of information. Others produce a response whose magnitude does not correspond to what the subject, taken on its own, would seem to warrant. Call the stored potential behind that excess `weight`.
 
@@ -247,9 +256,9 @@
 
 **9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often impressed in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier that acts as a pushing force to drive away contemplation.
 
-**9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present. 
+**9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present.
 
-# 10. Flame and Fathom
+## 10. Flame and Fathom
 
 **10.0** When I ask "when is now?", the now I am asking about has already gone. The question takes time to run. By the time I have it, what I am pointing at is past.
 
@@ -275,7 +284,7 @@
 
 **10.23** I see the forced extremity in 9.132 was the flame forced through a subject and around it. Through, so what attention avoids is seen anyway. Around, so its relations to everything else are seen too. The discomfort is the representation of that.
 
-# 11. The Primordiant
+## 11. The Primordiant
 
 **11.0** I set a cup on the counter. A moment later it is there. I did not watch it arrive from nowhere, and I would not know what I was looking at if I had. Out of nothing, nothing comes. I have never found a "thing" with no prior.
 
@@ -299,11 +308,11 @@
 
 **11.41** I want a word for what 11.12 and 11.4 both keep asking after and do not find in the record sequence or in the group. I will call it the Primordiant. The superset from which abstractions and implementations emerge. It preceded the beginning of time (or at least, the first fathomable fathom), and it is holding every present instant. It is possible that the grouping of vertical and horizontal causality is inapproriate in some ways, but in the way that they are both "an orignating surface" they exist as one of the same kind.
 
-**11.411** Prior to time there is no point left at which a record can be identified (11.12). Putting another event in that place only adds a point to the record. The Primordiant is what I am pointing at when the record has run out and I still have not found a thing with no prior (11.0). By definition the primordiant can't have a cause as it is what the notion of causation preceeds from. 
+**11.411** Prior to time there is no point left at which a record can be identified (11.12). Putting another event in that place only adds a point to the record. The Primordiant is what I am pointing at when the record has run out and I still have not found a thing with no prior (11.0). By definition the primordiant can't have a cause as it is what the notion of causation preceeds from.
 
 **11.412** In the instant, another member of the group has not held the instant (11.4). A fathom is the span a flame takes (10.12), and the flame is attention (10.2), so a fathom is already a mind able to fathom. At that first one, however much time had to go by before there was a mind that could, the patterns the fathom is of have to already be there, and whatever makes those patterns has to already be there too, or the fathom has nothing to be of. That may only be where I am standing, a limit of what I can possibly know. For the sake of coherent ground, I assume it. The Primordiant is what is holding that, and what it holds are the patterns, for the sake of the fathom that I can directly experience.
 
-# 12. Form and Relations
+## 12. Form and Relations
 
 **12.0** A form is the shape outlined by a set of relations. I have not found a form that is one thing sitting alone.
 
@@ -323,7 +332,7 @@
 
 **12.13** Without that, a principality is close to any pattern that nests. The emotional landscape is not any pattern (9.1). It is notions existing and relating, and weight is what bends the relations nearest a notion (9.12). The grouping in 11.21 is the same requirement at another scale: a group of things that depend on each other, and nothing in the group is the group.
 
-**12.2** I have not observed a truth I could point at and call the thing itself. What I meet is a remnant across a gap (7.1), read with a reader the remnant had a hand in conditioning (7.2), at a scale I happen to be standing on (7.4). A story can be held up to the hardened record (5.14). The record is still a remnant. 
+**12.2** I have not observed a truth I could point at and call the thing itself. What I meet is a remnant across a gap (7.1), read with a reader the remnant had a hand in conditioning (7.2), at a scale I happen to be standing on (7.4). A story can be held up to the hardened record (5.14). The record is still a remnant.
 
 **12.21** What I can grade is how far the account has come apart from the remnant. Stories may contain some degree of error (5.1). The degrees are degrees of missing the mark (7.0). I will treat what gets called truth as the far end of that grading, asymptotic, approached and not reached. What I actually have are degrees of falsehood which can get smaller without my arriving there.
 
@@ -347,11 +356,11 @@
 
 **12.342** I suspect an observer could bring light fully onto the form and cast no shade, and that may only be me putting properties of physical light onto the notion I am using for a likeness. The likeness does not make the observation light, and it does not make observation behave as light does outside the one relation I am using it for. Taking the likeness for the thing is the miss in 4.341.
 
-# 13. Singularity of Death
+## 13. Singularity of Death
 
 **13.0** Death, as I mean it here, is the body ending, and not every ending. It is the one where the soft system stops and I do not observe what it was holding coming along with the bone (4.03).
 
-**13.01** I am assuming the fade, the natural one, where the nervous system fails by degrees and the hard part is what stays longest (4.01, 4.03). A death that cuts the body off while the soft system is still registering is a different case. 
+**13.01** I am assuming the fade, the natural one, where the nervous system fails by degrees and the hard part is what stays longest (4.01, 4.03). A death that cuts the body off while the soft system is still registering is a different case.
 
 **13.1** While the soft system is still registering, "now" is already gone by the time I ask after it (10.0). The "I" I can point at is one I am already remembering (10.01). Death does not introduce that. It is where the remembering runs out of a system that can still host it (1.5).
 
@@ -377,7 +386,7 @@
 
 **13.42** Other minds already have pictures of this collapse, and the pictures do not agree. In Islam, as I have met it, the moment you die you are face to face with Allah. In others, the meeting is judgment, and it waits until the end of time. Both are accounts of what the last now is a meeting with, and of when the meeting is. What is on record, in this consideration, is the series of "nows" the self mitigated while it was still fathoming. A "now" I can point at is already a remembered one (10.0, 10.01), and the fathom is the span attention took in it (10.2, 10.12).
 
-# 14. Degrees of the will
+## 14. Degrees of the will
 
 **14.0** Free will is a spectrum.
 
@@ -395,7 +404,7 @@
 
 **14.21** That record carries no implied worth with my statement, worth is a judgement function relative to the observing mind. Accuracy and worth are different questions (6.13).
 
-# 15. Analogy, Metaphor, and Allegory
+## 15. Analogy, Metaphor, and Allegory
 
 **15.0** An analogy is a likeness held as a likeness. I point at the same shape somewhere else, and then I come back. In this document thus-far `temperature` and the `fathom` are examples of this (10.11, 10.13) as are `weight` and `gravity` (9.12).
 
@@ -413,19 +422,19 @@
 
 **15.21** Fire holds heat at one distance and scorches at another, and no second kind was added (12.32, 12.321). Taken inside one fathom, the figure is the metaphor in 15.1, and the shade is evil. Held across the distances, it is the allegory. The form shows which face I met only once I have occupied more than one of them.
 
-**15.3** An allegory can be built so that each figure stands for one proposition and the path is a quiz. Then the remnant has been taken for the thing (7.1), only later. 
+**15.3** An allegory can be built so that each figure stands for one proposition and the path is a quiz. Then the remnant has been taken for the thing (7.1), only later.
 
 **15.4** Where an allegory is not that quiz, the relations are implied, and I have to put the flame to them the way I would put it to a puzzle I have not been given the key for. Each relation I pass is another line in the outline (12.01). More relations, and the resolution of the shape is finer. The form comes into view as the shape those relations outline, and I could not have had it from one of them.
 
 **15.41** The outline an allegory leaves is in the emotional landscape (9.1). Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can pass the flame through (12.12), and the passing is what can leave the territory. Repetition and consequence are how a principality gets installed (4.32). An allegory uses the same two, across a span, instead of across a life I had to be in. This act of repitition and observation causes the `etch` (12.121). The metaphor finished before any of those relations had to be passed, so the outline it leaves is more coarse (12.01).
 
-**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder, a reconditioning of the emotional landscape by induced experience (9.132). Here the will directs the path the laying happens on (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands in both modalities of what the \"I\" stores (1.64): the material, as habit in the body, and the mental, as what can be recalled.
+**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder, a reconditioning of the emotional landscape by induced experience (9.132). Here the will directs the path the laying happens on (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands in both modalities of what the "I" stores (1.64): the material, as habit in the body, and the mental, as what can be recalled.
 
 **15.412** That impress can be used to refine the self toward the authentic self, or away from it (6.2, 6.22). Toward, the record shows movement on a standard the self set (6.16, 6.12). Away, the same repetition installs a shape the self did not set, and 6.3 does not call that authentic. The directing leaves a trace either way (14.2). Worth is still a separate question (14.21, 6.13).
 
 **15.42** The allegory is still a story, and a story may contain some degree of error (5.1). I read it with a reader the stories had a hand in conditioning (5.14, 7.2). If I take the shape the allegory outlined for the form it was a likeness of, I have treated the likeness as a readable identity (4.341).
 
-# 16. Attachment
+## 16. Attachment
 
 **16.0** A notion may draw me toward another notion. Usually the notion that draws is one I already associate with the self (6.0). I will call that draw `attachment`. There are cases where no such notion is there yet (16.03, 16.11).
 

@@ -80,6 +80,15 @@ Every term below is introduced at the tagged proposition in [tractate.md](tracta
 | analogy | A likeness held as a likeness: the same shape pointed at somewhere else, then a return. | 15.0 | — |
 | metaphor | A substitution that finishes inside one fathom; the likeness claimed as a usable identity for that span. | 15.1 | 10.12, 10.2, 9.03 |
 | allegory | A sequence of relations that does not finish inside one fathom; the shape is outlined only after a series of acts, distances, and consequences. | 15.2 | 12.0, 12.3, 11.21, 10.12 |
+| attachment | A notion drawing me toward another notion, where the notion that draws is usually one already associated with the self; there are cases where no such notion is there yet. | 16.0 | 6.0, 16.03, 16.11 |
+| wearing | What I meet is taken as wearing a notion, another mind or an aspect such as sex, money, or power; the same act from the other end as reading a role. | 16.01 | 7.1, 5.0, 9.1, 6.05, 5.151 |
+| love | Attachment when the other end is held as a mind I could fathom. A stipulated use. | 16.02 | 16.0, 5.02, 12.01 |
+| lust | Attachment when the other end is held as an aspect. A stipulated use, at the coarser end of one run and not a second kind. | 16.02 | 16.0, 12.01 |
+| familial love | Love where the other mind is placed, and the attachment can be there before an "I" who could have set it; fondness and closeness are the same attachment, coarser or finer by the relations in the shape worn. | 16.03 | 16.02, 8.22, 2.2, 12.01 |
+| yearning | The draw toward the notion worn. | 16.1 | 16.0, 16.01 |
+| hate | Attachment where the draw is away: the notion associated with the self draws away from the notion worn. Can enhance focus, and can show up similar to love. | 16.1 | 16.0, 16.01 |
+| contempt | Attention pushed off so the relation is not made; the weight can remain after I stop taking them as wearing the notion. | 16.1 | 12.12, 9.01 |
+| taboo | The bend where the weight is a property of the region across many minds, carried in by the installed means of communication and already in the social remnant. | 16.2 | 9.12, 9.2, 2.2, 3.3, 4.341 |
 
 ## Master map
 
@@ -497,4 +506,55 @@ graph TD
   allegory --> form
   allegory --> fathom1012
   allegory --> grouping1121
+```
+
+### Attachment (section 16)
+
+```mermaid
+graph TD
+  attachment["attachment (16.0)"]
+  wearing["wearing (16.01)"]
+  love["love (16.02)"]
+  lust["lust (16.02)"]
+  familialLove["familial love (16.03)"]
+  yearning["yearning (16.1)"]
+  hate["hate (16.1)"]
+  contempt["contempt (16.1)"]
+  taboo["taboo (16.2)"]
+  self60["self (6.0)"]
+  role605["role / mask (6.05, 5.151)"]
+  contactError71["contact error (7.1)"]
+  emotionalLandscape91["emotional landscape (9.1)"]
+  representation502["representation of another mind (5.02)"]
+  resolution1201["resolution (12.01)"]
+  placed822["placed (8.22)"]
+  relation1212["relation / boundary (12.12)"]
+  weight901["weight (9.01)"]
+  gravityLikeness912["gravity likeness (9.12)"]
+  region92["region across minds (9.2)"]
+  socialRemnant33["social remnant (3.3)"]
+  identity4341["likeness taken as identity (4.341)"]
+
+  attachment --> self60
+  wearing --> contactError71
+  wearing --> emotionalLandscape91
+  wearing --> role605
+  love --> attachment
+  love --> wearing
+  love --> representation502
+  lust --> attachment
+  lust --> wearing
+  lust --> resolution1201
+  familialLove --> love
+  familialLove --> placed822
+  yearning --> attachment
+  yearning --> wearing
+  hate --> attachment
+  hate --> wearing
+  contempt --> relation1212
+  contempt --> weight901
+  taboo --> gravityLikeness912
+  taboo --> region92
+  taboo --> socialRemnant33
+  taboo --> identity4341
 ```

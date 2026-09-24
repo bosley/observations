@@ -424,3 +424,21 @@
 **15.412** That impress can be used to refine the self toward the authentic self, or away from it (6.2, 6.22). Toward, the record shows movement on a standard the self set (6.16, 6.12). Away, the same repetition installs a shape the self did not set, and 6.3 does not call that authentic. The directing leaves a trace either way (14.2). Worth is still a separate question (14.21, 6.13).
 
 **15.42** The allegory is still a story, and a story may contain some degree of error (5.1). I read it with a reader the stories had a hand in conditioning (5.14, 7.2). If I take the shape the allegory outlined for the form it was a likeness of, I have treated the likeness as a readable identity (4.341).
+
+# 16. Attachment
+
+**16.0** A notion may draw me toward another notion. Usually the notion that draws is one I already associate with the self (6.0). I will call that draw `attachment`. There are cases where no such notion is there yet (16.03, 16.11).
+
+**16.01** What I meet in the environment is a mind, a body, or an object (7.1). I take what I meet as wearing a notion, which may be another mind or an aspect such as sex, money, or power (5.0). Money and power are notions in the landscape (9.1), and are not things I meet. What I meet is something I take to be wearing them. Wearing appears to be the same act from the other end (6.05): I read the role, and what I read is the mask (5.151).
+
+**16.02** What is worn can be a mind I could fathom (5.02), or an aspect, and with fewer relations in what I take the other to be wearing the shape is coarser (12.01). These seem to be two ends of a run and not two kinds, and I can take the same other as wearing both at once. Love, as I mean it here, is attachment when the other end is held as a mind. Lust is attachment when the other end is held as an aspect. These are stipulated uses, and "coarser" is only a count of relations.
+
+**16.03** Familial love is love where the other mind is placed (8.22), and the attachment can be there before an "I" who could have set it (2.2). Fondness and closeness I am taking as that same attachment, coarser or finer by how many relations are in the shape worn (12.01).
+
+**16.1** I will call the draw toward the notion worn `yearning`. Hate is attachment where the draw is away: the notion associated with the self draws away from the notion worn. It can enhance focus on the subject at hand, and it can show up similar to love. Contempt is attention pushed off so the relation is not made (12.12). The weight can remain after I stop taking them as wearing the notion (9.01).
+
+**16.11** What can be worn is a form already outlined, where the illumination stopped (12.22), and as far as I can find I cannot imagine what I have not experienced (14.13). A yearning toward a form I have seen and not resolved can be there before any notion is associated with the self that could draw toward it (9.02).
+
+**16.2** Notions that arrived through similar experience, or around the same time, get pulled toward a high-weight subject (9.12) and can be reasoned about as if the association were in the things (4.341). A taboo is that bend where the weight is a property of the region across many minds (9.2), and as a result of the installed means of communication (2.2), those taboos are "in" me too by way of the social remnant (3.3).
+
+**16.21** The same region can sit as a barrier that drives contemplation away (9.3), while the social remnant is already producing conduct (3.3). Which relations I take the other end to be wearing can come apart from the record without the gap being, by itself, a lie (5.17, 4.341).

@@ -24,7 +24,9 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **1.6** My memories, though products of the mind, are in some way stored in the physical body in such a way that destruction or modification of that physical makeup of memories impacts the ability to recall those memories.
 
-**1.61** In what gets called dense autobiographical amnesia, the recall is removed, and I cannot find what would still constitute the "I" I conceive of if "I" is my mind with respect to time. What remains to drive the person is habit, and the rest of what the nervous system has had impressed into it.
+**1.61** In what gets called dense autobiographical amnesia, recall is removed from some given "I." That "I" cannot find what it would still conceive itself to be, a mind with respect to time. What remains to drive the person is habit, and the rest of what the nervous system has had impressed into it.
+
+**1.611** I only know of other minds describing the autobiographical amnesia of yet other minds. I have no reason to think that could not happen to me. 
 
 **1.62** If all recall were to be removed from me, the various impacts my habits have had on my physical makeup would drive my emotions and various abilities to control said emotions (oral fixation demands, and other areas affected by the nervous system).
 

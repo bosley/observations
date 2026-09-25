@@ -14,21 +14,21 @@ To my sons Desmond and Ezra: I hope this record of my account benefit you. I wil
 
 ## Contents
 
-1. [Mind, body, and environment](#mind-body-and-environment)
-2. [Other beings and communication](#other-beings-and-communication)
+1. [Mind, body, environment](#mind-body-environment)
+2. [Beings and communication](#beings-and-communication)
 3. [History and remnants](#history-and-remnants)
-4. [That which constitutes 'a body'](#that-which-constitutes-a-body)
-5. [Doubt, Record, and Authenticity](#doubt-record-and-authenticity)
+4. [What constitutes 'a body'](#what-constitutes-a-body)
+5. [Doubt and record](#doubt-and-record)
 6. [Authentic self](#authentic-self)
 7. [Errors in representation](#errors-in-representation)
-8. [Finding Meaning](#finding-meaning)
-9. [Weight and the Emotional Landscape](#weight-and-the-emotional-landscape)
-10. [Flame and Fathom](#flame-and-fathom)
+8. [Finding meaning](#finding-meaning)
+9. [Weight and landscape](#weight-and-landscape)
+10. [Flame and fathom](#flame-and-fathom)
 11. [The Primordiant](#the-primordiant)
-12. [Form and Relations](#form-and-relations)
-13. [Singularity of Death](#singularity-of-death)
+12. [Form and relations](#form-and-relations)
+13. [Singularity of death](#singularity-of-death)
 14. [Degrees of the will](#degrees-of-the-will)
-15. [Analogy, Metaphor, and Allegory](#analogy-metaphor-and-allegory)
+15. [Analogy and allegory](#analogy-and-allegory)
 16. [Attachment](#attachment)
 
 ## Preface
@@ -41,7 +41,7 @@ I can't speak on anything that I don't know about. All I know is how I'm represe
 
 I'm not speaking with authority over others, only with authenticity of self, in which I can say I believe what I claim here because I claim it as truthfully as I can understand it (6.1, 6.2).
 
-## 1. Mind, body, and environment
+## 1. Mind, body, environment
 
 **1.0** I think, but I cannot physically interact with thoughts. Thoughts are the realm of what we can call "mind."
 
@@ -67,7 +67,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **1.64** The "I" that constitutes my self is then seemingly a property of not only a mind-body feedback system, but also a property of two modalities of mind that are differentiated by their means of storing memory. One being the storage of information that we can freely recall (thoughts, sensory recordings), and one being the storage of information that is imprinted on us by environment (habits, etc).
 
-## 2. Other beings and communication
+## 2. Beings and communication
 
 **2.0** In my environment there appear to be other bodies that are of a similar kind to mine at varying degrees. The closest, the ones that look most like me, are "human," with a panoply of other like-beings that vary in degree of similarity.
 
@@ -97,7 +97,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **3.6** Contained within those stories are further assumptions, of the same kind as the ones that got structurally embedded into me through communication, and those assumptions are already constituents of how I take the remnants and of the sense I have of what came before me.
 
-## 4. That which constitutes 'a body'
+## 4. What constitutes 'a body'
 
 **4.0** My body, like my environment, seems on inspection to hold both a hard part and a soft part, and the two do not last in the same way.
 
@@ -125,7 +125,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape I will come to later, a place where the ordinary shape of the self will not hold and a finished map across scales is taken up because it is the nearest principality.
 
-## 5. Doubt, Record, and Authenticity
+## 5. Doubt and record
 
 **5.0** I have never been able to read the intentions of other minds without traversing the gap presented by our environment. No mind I have ever interfaced with has appeared to have the ability to interface with minds without doing the same.
 
@@ -219,7 +219,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **7.5** An observer is a principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning (7.1, 7.2). Observation is a second reading of a remnant.
 
-## 8. Finding Meaning
+## 8. Finding meaning
 
 **8.0** From 6 I can tell whether the story I tell myself stays close to the fruits of my labor on record. Accuracy is not worth (6.13). The work in 6.2 does not stop. It sets standards, and it acts on the difference between story and record. What reason would I have to put energy into that refinement?
 
@@ -253,7 +253,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **8.6** There is no record of a self that has finished this (6.21). Mitigation is itself the fruit. Nothing here is obliged to show me a second reward behind it. If I will not move until I am shown one, the nearest standard has set the rate (6.17).
 
-## 9. Weight and the Emotional Landscape
+## 9. Weight and landscape
 
 **9.0** When I attend to the motivations of other minds, the resistance I meet does not distribute evenly across subjects. Some exchanges are a smooth passage of information. Others produce a response whose magnitude does not correspond to what the subject, taken on its own, would seem to warrant. Call the stored potential behind that excess `weight`.
 
@@ -293,7 +293,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present.
 
-## 10. Flame and Fathom
+## 10. Flame and fathom
 
 **10.0** When I ask "when is now?", the now I am asking about has already gone. The question takes time to run. By the time I have it, what I am pointing at is past.
 
@@ -353,7 +353,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **11.422** I do not have a way, from inside the reduction, to tell these apart. The reduction is the reader (7.2) for whatever it is I take myself to be perceiving here. I record the grouping as it appears to me (11.41), and I record this potentiality alongside it.
 
-## 12. Form and Relations
+## 12. Form and relations
 
 **12.0** A form is the shape outlined by a set of relations. I have not found a form that is one thing sitting alone.
 
@@ -397,7 +397,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **12.342** I suspect an observer could bring light fully onto the form and cast no shade, and that may only be me putting properties of physical light onto the notion I am using for a likeness. The likeness does not make the observation light, and it does not make observation behave as light does outside the one relation I am using it for. Taking the likeness for the thing is the miss in 4.341.
 
-## 13. Singularity of Death
+## 13. Singularity of death
 
 **13.0** Death, as I mean it here, is the body ending, and not every ending. It is the one where the soft system stops and I do not observe what it was holding coming along with the bone (4.03).
 
@@ -445,7 +445,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **14.21** That record carries no implied worth with my statement, worth is a judgment function relative to the observing mind. Accuracy and worth are different questions (6.13).
 
-## 15. Analogy, Metaphor, and Allegory
+## 15. Analogy and allegory
 
 **15.0** An analogy is a likeness held as a likeness. I point at the same shape somewhere else, and then I come back. In this document thus-far `temperature` and the `fathom` are examples of this (10.11, 10.13) as are `weight` and `gravity` (9.12).
 

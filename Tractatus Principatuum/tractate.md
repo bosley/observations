@@ -605,7 +605,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **fair representative**
 
-:   Once another mind reads me as inside a principality, I am its concept as they hold it; fairness is the part still mine to choose. (5.151)
+:   Being read as a principality's concept; fairness is still choosable. (5.151)
 
 **fairness**
 
@@ -681,11 +681,11 @@ Terms as they are used here. The number is where the term is introduced.
 
 **inscription error**
 
-:   Taking the recalled story for the whole of what is driving; the imprint landed where recall cannot reach. (7.3)
+:   Taking the recalled story as the whole story. (7.3)
 
 **intention attribution**
 
-:   Requires multiple signals pointing toward a goal that is fathomable and can be weighed against the originating mind's worldview. (5.11)
+:   Assigning intention only when multiple signals point to a fathomable goal weighed against worldview. (5.11)
 
 **light**
 
@@ -713,11 +713,11 @@ Terms as they are used here. The number is where the term is introduced.
 
 **mitigation**
 
-:   Changing how much of the self's shaping goes through unexamined. (8.21)
+:   Reducing how much of the self's shaping goes through unexamined. (8.21)
 
 **momentariness**
 
-:   Followed far enough, there is no self left to point at: self as a series of separate moments. (10.1)
+:   Self as a series of separate moments; no self left to point at. (10.1)
 
 **nesting**
 
@@ -729,7 +729,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **observer**
 
-:   A principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning; observation is a second reading of a remnant. (7.5)
+:   A principality reading remnants with a conditioned reader; observation is a second reading. (7.5)
 
 **physical remnant**
 
@@ -741,15 +741,15 @@ Terms as they are used here. The number is where the term is introduced.
 
 **Primordiant**
 
-:   The superset from which abstractions and implementations emerge; The name of the boundary that marks the beginning of time; Coupled to the forms that are required for the first possible fathom (11.41)
+:   The superset from which abstractions and implementations emerge; the boundary that marks the beginning of time; coupled to the forms required for the first possible fathom. (11.41)
 
 **principality**
 
-:   A group of groups of related responses in the soft system, bounded enough to point at, made of smaller principalities and belonging to a larger one (4.31). None comes from a single act; each accumulates by repetition and consequence past the point of traceability (4.32), the same way the soft system and the mind, held together, accumulate into the principality I call "I" (1.64, 6.0) — itself built from installed language and installed experience (2.2). Each principality answers mostly to the principalities nearest it, below and above, with nothing outside running the whole from a single point (4.33). The same arrangement appears above the body and below it — family, town, nation — analogous at scale (4.34).
+:   A bounded group of related soft-system responses, nested below and above; accumulates by repetition, not a single act. (4.31–4.33)
 
 **reader error**
 
-:   The reader was conditioned by what is being read; what goes wrong was impressed into the reader before any sensing. (7.2)
+:   Reading with a reader already conditioned by what is being read. (7.2)
 
 **recall**
 
@@ -809,7 +809,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **suffering**
 
-:   A shade of that shade. (12.23)
+:   A shade of shade. (12.23)
 
 **taboo**
 

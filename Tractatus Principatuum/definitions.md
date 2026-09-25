@@ -1,5 +1,7 @@
 # Definitional outline
 
+The published glossary is in [tractate.md](tractate.md).
+
 Every term below is introduced at the tagged proposition in [tractate.md](tractate.md). Arrow `A --> B` reads: A is defined in terms of B.
 
 ## Terms

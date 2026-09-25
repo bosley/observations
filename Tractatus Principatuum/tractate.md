@@ -8,6 +8,14 @@ I can't speak on anything that I don't know about. All I know is how I'm represe
 
 I'm not speaking with authority over others, only with authenticity of self, in which I can say I believe what I claim here because I claim it as truthfully as I can understand it (6.1, 6.2).
 
+## On Wittgenstein
+
+Wittgenstein's Tractatus ends by drawing a line around what can be pictured in propositions, and asking that everything past it be left unsaid rather than said badly. He means that line as necessary, not a limit of the notation he happened to have, but a limit built into what it is for anything to represent anything at all. I don't accept that, rather, I think logical form itself is historically plastic: the relations available to a mind for picturing the world change as concepts collide and new structures get born, not just new words for old structures. So the line he drew was real for the apparatus he had in hand, but I don't think the apparatus is the ceiling on sense as much as I think it's one shape sense has taken so far.
+
+This isn't as far from him as it sounds. He already splits tautological truth, which holds by the rules of the system and says nothing about the world, from the truth of a proposition that actually pictures a state of affairs. I'm extending that split rather than inventing it: a logic system can be maximally true by its own rules and still be far from what's the case, or a rough, informal account can sit closer to reality than a rigorous formal one does. Internal validity and reality are not the same axis, and he seems to partially grant this already, he just doesn't let it destabilize the notation itself.
+
+If we "stay in what can be said," we limit our search space, and I think the view is interesting, though I don't think it should be asserted as law, a point I suspect he'd agree with me more than his interpreters do. He ends the book by calling his own propositions senseless and telling the reader to throw away the ladder once they've climbed it. He wasn't asking to be taken as doctrine either.
+
 ## 1. Mind, body, and environment
 
 **1.0** I think, but I cannot physically interact with thoughts. Thoughts are the realm of what we can call "mind."

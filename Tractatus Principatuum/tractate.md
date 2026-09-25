@@ -689,7 +689,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **light**
 
-:   Likeness for the act of observation; full light would be the form with no remainder of miss, and that is not observed .(12.22)
+:   Likeness for the act of observation; full light would be the form with no remainder of miss. (12.22)
 
 **likeness taken as identity**
 

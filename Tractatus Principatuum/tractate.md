@@ -167,7 +167,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **5.16** A principality's own account of itself carries its assumptions forward undoubted (3.6). What answers that account is the hardened record, in the limited sense 5.14 allows, and the answering is still done with an impress. This holds whether the principality in question is a nation writing its own history or a single mind, as in 5.151, standing as one instance of the record by which a principality it belongs to is known.
 
-**5.17** A mind, or a principality, is authentic so far as the story it tells of itself stays close to the hardened record of what it actually produced. Where the two come apart, the gap is what authentic and inauthentic are measuring. A gap is not, by itself, a lie (5.1).
+**5.17** A mind, or a principality, is authentic so far as the story it tells of itself stays close to the hardened record of what it actually produced. Where the two come apart, the gap is what authentic and inauthentic are measuring.
 
 ## 6. Authentic self
 
@@ -461,31 +461,31 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **15.0** An analogy is a likeness held as a likeness. I point at the same shape somewhere else, and then I come back. In this document thus-far `temperature` and the `fathom` are examples of this (10.11, 10.13) as are `weight` and `gravity` (9.12).
 
-**15.01** The arrangement of principalities is analogous at scale, above the body and below it (4.34). Taken far enough, that likeness is no longer held as likeness and is treated as a readable identity (4.341). Tarot, zodiac, a finished map across scales. That taking sits where a boundary already is (9.3, 10.22): attention had been pushed off the subject, and the relation was not made (12.12).
+**15.01** The arrangement of principalities is analogous at scale, above the body and below it (4.34). I take that likeness as a readable identity when I use it as if it were the arrangement itself (4.341).
 
-**15.011** A gap is not, by itself, a lie (5.17). Crossing it at this juncture, the likeness taken for the identity, is where suspicion is the response I would want. The check is the other relations of the same shape, weighed the way 5.11 weighs a goal, until the form being identified is one that can sit in the emotional landscape (9.1) without the notions nearest it having to bend to hold it (9.12).
+**15.011** Crossing the likeness into an identity is where suspicion is the response I would want. The check is the other relations of the same shape, until the form being identified can sit without the notions nearest it having to bend to hold it.
 
-**15.012** If that check is not made, the order that arrives is the one 6.17 supplies when I do not stop to set it (6.16, 8.1). A story can then come apart from the record by accumulation, and still not be a lie I am in a position to attribute intention to (5.11, 5.1).
+**15.012** If that check is not made, the nearest standard sets the order anyway (6.17). A story can then come apart from the record by accumulation, and still not be a lie I am in a position to attribute intention to.
 
-**15.1** A metaphor is a substitution that finishes inside one fathom (10.12), the likeness claimed as a usable identity for that span, as when the flame stands in for attention (10.2). Once the impress is deep enough, the word can release what the encounters installed, the way a symbol does at high weight (9.03).
+**15.1** A metaphor is a substitution, as when the flame stands in for attention (10.2).
 
-**15.11** The emotional landscape is not some loose metaphor for mood (9.1). The space is being claimed as the thing the notions sit in. A metaphor kept past that fathom has started to ask for the return an analogy asks for: that I come back, and check the likeness against what I left. Without that return, the substitution is the miss in 4.341.
+**15.11** The emotional landscape is not some loose metaphor for mood (9.1). The space is being claimed as the thing the notions sit in. If I do not come back and check the likeness, the substitution is the miss in 4.341.
 
-**15.2** An allegory does not finish inside one fathom. It is a sequence of relations. I have to go through a series of acts, distances, and consequences before the shape is outlined. A form is not a thing in-and-of itself (12.0). The flame consumes fathoms to pass through relations, and what the passing shows I could not have had from one end (12.3, 11.21). I cannot have the holding of the cup from one member of the group. I cannot have the allegory from one emblem.
+**15.2** An allegory is a sequence of relations. I have to go through a series of acts, distances, and consequences before the shape is outlined. I cannot have the allegory from one emblem any more than I can have the holding of the cup from one member of the group.
 
-**15.21** Fire holds heat at one distance and scorches at another, and no second kind was added (12.32, 12.321). Taken inside one fathom, the figure is the metaphor in 15.1, and the shade is evil. Held across the distances, it is the allegory. The form shows which face I met only once I have occupied more than one of them.
+**15.21** Fire holds heat at one distance and scorches at another, and no second kind was added (12.32). Taking only the heat, or only the scorch, is the metaphor in 15.1. Holding the distances is the allegory.
 
 **15.3** An allegory can be built so that each figure stands for one proposition and the path is a quiz. Then the remnant has been taken for the thing (7.1), only later.
 
-**15.4** Where an allegory is not that quiz, the relations are implied, and I have to put the flame to them the way I would put it to a puzzle I have not been given the key for. Each relation I pass is another line in the outline (12.01). More relations, and the resolution of the shape is finer. The form comes into view as the shape those relations outline, and I could not have had it from one of them.
+**15.4** Where an allegory is not that quiz, the relations are implied, and I have to put the flame to them the way I would put it to a puzzle I have not been given the key for. Each relation I pass is another line in the outline.
 
-**15.41** The outline an allegory leaves is in the emotional landscape (9.1). Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can pass the flame through (12.12), and the passing is what can leave the territory. Repetition and consequence are how a principality gets installed (4.32). An allegory uses the same two, across a span, instead of across a life I had to be in. This act of repetition and observation causes the `etch` (12.121). The metaphor finished before any of those relations had to be passed, so the outline it leaves is more coarse (12.01).
+**15.41** The outline an allegory leaves is in the emotional landscape. Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can put the flame to, and that passing is what can leave the territory. It uses repetition and consequence the way a principality gets installed (4.32), except across a span instead of across a life I had to be in. This act of repetition and observation causes the `etch` (12.121). A metaphor did not need those relations passed, so the outline it leaves is more coarse.
 
-**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder, a reconditioning of the emotional landscape by induced experience (9.132). Here the will directs the path the laying happens on (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands in both modalities of what the "I" stores (1.64): the material, as habit in the body, and the mental, as what can be recalled.
+**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder (9.132). The will directs the path (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands as habit in the body and as what can be recalled.
 
-**15.412** That impress can be used to refine the self toward the authentic self, or away from it (6.2, 6.22). Toward, the record shows movement on a standard the self set (6.16, 6.12). Away, the same repetition installs a shape the self did not set, and 6.3 does not call that authentic. The directing leaves a trace either way (14.2). Worth is still a separate question (14.21, 6.13).
+**15.412** That impress can refine the self toward the authentic self or away from it, depending on whether the record shows movement on a standard I set, or the same repetition installing a shape I did not. The directing leaves a trace either way. Worth is still a separate question (6.13).
 
-**15.42** The allegory is still a story, and a story may contain some degree of error (5.1). I read it with a reader the stories had a hand in conditioning (5.14, 7.2). If I take the shape the allegory outlined for the form it was a likeness of, I have treated the likeness as a readable identity (4.341).
+**15.42** The allegory is still a story, and a story may contain some degree of error (5.1). If I take the shape it outlined for the form it was a likeness of, I have treated the likeness as a readable identity (4.341).
 
 ## 16. Attachment
 
@@ -503,9 +503,9 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **16.2** Notions that arrived through similar experience, or around the same time, get pulled toward a high-weight subject (9.12) and can be reasoned about as if the association were in the things (4.341). A taboo is that bend where the weight is a property of the region across many minds (9.2), and as a result of the installed means of communication (2.2), those taboos are "in" me too by way of the social remnant (3.3).
 
-**16.21** The same region can sit as a barrier that drives contemplation away (9.3), while the social remnant is already producing conduct (3.3). Which relations I take the other end to be wearing can come apart from the record without the gap being, by itself, a lie (5.17, 4.341).
+**16.21** The same region can sit as a barrier that drives contemplation away (9.3), while the social remnant is already producing conduct (3.3). Which relations I take the other end to be wearing can come apart from the record, and I still do not have the signals that would let me attribute a lie (5.11, 4.341).
 
-Written / closed \[place\], \[date\].
+
 
 ## Glossary
 
@@ -513,7 +513,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 allegory
 
-:   A sequence of relations that does not finish inside one fathom; the shape is outlined only after a series of acts, distances, and consequences. (15.2)
+:   A sequence of relations; the shape is outlined only after a series of acts, distances, and consequences. (15.2)
 
 analogy
 
@@ -705,7 +705,7 @@ lust
 
 metaphor
 
-:   A substitution that finishes inside one fathom; the likeness claimed as a usable identity for that span. (15.1)
+:   A substitution, as when the flame stands in for attention. (15.1)
 
 mind
 
@@ -745,7 +745,7 @@ Primordiant
 
 principality
 
-:   A bounded group of groups of related responses in the soft system; made of smaller principalities, belonging to a larger one. (4.31)
+:   A group of groups of related responses in the soft system, bounded enough to point at, made of smaller principalities and belonging to a larger one (4.31). None comes from a single act; each accumulates by repetition and consequence past the point of traceability (4.32), the same way the soft system and the mind, held together, accumulate into the principality I call "I" (1.64, 6.0) — itself built from installed language and installed experience (2.2). Each principality answers mostly to the principalities nearest it, below and above, with nothing outside running the whole from a single point (4.33). The same arrangement appears above the body and below it — family, town, nation — analogous at scale (4.34).
 
 reader error
 

@@ -197,6 +197,8 @@ Hard ban in model-written prose unless the user already used that exact word in 
 - "that move is easier to hear"
 - "not choosing is still a choice"
 - "X.XX states that" / "X.XX says" / "X.XX already said" / "X.XX has a name for" / "X.XX just named" / "X.XX wants" (a numbered claim made the subject of a reporting verb; the number goes in the clause or in parentheses, it does not narrate)
+- reprinting a numbered claim as a lede / opening with another number's wording
+- "A gap is not, by itself, a lie" / "the gap being, by itself, a lie"
 
 ### Evergreen assistant diction
 

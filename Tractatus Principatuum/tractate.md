@@ -10,7 +10,7 @@ Thank you to my parents for showing me how to think, not what to think.
 
 Thank you to my wife for being the foundation thats keeps me together.
 
-To my sons Desmond and Ezra: I hope this record of my account benifit you. I will always love you.
+To my sons Desmond and Ezra: I hope this record of my account benefit you. I will always love you.
 
 ## Contents
 

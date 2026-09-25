@@ -228,7 +228,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **9.02** Weight is installed the way anything is conditioned into the soft system: by repetition and consequence accumulating past the point where the mind was tracking it (4.32). The recalled story may have no clear account of why a given subject carries what it carries. The imprint is there regardless (7.3).
 
-**9.03** The spectrum of weight runs from mild to extreme. At the low end a subject produces a small perturbation, a spring that returns quickly, with little impressed on the soft system to sustain it. At the high end the impress has extended past sensory contact to the representation itself, and a symbol, a word, an abstraction is enough to release what the original encounter installed. The more extreme the original consequence, and the deeper it was imprinted, the more abstract the trigger can become while still releasing the full response.
+**9.03** The spectrum of weight runs from mild to extreme. At the low end a subject produces a small release, with little impressed on the soft system, and what was associated with the subject is still there once the response has passed. At the high end the impress has extended past sensory contact to the representation itself, and a symbol, a word, an abstraction is enough to release what the original encounter installed. The more extreme the original consequence, and the deeper it was imprinted, the more abstract the trigger can become while still releasing the full response.
 
 **9.031** At sufficient magnitude, the imprint does not stop at the soft system. It crosses into the hard system (4.01), the body. Somatic responses, structural changes that go beyond habit and closer to bone. At that depth the imprint is no longer something that updates the way the soft system does. It is closer to something acted on than something acting. The response at that level may not be mitigable the way a soft-system inscription is. The recalled story has even less access to what is driving it than 7.3 describes.
 
@@ -256,7 +256,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **9.2** When I observe this across many minds, certain regions produce the same or similar distortion repeatedly. A singularity particular to one mind tells me something about that mind's history. A singularity that appears in the same region across many minds signals to me something about the territory. The weight is not particular to any one history, rather it is a property of the region itself.
 
-**9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often impressed in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier that acts as a pushing force to drive away contemplation.
+**9.3** The region that distorts most consistently across minds seem to sit at the foundation of the worldview. The notions there are often impressed in before the mind had anything in place to examine them, though sometimes they sit there boxed in a sort of barrier on the singularity (9.13), and that barrier acts as a pushing force to drive away contemplation.
 
 **9.4** The question at the bottom of that region seems to be why anything exists at all. Every worldview contains an answer to it. The answer was conditioned in by the principalities that installed the account (4.32), before the "I" who might have examined it was present.
 
@@ -274,7 +274,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **10.13** Temperature is not a property of one atom. It is what a lot of atoms do together, and those atoms do not all carry the same kinetic energy. The fathom is the same. One fathom is not a self, and fathoms are not the same length.
 
-**10.14** A fathom is a Planck length of self. Not a size, but more a sort of floor: the point below which "self" stops being something I can point at.
+**10.14** A fathom is more a sort of floor, the point below which "self" stops being something I can point at, and not a fixed size.
 
 **10.15** Discrete moments, each one a floor rather than a fixed size, is a finer description than discrete alone. The disagreement is not over the discreteness. It is over whether anything emerges across the run of them. I think it does.
 
@@ -282,7 +282,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **10.21** When attention is not fighting anything, the fathom is not noticed. That is what gets called losing track of time.
 
-**10.22** A boundary (9.3) is attention pushed off a subject. A singularity (9.13) is the flame failing to complete: the thought loops, repeats, and does not finish.
+**10.22** A boundary (9.3) is attention pushed off a subject. In a singularity (9.13) the flame fails to complete: the thought loops, repeats, and does not finish.
 
 **10.23** I see the forced extremity in 9.132 was the flame forced through a subject and around it. Through, so what attention avoids is seen anyway. Around, so its relations to everything else are seen too. The discomfort is the representation of that.
 
@@ -368,7 +368,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **13.11** Follow "who am I now?" down and there is no self left to point at (10.1). A fathom is the floor under that, not a fixed size (10.14). In the fade, the floors get fewer. Habit and the impress go on driving a variant of "I" after recall is gone (1.61, 1.62). What I expect, and do not observe from inside, is the last floor, and then no unit a self could be built across (10.13).
 
-**13.12** I will call that last floor the final singularity, only by likeness to 9.13. A singularity is where notions cannot hold their independent shape and the process responsible for the ability to know breaks down (9.131). The fade is that region arrived at by the soft system stopping, not by a subject acting as the key that releases weight (9.01). The self collapses onto the smallest "now" the nervous system can still set (10.12), and then the nervous system is not setting one.
+**13.12** I will call that last floor the final singularity, only by likeness to the region where the ordinary shape will not hold and the process responsible for the ability to know breaks down (9.13, 9.131). The fade arrives by the soft system stopping, not by a subject acting as the key that releases weight (9.01). The self collapses onto the smallest "now" the nervous system can still set (10.12), and then the nervous system is not setting one.
 
 **13.2** Observation does not pass that singularity from inside it. The flame is attention, and attention is a soft-system act (10.2, 4.02). When the soft system is among the first things to stop, the passing is what someone else does, the way I already do not observe what the nervous system was holding coming along with the bone (4.03).
 

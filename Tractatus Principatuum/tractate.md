@@ -340,7 +340,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **12.22** Light is the likeness I am reaching for, and the reaching is the act of observation. Full light would be the form with no remainder of miss, and I do not observe that. I observe illumination that stops, and a shade where it stopped. A silhouette has the outline and none of the substance, and when I turn the object the shade turns with it.
 
-**12.23** Evil, as I am using it here, is that shade, not a second kind of being, and suffering is a shade of that shade. A relation is not good or evil in one stroke, the way a story is not false or true in one stroke (5.1, 5.17). It is how far the "I" stands from the form, and which face of the form the relation is using.
+**12.23** Evil, as I am using it here, is that shade, not a second kind of being, and suffering is a shade of that shade. A relation is not good or evil by one measure, the way a story is not false or true by one measure (5.1, 5.17). It is how far the "I" stands from the form, and which face of the form the relation is using.
 
 **12.3** The flame consumes fathoms to pass through relations (10.12, 12.12). What the passing shows is the form: the shape the relations outline, which I could not have from one end alone (12.0, 11.21).
 
@@ -374,7 +374,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **13.21** What can be passed is the remnant. Bone, in the place of the physical remnant (4.1, 4.2). The hardened record of what was done (5.14, 6.21). The social remnant, if the impress is still driving conduct in other bodies (3.3, 3.4). None of those is the "I" of 10.01. They are what a later flame can fathom (7.1, 12.1).
 
-**13.22** The principality does not die in the same stroke as the body, so far as it was never only the body (4.34, 5.13). What stops is this soft system's organizing of whatever happens next (4.32). What may remain is the arrangement as other principalities still hold it, and the fruit already in their record (5.151, 6.4).
+**13.22** The principality does not die with the body, so far as it was never only the body (4.34, 5.13). What stops is this soft system's organizing of whatever happens next (4.32). What may remain is the arrangement as other principalities still hold it, and the fruit already in their record (5.151, 6.4).
 
 **13.3** Prior to time there is no point left at which a record can be identified (11.12). After the last fathom there is no point left at which this "I" can identify one. I do not know what is there. Another event in the record has not ended the record (11.4). The fade ending this reader's fathoms is not the same claim as the record having no further prior.
 

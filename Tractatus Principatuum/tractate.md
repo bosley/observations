@@ -407,7 +407,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **12.34** A form pressed into brightness with no remainder would not stand as a form. There would be no edge, and no one left at a distance to receive it. I am not settling whether that remainder is good. The shade is how a form shows, once a flame is in relation with it.
 
-**12.341** Without day I cannot have night. Night is the shade of a light that has gone around, or gone down, and the day is what lets me say where the dark stops. Darkness is the case with no day in it. It has no contour, and I cannot say where it ends. If evil is a shade (12.23), it is night. Darkness would be no form left to cast one.
+**12.341** Without day I cannot have night. Night is the shade of a light that has gone around, or gone down, and the day is what lets me say where the dark stops. Darkness is the case with no day in it. It has no contour, and I cannot say where it ends. If evil is a shade (12.23), it is night. Where there is no light in it, no form is left that could cast a shade, and so there is no night.
 
 **12.342** I suspect an observer could bring light fully onto the form and cast no shade, and that may only be me putting properties of physical light onto the notion I am using for a likeness. The likeness does not make the observation light, and it does not make observation behave as light does outside the one relation I am using it for. Taking the likeness for the thing is the miss in 4.341.
 
@@ -507,334 +507,338 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 Terms as they are used here. The number is where the term is introduced.
 
-allegory
+**allegory**
 
 :   A sequence of relations; the shape is outlined only after a series of acts, distances, and consequences. (15.2)
 
-analogy
+**analogy**
 
 :   A likeness held as a likeness: the same shape pointed at somewhere else, then a return. (15.0)
 
-attachment
+**attachment**
 
 :   A notion drawing me toward another notion, where the notion that draws is usually one already associated with the self; there are cases where no such notion is there yet. (16.0)
 
-authentic self
+**authentic self**
 
 :   A mind holding its story to its hardened record, setting the order of standards, and acting on the difference; currently doing both refinements. (6.2)
 
-authenticity
+**authenticity**
 
 :   A mind or principality is authentic so far as the story it tells of itself stays close to the hardened record of what it produced. (5.17)
 
-body
+**body**
 
 :   Physical substance that hosts the mind, is moved by it, and supplies it with sensory data about the environment. (1.1)
 
-bone
+**bone**
 
 :   The hard part of the body; what stays longest; laid down slowly; closer to acted-on than acting; stands in the place of the physical remnant. (4.01)
 
-boundary
+**boundary**
 
 :   A region at the foundation of worldview that drives contemplation away; attention pushed off a subject. (9.3)
 
-chosen
+**chosen**
 
 :   A membership whose foregrounding I can find myself having done: mine to take up or set down, relative to the observer. (8.22)
 
-communication
+**communication**
 
 :   Using the body to interface with the environment to emit and encode information (speech, gesture, writing). (2.1)
 
-consistent self
+**consistent self**
 
 :   A self that matches its own record and never set anything by 6.16, only reporting the shape 6.17 supplies. (6.3)
 
-contact error
+**contact error**
 
 :   Taking the remnant, or the story told about it, for the thing itself. (7.1)
 
-contempt
+**contempt**
 
 :   Attention pushed off so the relation is not made; the weight can remain after I stop taking them as wearing the notion. (16.1)
 
-darkness
+**darkness**
 
-:   The case with no day in it; no contour; no form left to cast a shade. (12.341)
+:   The case with no day in it; no contour; where it ends cannot be said. Where there is no light in it, no form is left that could cast a shade. (12.341)
 
-death
+**day**
+
+:   What lets me say where the dark stops; without it there is no night. (12.341)
+
+**death**
 
 :   The body ending: the soft system stops, and what it was holding is not observed coming along with the bone. (13.0)
 
-default order
+**default order**
 
 :   Where I do not stop to order my standards, the order supplied by whichever standard belongs to the principality nearest me. (6.17)
 
-degrees of falsehood
+**degrees of falsehood**
 
 :   Truth treated as the far end of a grading, asymptotic, approached and not reached; what is had are degrees of falsehood. (12.21)
 
-degrees of freedom
+**degrees of freedom**
 
 :   A function of the level of authenticity of self, and of the resolution of mapping the mind has. (14.1)
 
-emotional landscape
+**emotional landscape**
 
 :   Inner space whose geography is determined by accumulated experience; a space in which a mind's notions exist and relate to one another. (9.1)
 
-environment
+**environment**
 
 :   Area immediately outside the body, beginning at the limits of the physical body, where sensory inputs find themselves. (1.3)
 
-etch
+**etch**
 
 :   Repeating a relation already made across further fathoms, with the reader as one end; the relation can later be found as imprint without a return through the senses. (12.121)
 
-evil
+**evil**
 
-:   Shade, not a second kind of being; how far the "I" stands from the form, and which face of the form the relation is using. (12.23)
+:   Shade, not a second kind of being; how far the "I" stands from the form, and which face of the form the relation is using. Where it is a shade, it is night. (12.23, 12.341)
 
-fade
+**fade**
 
 :   The natural ending, where the nervous system fails by degrees and the hard part is what stays longest. (13.01)
 
-fair representative
+**fair representative**
 
 :   Once another mind reads me as inside a principality, I am its concept as they hold it; fairness is the part still mine to choose. (5.151)
 
-fairness
+**fairness**
 
 :   A fair representative of a role has a standard set for that role and keeps revising how well it is met by what was done. (6.5)
 
-familial love
+**familial love**
 
 :   Love where the other mind is placed, and the attachment can be there before an "I" who could have set it; fondness and closeness are the same attachment, coarser or finer by the relations in the shape worn. (16.03)
 
-fathom
+**fathom**
 
 :   The span a flame takes; a floor below which "self" stops being something that can be pointed at. (10.12)
 
-final singularity
+**final singularity**
 
 :   The last floor, by likeness to 9.13, arrived at by the soft system stopping, not by a subject acting as the key that releases weight. (13.12)
 
-flame
+**flame**
 
 :   The base act of self; attention; the fathom is spent wherever attention is. (10.12)
 
-foregrounding
+**foregrounding**
 
 :   Situations where membership itself is under scrutiny (me-as-employee, me-as-countryman, me-as-family). (5.152)
 
-form
+**form**
 
 :   The shape outlined by a set of relations; not one thing sitting alone. (12.0)
 
-free will
+**free will**
 
 :   A spectrum; unadulterated free will only to the degree the body and the established landscape of the mind can permit. (14.0)
 
-fruits
+**fruits**
 
 :   A principality known by what was actually done, weighed against worldview; the self is one piece of that fruit when membership is legible. (5.15)
 
-gravity likeness
+**gravity likeness**
 
 :   Weight sits in the emotional landscape the way a mass sits in physical space; a high-weight notion pulls on the notions nearest it. (9.12)
 
-happenstance shade
+**happenstance shade**
 
 :   The form left free to be itself, occupying a distance another form cannot take; the cost of a form being a form. (12.32)
 
-hardened record
+**hardened record**
 
 :   The part of a principality's action that survives the telling and can still be inspected; durable relative to recall, not fixed as bone is fixed. (5.14)
 
-hate
+**hate**
 
 :   Attachment where the draw is away: the notion associated with the self draws away from the notion worn; can enhance focus, and can show up similar to love. (16.1)
 
-history
+**history**
 
 :   The story as it reaches me, passed down through physical remnant and social remnant; analogous to mind. (3.5)
 
-"I"
+**"I"**
 
 :   The self as a property of the mind-body feedback system and of the two modalities of memory. (1.64)
 
-ideal
+**ideal**
 
 :   The arrangement of standards I would arrive at if I stopped and set it, instead of letting it default. (6.16)
 
-imprint
+**imprint**
 
 :   Storage of information impressed by environment: habits and the like; drives without being recalled. (1.61)
 
-infliction
+**infliction**
 
 :   The same form turned: someone faced the lit side and used the unlit side; what is added is the choosing. (12.33)
 
-inscription error
+**inscription error**
 
 :   Taking the recalled story for the whole of what is driving; the imprint landed where recall cannot reach. (7.3)
 
-intention attribution
+**intention attribution**
 
 :   Requires multiple signals pointing toward a goal that is fathomable and can be weighed against the originating mind's worldview. (5.11)
 
-light
+**light**
 
-:   Likeness for the act of observation; full light would be the form with no remainder of miss. (12.22)
+:   Likeness for the act of observation; full light would be the form with no remainder of miss, and that is not observed .(12.22)
 
-likeness taken as identity
+**likeness taken as identity**
 
 :   Scale likeness no longer held as likeness and treated as a readable identity (tarot, zodiac, and the like). (4.341)
 
-love
+**love**
 
 :   Attachment when the other end is held as a mind I could fathom; a stipulated use. (16.02)
 
-lust
+**lust**
 
 :   Attachment when the other end is held as an aspect; a stipulated use, at the coarser end of one run and not a second kind. (16.02)
 
-metaphor
+**metaphor**
 
 :   A substitution, as when the flame stands in for attention. (15.1)
 
-mind
+**mind**
 
 :   Realm of thoughts, which cannot be physically interacted with; the body hosts the mind, and what happens to the body reaches it. (1.0)
 
-mitigation
+**mitigation**
 
 :   Changing how much of the self's shaping goes through unexamined. (8.21)
 
-momentariness
+**momentariness**
 
 :   Followed far enough, there is no self left to point at: self as a series of separate moments. (10.1)
 
-nesting
+**nesting**
 
 :   Each principality answers mostly to those nearest it, below and above; nothing sits outside running the whole from a single point. (4.33)
 
-night
+**night**
 
-:   The shade of a light that has gone around, or gone down; if evil is a shade, it is night. (12.341)
+:   The shade of a light that has gone around, or gone down; the day is what lets me say where it stops. If evil is a shade, it is night. (12.341)
 
-observer
+**observer**
 
 :   A principality reading other principalities' remnants, with a reader those remnants had a hand in conditioning; observation is a second reading of a remnant. (7.5)
 
-physical remnant
+**physical remnant**
 
 :   What can still be encountered with the senses as leftover of what the stories are about; destroyable or modifiable. (3.2)
 
-placed
+**placed**
 
-:   A membership already there before any such pointing; what I can find is that I am already being read as inside it, relative to the observer. (8.22)
+:   A membership already present; what I can find is that I am already being read as inside it, relative to the observer. (8.22)
 
-Primordiant
+**Primordiant**
 
-:   The superset from which abstractions and implementations emerge; preceded the beginning of time; holding every present instant. (11.41)
+:   The superset from which abstractions and implementations emerge; The name of the boundary that marks the beginning of time; Coupled to the forms that are required for the first possible fathom (11.41)
 
-principality
+**principality**
 
 :   A group of groups of related responses in the soft system, bounded enough to point at, made of smaller principalities and belonging to a larger one (4.31). None comes from a single act; each accumulates by repetition and consequence past the point of traceability (4.32), the same way the soft system and the mind, held together, accumulate into the principality I call "I" (1.64, 6.0) — itself built from installed language and installed experience (2.2). Each principality answers mostly to the principalities nearest it, below and above, with nothing outside running the whole from a single point (4.33). The same arrangement appears above the body and below it — family, town, nation — analogous at scale (4.34).
 
-reader error
+**reader error**
 
 :   The reader was conditioned by what is being read; what goes wrong was impressed into the reader before any sensing. (7.2)
 
-recall
+**recall**
 
 :   Storage of information that can be freely recalled: thoughts, sensory recordings. (1.61)
 
-record
+**record**
 
 :   What interactions leave in the environment; of the same kind as the physical remnant and the bone. (5.03)
 
-relation
+**relation**
 
 :   One end the remnant, the other the reader; observation is that relation. (12.1)
 
-representation of another mind
+**representation of another mind**
 
 :   A held model of another's worldview, close enough that motivations can be inferred from it, under constant refinement. (5.02)
 
-resolution
+**resolution**
 
 :   More relations, and the resolution of the shape is finer; fewer, and it is coarser. (12.01)
 
-role
+**role**
 
 :   The concept of a principality as another mind holds it when it looks at me, in situations where that membership is under scrutiny. (6.05)
 
-scale error
+**scale error**
 
 :   Taking the scale one happens to be standing on for the whole pattern. (7.4)
 
-scale likeness
+**scale likeness**
 
 :   The same kind of arrangement appears above the body and below it; analogous at scale. (4.34)
 
-self
+**self**
 
 :   The "I" that the mind understands itself to be, of both modalities of memory. (6.0)
 
-shade
+**shade**
 
 :   Where illumination stops; a silhouette has the outline and none of the substance. (12.22)
 
-singularity
+**singularity**
 
 :   A region in the emotional landscape where the distortion is enough that the ordinary shape will not hold. (9.13)
 
-social remnant
+**social remnant**
 
 :   Remnant that is not an inspectable object: in the given language, in unspoken conduct, in arrangements already producing conduct. (3.3)
 
-soft system
+**soft system**
 
 :   The nervous system; what registers as it happens and changes with what happens to it; stands in the place of the social remnant. (4.02)
 
-standard
+**standard**
 
 :   For any given role, the implicit measure of what counts as carrying it out well. (6.14)
 
-suffering
+**suffering**
 
 :   A shade of that shade. (12.23)
 
-taboo
+**taboo**
 
 :   The bend where the weight is a property of the region across many minds, carried in by the installed means of communication and already in the social remnant. (16.2)
 
-the gap
+**the gap**
 
 :   No mind is read without traversing the environment; intentions are not met directly. (5.0)
 
-two modalities of memory
+**two modalities of memory**
 
 :   Recall and imprint; the "I" is a property of the mind-body feedback system and of both stores. (1.64)
 
-uncreated territory
+**uncreated territory**
 
 :   Territory left uncreated if the mind has not witnessed a specific state of affairs; it does not exist as empty space. (9.11)
 
-wearing
+**wearing**
 
 :   What I meet is taken as wearing a notion, another mind or an aspect such as sex, money, or power; the same act from the other end as reading a role. (16.01)
 
-weight
+**weight**
 
 :   Stored potential behind a response whose magnitude does not correspond to the subject taken on its own; stored in the soft system; the subject is the key, not the source. (9.0)
 
-worldview
+**worldview**
 
 :   Assumptions structurally embedded through communication; constituents of sense of self. (2.3)
 
-yearning
+**yearning**
 
 :   The draw toward the notion worn. (16.1)

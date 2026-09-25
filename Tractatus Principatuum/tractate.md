@@ -4,13 +4,21 @@ author: "Josh A. Bosley"
 date: 2026
 ---
 
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 ## Dedication
 
 Thank you to my parents for showing me how to think, not what to think.
 
-Thank you to my wife for being the foundation thats keeps me together.
+Thank you to my wife for being the foundation that keeps me together.
 
-To my sons Desmond and Ezra: I hope this record of my account benefit you. I will always love you.
+To my sons Desmond and Ezra: I hope this record of my account benefits you. I will always love you.
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## Contents
 
@@ -30,6 +38,10 @@ To my sons Desmond and Ezra: I hope this record of my account benefit you. I wil
 14. [Degrees of the will](#degrees-of-the-will)
 15. [Analogy and allegory](#analogy-and-allegory)
 16. [Attachment](#attachment)
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## Preface
 

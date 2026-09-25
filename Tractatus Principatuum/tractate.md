@@ -499,7 +499,9 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **16.21** The same region can sit as a barrier that drives contemplation away (9.3), while the social remnant is already producing conduct (3.3). Which relations I take the other end to be wearing can come apart from the record, and I still do not have the signals that would let me attribute a lie (5.11, 4.341).
 
-
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## Glossary
 

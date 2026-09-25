@@ -521,7 +521,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **authentic self**
 
-:   A mind holding its story to its hardened record, setting the order of standards, and acting on the difference; currently doing both refinements. (6.2)
+:   Checking the story against the record, setting the standards, and acting on the difference. (6.2)
 
 **authenticity**
 
@@ -537,11 +537,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **boundary**
 
-:   A region at the foundation of worldview that drives contemplation away; attention pushed off a subject. (9.3)
-
-**chosen**
-
-:   A membership whose foregrounding I can find myself having done: mine to take up or set down, relative to the observer. (8.22)
+:   A subject attention will not stay on. (9.3)
 
 **communication**
 
@@ -549,7 +545,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **consistent self**
 
-:   A self that matches its own record and never set anything by 6.16, only reporting the shape 6.17 supplies. (6.3)
+:   A self that matches its record but never chose its standards. (6.3)
 
 **contact error**
 
@@ -557,7 +553,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **contempt**
 
-:   Attention pushed off so the relation is not made; the weight can remain after I stop taking them as wearing the notion. (16.1)
+:   Turning attention away so the relation is not made. (16.1)
 
 **darkness**
 
@@ -593,7 +589,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **etch**
 
-:   Repeating a relation already made across further fathoms, with the reader as one end; the relation can later be found as imprint without a return through the senses. (12.121)
+:   Repeating a relation until it stays without going back through the senses. (12.121)
 
 **evil**
 
@@ -633,7 +629,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **form**
 
-:   The shape outlined by a set of relations; not one thing sitting alone. (12.0)
+:   The shape outlined by a set of relations; not one single discernable thing. (12.0)
 
 **free will**
 
@@ -641,7 +637,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **fruits**
 
-:   A principality known by what was actually done, weighed against worldview; the self is one piece of that fruit when membership is legible. (5.15)
+:   What was actually done. (5.15)
 
 **gravity likeness**
 
@@ -657,11 +653,11 @@ Terms as they are used here. The number is where the term is introduced.
 
 **hate**
 
-:   Attachment where the draw is away: the notion associated with the self draws away from the notion worn; can enhance focus, and can show up similar to love. (16.1)
+:   Attachment that draws away. (16.1)
 
 **history**
 
-:   The story as it reaches me, passed down through physical remnant and social remnant; analogous to mind. (3.5)
+:   The story as it reaches me. (3.5)
 
 **"I"**
 
@@ -673,7 +669,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **imprint**
 
-:   Storage of information impressed by environment: habits and the like; drives without being recalled. (1.61)
+:   Habits and the like, impressed by environment, not recalled. (1.61)
 
 **infliction**
 
@@ -737,7 +733,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **placed**
 
-:   A membership already present; what I can find is that I am already being read as inside it, relative to the observer. (8.22)
+:   A membership already on me. (8.22)
 
 **Primordiant**
 
@@ -749,7 +745,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **reader error**
 
-:   Reading with a reader already conditioned by what is being read. (7.2)
+:   The reader was already shaped by what is being read. (7.2)
 
 **recall**
 
@@ -773,7 +769,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **role**
 
-:   The concept of a principality as another mind holds it when it looks at me, in situations where that membership is under scrutiny. (6.05)
+:   What another mind takes me for in a membership. (6.05)
 
 **scale error**
 
@@ -813,7 +809,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **taboo**
 
-:   The bend where the weight is a property of the region across many minds, carried in by the installed means of communication and already in the social remnant. (16.2)
+:   A shared weight, already in how we speak and act. (16.2)
 
 **the gap**
 
@@ -821,19 +817,19 @@ Terms as they are used here. The number is where the term is introduced.
 
 **two modalities of memory**
 
-:   Recall and imprint; the "I" is a property of the mind-body feedback system and of both stores. (1.64)
+:   Recall and imprint. (1.64)
 
 **uncreated territory**
 
-:   Territory left uncreated if the mind has not witnessed a specific state of affairs; it does not exist as empty space. (9.11)
+:   What has not been witnessed; not empty space, just not there. (9.11)
 
 **wearing**
 
-:   What I meet is taken as wearing a notion, another mind or an aspect such as sex, money, or power; the same act from the other end as reading a role. (16.01)
+:   Taking the other as a mind, or as something like sex, money, or power. (16.01)
 
 **weight**
 
-:   Stored potential behind a response whose magnitude does not correspond to the subject taken on its own; stored in the soft system; the subject is the key, not the source. (9.0)
+:   Extra force in a response the subject alone does not warrant. (9.0)
 
 **worldview**
 
@@ -841,4 +837,4 @@ Terms as they are used here. The number is where the term is introduced.
 
 **yearning**
 
-:   The draw toward the notion worn. (16.1)
+:   The draw toward what the other is taken as. (16.1)

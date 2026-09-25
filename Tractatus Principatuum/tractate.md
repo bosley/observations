@@ -137,6 +137,8 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape I will come to later, a place where the ordinary shape of the self will not hold and a finished map across scales is taken up because it is the nearest principality.
 
+**4.343** When I catch myself treating the likeness as if it were the thing, I want to be suspicious of that. I check the other relations of the same shape until what I am pointing at can sit without the ones nearest it having to bend to hold it.
+
 ## 5. Doubt and record
 
 **5.0** I have never been able to read the intentions of other minds without traversing the gap presented by our environment. No mind I have ever interfaced with has appeared to have the ability to interface with minds without doing the same.
@@ -461,15 +463,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **15.0** An analogy is a likeness held as a likeness. I point at the same shape somewhere else, and then I come back. In this document thus-far `temperature` and the `fathom` are examples of this (10.11, 10.13) as are `weight` and `gravity` (9.12).
 
-**15.01** The arrangement of principalities is analogous at scale, above the body and below it (4.34). I take that likeness as a readable identity when I use it as if it were the arrangement itself (4.341).
-
-**15.011** Crossing the likeness into an identity is where suspicion is the response I would want. The check is the other relations of the same shape, until the form being identified can sit without the notions nearest it having to bend to hold it.
-
-**15.012** If that check is not made, the nearest standard sets the order anyway (6.17). A story can then come apart from the record by accumulation, and still not be a lie I am in a position to attribute intention to.
-
 **15.1** A metaphor is a substitution, as when the flame stands in for attention (10.2).
-
-**15.11** The emotional landscape is not some loose metaphor for mood (9.1). The space is being claimed as the thing the notions sit in. If I do not come back and check the likeness, the substitution is the miss in 4.341.
 
 **15.2** An allegory is a sequence of relations. I have to go through a series of acts, distances, and consequences before the shape is outlined. I cannot have the allegory from one emblem any more than I can have the holding of the cup from one member of the group.
 

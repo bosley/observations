@@ -314,6 +314,12 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **11.412** In the instant, another member of the group has not held the instant (11.4). A fathom is the span a flame takes (10.12), and the flame is attention (10.2), so a fathom is already a mind able to fathom. At that first one, however much time had to go by before there was a mind that could, the patterns the fathom is of have to already be there, and whatever makes those patterns has to already be there too, or the fathom has nothing to be of. That may only be where I am standing, a limit of what I can possibly know. For the sake of coherent ground, I assume it. The Primordiant is what is holding that, and what it holds are the patterns, for the sake of the fathom that I can directly experience.
 
+**11.42** Locating emergence uses the same reduction as earlier: time collapsed to a single instance, the smallest "now" before there is nothing left to point at (10.1). What preceded the instant and what holds it up (11.32) both arise in that reduction, since the reduction isolates an instant sharp enough that either question can apply to it.
+
+**11.421** I have not resolved whether the grouping of vertical and horizontal causality (11.41) is two things found in the world, arrived at from different directions, or internal to the reduction. If they are two things, each is at its own scale, and an impress can cross from one to the other without the two becoming one (7.4). If the grouping is internal to the reduction, it is closer to a metaphor for the span of that reduction (15.1).
+
+**11.422** I do not have a way, from inside the reduction, to tell these apart. The reduction is the reader (7.2) for whatever it is I take myself to be perceiving here. I record the grouping as it appears to me (11.41), and I record this potentiality alongside it.
+
 ## 12. Form and Relations
 
 **12.0** A form is the shape outlined by a set of relations. I have not found a form that is one thing sitting alone.

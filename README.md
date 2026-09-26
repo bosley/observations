@@ -16,6 +16,10 @@ I can't speak on anything that I don't know about. All I know is how I'm represe
 
 I'm not speaking with authority over others, only with authenticity of self, in which I can say I believe what I claim here because I claim it as truthfully as I can understand it (6.1, 6.2).
 
+### Interactive
+
+`python3 "Tractatus Principatuum/tpg/serve.py"`
+
 ## On AI
 
 AI is a tool I use. Not as the source of any of this, but as an aide for formatting and argumentation. I sometimes use it to turn speech-to-text into consistent prose, and I use it to argue against my points so I can see where they fail. I do this in software I made for my own work and purposes, called [Insula](https://insulalabs.io). 

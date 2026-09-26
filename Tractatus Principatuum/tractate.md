@@ -618,7 +618,7 @@ Any time a "big" emotion is the response of the concepts represented behind anot
 
 **21.4** I will call the answer a mind is already using for something rather than nothing, examined or not, its `origin-account`.
 
-**21.41** I have no origin-account I can validate. Any remnant I could hold it to is already a something, so there is no later fruit that could decide it (18.7, 11.12, 5.17). A mind working as philosopher, mathematician, or physicist is still inside what can be inspected, and a system aimed at a corner of that does not become an account of why there is anything to inspect (7.4, 5.1).
+**21.41** I have no origin-account I can validate against reality to full certainty. Any remnant I could hold it to is already a something, so there is no later fruit that could decide it (18.7, 11.12, 5.17). A mind working as philosopher, mathematician, or physicist is still inside what can be inspected, and a system aimed at a corner of that does not become an account of why there is anything to inspect (7.4, 5.1).
 
 **21.42** The no-prior holding (21.3) is still an origin-account, and it seems to grade what gets treated as worth doing (6.17).
 

@@ -34,10 +34,15 @@ To my sons Desmond and Ezra: I hope this record of my account benefits you. I wi
 10. [Flame and fathom](#flame-and-fathom)
 11. [The Primordiant](#the-primordiant)
 12. [Form and relations](#form-and-relations)
-13. [Singularity of death](#singularity-of-death)
-14. [Degrees of the will](#degrees-of-the-will)
+13. [Degrees of the will](#degrees-of-the-will)
+14. [Capacity and familiarity](#capacity-and-familiarity)
 15. [Analogy and allegory](#analogy-and-allegory)
 16. [Attachment](#attachment)
+17. [Argument](#argument)
+18. [Shared forms](#shared-forms)
+19. [Temperature of a principality](#temperature-of-a-principality)
+20. [Singularity of death](#singularity-of-death)
+21. [Origin-account](#origin-account)
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -411,53 +416,39 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **12.342** I suspect an observer could bring light fully onto the form and cast no shade, and that may only be me putting properties of physical light onto the notion I am using for a likeness. The likeness does not make the observation light, and it does not make observation behave as light does outside the one relation I am using it for. Taking the likeness for the thing is the miss in 4.341.
 
-## 13. Singularity of death
+## 13. Degrees of the will
 
-**13.0** Death, as I mean it here, is the body ending, and not every ending. It is the one where the soft system stops and I do not observe what it was holding coming along with the bone (4.03).
+**13.0** Free will is a spectrum.
 
-**13.01** I am assuming the fade, the natural one, where the nervous system fails by degrees and the hard part is what stays longest (4.01, 4.03). A death that cuts the body off while the soft system is still registering is a different case.
+**13.01** True unadulterated free will is possible only to the degree the body and the established landscape of the mind can permit (4.01, 9.031, 9.12). What gets called truth is the far end of a grading, asymptotic (approached and not reached), and what I actually have are degrees of falsehood (12.21). "True" in "true free will" is affected by that.
 
-**13.1** While the soft system is still registering, "now" is already gone by the time I ask after it (10.0). The "I" I can point at is one I am already remembering (10.01). Death does not introduce that. It is where the remembering runs out of a system that can still host it (1.5).
+**13.1** The will that watches the record laid, and directs the path the laying happens on, can move in degrees of freedom.
 
-**13.11** Follow "who am I now?" down and there is no self left to point at (10.1). A fathom is the floor under that, not a fixed size (10.14). In the fade, the floors get fewer. Habit and the impress go on driving a variant of "I" after recall is gone (1.61, 1.62). What I expect, and do not observe from inside, is the last floor, and then no unit a self could be built across (10.13).
+**13.11** Those degrees are a function of the level of authenticity of self, and of the resolution of mapping the mind has (12.01).
 
-**13.12** I will call that last floor the final singularity, only by likeness to the region where the ordinary shape will not hold and the process responsible for the ability to know breaks down (9.13, 9.131). The fade arrives by the soft system stopping, not by a subject acting as the key that releases weight (9.01). The self collapses onto the smallest "now" the nervous system can still set (10.12), and then the nervous system is not setting one.
+**13.12** Only the authentic self can accurately read the record (6.03, 6.22). A self that matches its record and never set anything is consistent, and I do not call it authentic (6.3).
 
-**13.2** Observation does not pass that singularity from inside it. The flame is attention, and attention is a soft-system act (10.2, 4.02). When the soft system is among the first things to stop, the passing is what someone else does, the way I already do not observe what the nervous system was holding coming along with the bone (4.03).
+**13.13** The mind cannot fathom what it cannot imagine by definition, and it cannot imagine what it has not experienced, as all imagination is downstream from experience and inferences made on experience (9.11).
 
-**13.21** What can be passed is the remnant. Bone, in the place of the physical remnant (4.1, 4.2). The hardened record of what was done (5.14, 6.21). The social remnant, if the impress is still driving conduct in other bodies (3.3, 3.4). None of those is the "I" of 10.01. They are what a later flame can fathom (7.1, 12.1).
+**13.2** What the act of directing does is on record where the resulting actions leave traces that other minds can illuminate (5.14, 7.1).
 
-**13.22** The principality does not die with the body, so far as it was never only the body (4.34, 5.13). What stops is this soft system's organizing of whatever happens next (4.32). What may remain is the arrangement as other principalities still hold it, and the fruit already in their record (5.151, 6.4).
+**13.21** That record carries no implied worth with my statement, worth is a judgment function relative to the observing mind. Accuracy and worth are different questions (6.13).
 
-**13.3** Prior to time there is no point left at which a record can be identified (11.12). After the last fathom there is no point left at which this "I" can identify one. I do not know what is there. Another event in the record has not ended the record (11.4). The fade ending this reader's fathoms is not the same claim as the record having no further prior.
+## 14. Capacity and familiarity
 
-**13.31** The Primordiant is what 11.12 and 11.4 keep asking after and do not find in the sequence or in the group (11.41). It is holding every present instant, including, if the holding does not depend on a mind that can fathom, the instant no fathom of mine is in. I assume that only in the way 11.412 assumes a ground. I do not observe the holding from the far side of the last floor.
+**14.0** What gets called intelligence as I have come to see it is a mind being able to keep and maintain a high resolution on a bounded set of relations (12.01).
 
-**13.32** If self is what emerges across a series of fathoms (10.15), then a series that has stopped is not a self I can point at. The infinite now, if I mean by that the present with no further span, is the collapse of that series to a floor and then to no floor. I do not observe that collapse from inside it. The question takes time, and by then the nervous system that would ask it is not what remains (4.03).
+**14.1** I suspect the quantity under that use is closer to evenly distributed than the use suggests. What differs is the shape it is sitting in. I will call that shape the `vessel`. Biology and etching I suspect set its parts (4.01, 1.4, 12.121).
 
-**13.4** The Primordiant is the first thing that permits a fathom (11.412). A fathom is already a mind able to fathom, and what it is of has to already be there, held. The same holding is what keeps each present instant (11.41). If the holding does not stop where this reader's fathoms stop (13.31), it is present in the last now this "I" will experience. Beginning, each moment, and the last floor are one holding, not three events I could line up in the record.
+**14.2** I am holding that quantity as a liquid already in the vessel (14.1). Where the vessel is wide, the same quantity sits across many forms and stays shallow in the relations of each (breadth). Where it narrows, it runs down a tighter path and goes far (depth). Breadth and depth are how I am reading that one quantity in the vessel. The liquid is a likeness for the sitting, and I am not claiming the mind holds a liquid (15.0, 4.341).
 
-**13.41** I cannot help seeing that as analogous to what Christian theologians say of God: the beginning and the end, the first and the last, and the sustainer of all beings. The likeness is the shape: first of the fathom, present in the last now, sustaining the instants between. I am not necessarily stating that the Primordiant is that God. If God exists, then in my framework the Primordiant would be analogous to the Father, with his throne seated in the collective emotional landscape, that which we all share; creation, death, and every "now". That is a likeness, and I am still meeting a remnant rather than the thing (7.1, 4.341).
+**14.21** A relation I can discern can be one end of a further relation, and that one an end again, and I have not found where that has to stop (12.0). Making that relation, and one relation on it, is as far as most minds I have met will go, and as far as this one goes on most subjects. Past that, what is required is a validation of a validation of a validation, and the fathoms spent rise sharply (10.12, 12.3). Often nothing in the environment is what is being validated (1.3, 7.1), and that modifies the degree of falsehood (12.21).
 
-**13.42** Other minds already have pictures of this collapse, and the pictures do not agree. In Islam, as I have met it, the moment you die you are face to face with Allah. In others, the meeting is judgment, and it waits until the end of time. Both are accounts of what the last now is a meeting with, and of when the meeting is. What is on record, in this consideration, is the series of "nows" the self mitigated while it was still fathoming. A "now" I can point at is already a remembered one (10.0, 10.01), and the fathom is the span attention took in it (10.2, 10.12).
+**14.3** I will call `capacity` whether the substrate can hold a mind's attention on a relation at all (10.2, 4.02). I will call `familiarity` whether that relation has been passed enough times to be meant again without being built from the start (12.121, 9.11).
 
-## 14. Degrees of the will
+**14.31** A mind can have the capacity and lack the familiarity. From the outside it often appears as a smaller mind (7.1). In the cases I have been in, the practice had not been put into that field. Territory never witnessed is not a reading of the substrate (9.11).
 
-**14.0** Free will is a spectrum.
-
-**14.01** True unadulterated free will is possible only to the degree the body and the established landscape of the mind can permit (4.01, 9.031, 9.12). What gets called truth is the far end of a grading, asymptotic (approached and not reached), and what I actually have are degrees of falsehood (12.21). "True" in "true free will" is affected by that.
-
-**14.1** The will that watches the record laid, and directs the path the laying happens on, can move in degrees of freedom.
-
-**14.11** Those degrees are a function of the level of authenticity of self, and of the resolution of mapping the mind has (12.01).
-
-**14.12** Only the authentic self can accurately read the record (6.03, 6.22). A self that matches its record and never set anything is consistent, and I do not call it authentic (6.3).
-
-**14.13** The mind cannot fathom what it cannot imagine by definition, and it cannot imagine what it has not experienced, as all imagination is downstream from experience and inferences made on experience (9.11).
-
-**14.2** What the act of directing does is on record where the resulting actions leave traces that other minds can illuminate (5.14, 7.1, 13.21).
-
-**14.21** That record carries no implied worth with my statement, worth is a judgment function relative to the observing mind. Accuracy and worth are different questions (6.13).
+**14.41** I have felt the distance between my mind and others as "above" and "below", but those words bring a rank in with them that I refuse. The distance is also like positive and negative, but again, without any connotation.
 
 ## 15. Analogy and allegory
 
@@ -475,7 +466,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **15.41** The outline an allegory leaves is in the emotional landscape. Territory there is left uncreated if the mind has not witnessed a state of affairs (9.11). The allegory hands me a series of implied relations I can put the flame to, and that passing is what can leave the territory. It uses repetition and consequence the way a principality gets installed (4.32), except across a span instead of across a life I had to be in. This act of repetition and observation causes the `etch` (12.121). A metaphor did not need those relations passed, so the outline it leaves is more coarse.
 
-**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder (9.132). The will directs the path (14.1), and the body is what gets put through the acts, distances, and consequences. The impress lands as habit in the body and as what can be recalled.
+**15.411** Ceremonial magic and religious observance put the body through that sequence while it is being lived. The rituals of deliberate extremity in the tradition around Crowley are the same attempt run harder (9.132). The will directs the path (13.1), and the body is what gets put through the acts, distances, and consequences. The impress lands as habit in the body and as what can be recalled.
 
 **15.412** That impress can refine the self toward the authentic self or away from it, depending on whether the record shows movement on a standard I set, or the same repetition installing a shape I did not. The directing leaves a trace either way. Worth is still a separate question (6.13).
 
@@ -493,11 +484,111 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **16.1** I will call the draw toward the notion worn `yearning`. Hate is attachment where the draw is away: the notion associated with the self draws away from the notion worn. It can enhance focus on the subject at hand, and it can show up similar to love. Contempt is attention pushed off so the relation is not made (12.12). The weight can remain after I stop taking them as wearing the notion (9.01).
 
-**16.11** What can be worn is a form already outlined, where the illumination stopped (12.22), and as far as I can find I cannot imagine what I have not experienced (14.13). A yearning toward a form I have seen and not resolved can be there before any notion is associated with the self that could draw toward it (9.02).
+**16.11** What can be worn is a form already outlined, where the illumination stopped (12.22), and as far as I can find I cannot imagine what I have not experienced (13.13). A yearning toward a form I have seen and not resolved can be there before any notion is associated with the self that could draw toward it (9.02).
 
 **16.2** Notions that arrived through similar experience, or around the same time, get pulled toward a high-weight subject (9.12) and can be reasoned about as if the association were in the things (4.341). A taboo is that bend where the weight is a property of the region across many minds (9.2), and as a result of the installed means of communication (2.2), those taboos are "in" me too by way of the social remnant (3.3).
 
 **16.21** The same region can sit as a barrier that drives contemplation away (9.3), while the social remnant is already producing conduct (3.3). Which relations I take the other end to be wearing can come apart from the record, and I still do not have the signals that would let me attribute a lie (5.11, 4.341).
+
+## 17. Argument
+
+**17.0** I will call an `argument` a set of reasons, statements, and facts held so that a position can sit somewhere.
+
+**17.1** I will call `context` the limit of that situation. It decides what the argument is being asked to do. If I cannot name it, I cannot say what would count as the argument having done it (12.0).
+
+**17.2** Two minds can trade a long run of sentences and never have shared a context. Each was inside their own context, talking past each other (7.2).
+
+**17.3** A reason carries a worldview, set or not (2.3). The reason can be narrowed until it looks justified inside the narrowness, and what it implies outside that narrowness can cut against the use made of it.
+
+**17.4** A statement, once said, does other work than the work I meant. Where that other work breaks the context I named, the argument is apart from itself, and the sentence can still sound right in the room (5.1).
+
+**17.5** A fact that does not touch the reasons or the statements is not in the argument. It can be true and still sit beside the context. Unrelated facts get pulled in by unclear language and by weight (9.12, 16.2).
+
+**17.6** Breadth is how much ground the argument tries to cover. Depth is how far it goes into the mechanism of the case in front of it. Weight on the subject can make the argument finer, or hotter, and the record is what shows which (9.04, 5.14).
+
+**17.7** An argument that has not been said is still an argument. The reasons may be in the imprint, or in the nearest standard (7.3, 6.17). They have not been put where another mind can inspect them. 
+
+**17.71** I have observed minds carrying arguments around without them being aware of it until their attention was walked through their adopted and imprinted reasons. 
+
+**17.72** I have a suspicion that if the majority of minds participating in a principality carry too many unobserved internal arguments, it may be the forcing function of self-organization within the principalities that they share.
+
+**17.8** A title, or a place in a hierarchy, is a signal that a mind has done a kind of work, and the signal is not the fruit in this context (5.15, 5.11). A mind can be accomplished in one field and without practice in the field the context is asking about.
+
+**17.10** What I can check is whether the reasons sit together, whether the statements imply a break in the context, and whether the facts belong to that context. Relation to the subject can distort the understanding (9.12). 
+
+**17.11** A checked argument settles a position inside its context. It does not carry the worth of the position (5.14, 6.13).
+
+## 18. Shared forms
+
+**18.0** A form several minds carry in nearly the same shape is gone when those minds are gone, unless it was put where a later mind can still see it (4.03, 13.2, 3.2).
+
+**18.1** I will call that a `shared form` when more than one mind can find it in nearly the same outline. A story told once is not yet that. A figure left in the environment can be. A sequence of acts run in the same order can be.
+
+**18.2** A way of speaking can be enough for how complex a principality is, and they can sit with it for a while (4.31). Then a season changes when they did not expect it, or a drought, or another tribe invades. They meet an outside force they do not understand, or friction at least. That grows the group, or it kills the group. Either way the group is more complex, and the speaking has to get more precise.
+
+**18.3** A death takes a member other members were depending on. Other minds can still hold the arrangement (20.22). The ones left can still lose cohesion.
+
+**18.31** Rituals set in ahead of that death guide the ones left through the forms of the loss, so the group does not fracture (8.21, 15.2, 15.411).
+
+**18.4** The priestly role, as I am reading it, is a mind that can hold several accounts of one event and say what it requires of the group (6.05). It shows up where one account is not enough for how complex the group has gotten (12.01). A leader there is one who understands the sub-principalities inside the tribe. Where the role sits is on the hardened record (5.15).
+
+**18.6** A form tied to one valley, one kin, or one season cannot be taught to a stranger who does not have the place. As the principality gets larger, the forms that can be met get fewer, reach further, and concern how a body behaves toward people it will not meet again (4.34, 5.15).
+
+**18.61** I have met it as a sentence carried after one hearing, as force used on the other forms, and as membership by submission. Which of these did the work in a case is on the hardened record (5.14, 5.11).
+
+**18.7** I hold an account of this kind to a remnant that comes after the account. Where the later record does not move as the account said, the account has come apart from the fruit (5.17, 7.1). The confidence I have is how small that degree of falsehood has gotten (12.21). The reading is still done with a reader the remnants had a hand in (7.2).
+
+## 19. Temperature of a principality
+
+**19.0** Temperature, as I used it (10.11, 15.0), held as a likeness, is what a lot of minds do together when a form is carried in nearly the same shape (11.21).
+
+**19.1** At the scale of a principality above the body I will use that word for the effect, and I mean the likeness (4.34). Nothing in the membership is that temperature (11.21).
+
+**19.2** Once it is there it acts back on the members. What feels ordinary, what gets left as fruit, and what is hard to set down, are readable off it (8.23, 5.15). A member can report a private motive and still be leaving the fruit the temperature was already organizing (6.17, 5.151).
+
+**19.3** Older names, a spirit over a people, a figure with lore, were a way to point at that pattern: what feeds it, what it does to conduct. I am holding the name as a likeness (15.0). Taking the spirit for a second being set beside the membership is ungrounded (4.341).
+
+**19.4** The conduct is in the social remnant with or without the old name (3.3). A later vocabulary can point at the same relations. The name was one way of carrying them (12.0, 15.1).
+
+**19.5** I do not read this well from inside it. I am one of the minds the temperature is a reading of (7.2, 7.5). Another mind, where my membership is foregrounded and theirs is not, can sometimes see the scale I am taking for the whole pattern (7.4).
+
+**19.51** The same limit sits in one body. Another mind can sometimes read what my record has and my recall does not (6.02, 6.03, 7.3). Taking that reading for the whole of me would be an error (7.1).
+
+**19.6** A sequence a people already runs, a confession, a fast, a liturgy, a story told the same way, passes relations in the emotional landscape a member can find again (15.41, 15.411, 9.11).
+
+## 20. Singularity of death
+
+**20.0** Death, as I mean it here, is the body ending, and not every ending. It is the one where the soft system stops and I do not observe what it was holding coming along with the bone (4.03).
+
+**20.01** I am assuming the fade, the natural one, where the nervous system fails by degrees and the hard part is what stays longest (4.01, 4.03). A death that cuts the body off while the soft system is still registering is a different case.
+
+**20.1** While the soft system is still registering, "now" is already gone by the time I ask after it (10.0). The "I" I can point at is one I am already remembering (10.01). Death does not introduce that. It is where the remembering runs out of a system that can still host it (1.5).
+
+**20.11** Follow "who am I now?" down and there is no self left to point at (10.1). A fathom is the floor under that, not a fixed size (10.14). In the fade, the floors get fewer. Habit and the impress go on driving a variant of "I" after recall is gone (1.61, 1.62). What I expect, and do not observe from inside, is the last floor, and then no unit a self could be built across (10.13).
+
+**20.12** I will call that last floor the final singularity, only by likeness to the region where the ordinary shape will not hold and the process responsible for the ability to know breaks down (9.13, 9.131). The fade arrives by the soft system stopping, not by a subject acting as the key that releases weight (9.01). The self collapses onto the smallest "now" the nervous system can still set (10.12), and then the nervous system is not setting one.
+
+**20.2** Observation does not pass that singularity from inside it. The flame is attention, and attention is a soft-system act (10.2, 4.02). When the soft system is among the first things to stop, the passing is what someone else does, the way I already do not observe what the nervous system was holding coming along with the bone (4.03).
+
+**20.21** What can be passed is the remnant. Bone, in the place of the physical remnant (4.1, 4.2). The hardened record of what was done (5.14, 6.21). The social remnant, if the impress is still driving conduct in other bodies (3.3, 3.4). None of those is the "I" of 10.01. They are what a later flame can fathom (7.1, 12.1).
+
+**20.22** The principality does not die with the body, so far as it was never only the body (4.34, 5.13). What stops is this soft system's organizing of whatever happens next (4.32). What may remain is the arrangement as other principalities still hold it, and the fruit already in their record (5.151, 6.4).
+
+**20.3** Prior to time there is no point left at which a record can be identified (11.12). After the last fathom there is no point left at which this "I" can identify one. I do not know what is there. Another event in the record has not ended the record (11.4). The fade ending this reader's fathoms is not the same claim as the record having no further prior.
+
+**20.31** The Primordiant is what 11.12 and 11.4 keep asking after and do not find in the sequence or in the group (11.41). It is holding every present instant, including, if the holding does not depend on a mind that can fathom, the instant no fathom of mine is in. I assume that only in the way 11.412 assumes a ground. I do not observe the holding from the far side of the last floor.
+
+**20.32** If self is what emerges across a series of fathoms (10.15), then a series that has stopped is not a self I can point at. The infinite now, if I mean by that the present with no further span, is the collapse of that series to a floor and then to no floor. I do not observe that collapse from inside it. The question takes time, and by then the nervous system that would ask it is not what remains (4.03).
+
+**20.4** The Primordiant is the first thing that permits a fathom (11.412). A fathom is already a mind able to fathom, and what it is of has to already be there, held. The same holding is what keeps each present instant (11.41). If the holding does not stop where this reader's fathoms stop (20.31), it is present in the last now this "I" will experience. Beginning, each moment, and the last floor are one holding, not three events I could line up in the record.
+
+**20.41** I cannot help seeing that as analogous to what Christian theologians say of God: the beginning and the end, the first and the last, and the sustainer of all beings. The likeness is the shape: first of the fathom, present in the last now, sustaining the instants between. I am not necessarily stating that the Primordiant is that God. If God exists, then in my framework the Primordiant would be analogous to the Father, with his throne seated in the collective emotional landscape, that which we all share; creation, death, and every "now". That is a likeness, and I am still meeting a remnant rather than the thing (7.1, 4.341).
+
+**20.42** Other minds already have pictures of this collapse, and the pictures do not agree. In Islam, as I have met it, the moment you die you are face to face with Allah. In others, the meeting is judgment, and it waits until the end of time. Both are accounts of what the last now is a meeting with, and of when the meeting is. What is on record, in this consideration, is the series of "nows" the self mitigated while it was still fathoming. A "now" I can point at is already a remembered one (10.0, 10.01), and the fathom is the span attention took in it (10.2, 10.12).
+
+## 21. Origin-account
+
+TODO
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -565,7 +656,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **death**
 
-:   The body ending: the soft system stops, and what it was holding is not observed coming along with the bone. (13.0)
+:   The body ending: the soft system stops, and what it was holding is not observed coming along with the bone. (20.0)
 
 **default order**
 
@@ -577,7 +668,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **degrees of freedom**
 
-:   A function of the level of authenticity of self, and of the resolution of mapping the mind has. (14.1)
+:   A function of the level of authenticity of self, and of the resolution of mapping the mind has. (13.1)
 
 **emotional landscape**
 
@@ -597,7 +688,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **fade**
 
-:   The natural ending, where the nervous system fails by degrees and the hard part is what stays longest. (13.01)
+:   The natural ending, where the nervous system fails by degrees and the hard part is what stays longest. (20.01)
 
 **fair representative**
 
@@ -617,7 +708,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **final singularity**
 
-:   The last floor, by likeness to 9.13, arrived at by the soft system stopping, not by a subject acting as the key that releases weight. (13.12)
+:   The last floor, by likeness to 9.13, arrived at by the soft system stopping, not by a subject acting as the key that releases weight. (20.12)
 
 **flame**
 
@@ -633,7 +724,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **free will**
 
-:   A spectrum; unadulterated free will only to the degree the body and the established landscape of the mind can permit. (14.0)
+:   A spectrum; unadulterated free will only to the degree the body and the established landscape of the mind can permit. (13.0)
 
 **fruits**
 

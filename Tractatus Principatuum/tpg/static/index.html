@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tractatus Principatuum</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <div id="app">
+    <header class="mast">
+      <div>
+        <h1 id="doc-title">Tractatus Principatuum</h1>
+        <p class="byline" id="doc-byline"></p>
+      </div>
+      <p class="status" id="status">loading</p>
+    </header>
+    <div class="cols">
+      <nav class="col nav">
+        <input id="search" type="search" placeholder="Number or passage" autocomplete="off" spellcheck="false">
+        <div id="nav-list"></div>
+      </nav>
+      <main class="col read" id="read"></main>
+      <aside class="col side">
+        <div id="panel"></div>
+        <div id="graph" hidden></div>
+      </aside>
+    </div>
+  </div>
+  <script src="/static/vendor/cytoscape.min.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

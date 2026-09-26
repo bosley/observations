@@ -588,7 +588,58 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 ## 21. Origin-account
 
-TODO
+### Preface
+
+I preface this section to remind the reader to hold back assumptions in words and phrasings. No matter how we touch some aspects of origination the words used to express ideas in this context often hold a host of disturbances in the emotional landscape. 
+
+Depending on the temperature of the mind whose flame is held at the symbols I present, it may cause a flinch or outburst. I urge the reader to consider that if an emotion is evoked, sit with it. Any emotion, from anger to elation. 
+
+Any time a "big" emotion is the response of the concepts represented behind another mind's words I find it best to lock your mouth, and just contemplate the words said with understanding of the context. You may have imported baggage or otherwise misunderstood what is meant to be represented.
+
+**21.0** It is natural in the course of ones life to ask "why do I exist", and the records we have access to show that many minds have constructed a myriad of answers to this question.
+
+**21.1** The question "why do I exist" brings with it the notion of there being a "reason" to exist (17.3). Of course there are many answers to this. The shallow-most is "because your parents concieved you." While this is an answer to the question at face value, the mind asking it is often reaching for forms not quite correctly expressed (12.0, 12.01). This I suspect in-part is due to the cultural identiteis impressed upon us unintentionally (2.2, 3.3, 4.32) causing incongruent adopted arguments (17.71, 17.4).
+
+**21.12** The multitude of unobserved and unresolved arguments the self would have with the self (17.7, 17.71) if they could only be guided to map that landscape (9.1). What isnt seen doesnt exist there (9.11), and this is why we use metaphore (15.1, 15.41). These unadressed areas of the minds landscape will often inform the mind's notion of origin (9.4) if the mind's attention can not stand the existential contemplations (flinch) (4.02, 9.3) that causes them to look away (10.22). 
+
+**21.2** "Why do I exist" and "why are we here" are questions ultimately rooted in the indivisuals understanding of "why anything exists at all" (9.4, 21.1). Something rather than nothing is the form under that question.
+
+**21.21** "Why is there something rather than nothing" still brings a reason with it (21.1). Something rather than nothing is the matter being asked after. The reason is in the "why," and that "why" is the one that looks for a prior the record can show (11.1).
+
+**21.22** I suspect a category error where that "why" is pointed past the record (11.12). A reason is the sort of thing a prior in the record can be (11.0). The Primordiant can't have a cause, as it is what the notion of causation proceeds from (11.411), and a reason for something rather than nothing would be that cause. I do not have a way, from inside the record, to tell a real error here from a limit of where I am standing (11.422).
+
+**21.3** God and not-God, as I have met them argued, are two ways of holding something rather than nothing (16.01). "God did it" sets a cause on the originating surface. One I keep meeting treats the arising as having no prior, and keeps that treatment because the arising cannot be checked (11.0). Each answers the reason the "why" brought in (21.1, 21.22).
+
+**21.31** A mind that refuses the idea and a mind that cannot hold it come out alike in the reasonings that follow, where the context is justice, or ethics, or whatever else the account is already grading (17.1, 17.3). What I can tell apart is the flavor of the contempt, and how large a lexicon the refusal has.
+
+**21.32** A flinch at God, or at not-God, is a picture of God already installed, and the word is what releases it (9.01, 9.3, 21.12).
+
+**21.33** A picture of that kind that can be fully said is the form the mind is holding (12.0, 12.22). What I meet is a remnant (7.1).
+
+**21.4** I will call the answer a mind is already using for something rather than nothing, examined or not, its `origin-account`.
+
+**21.41** I have no origin-account I can validate. Any remnant I could hold it to is already a something, so there is no later fruit that could decide it (18.7, 11.12, 5.17). A mind working as philosopher, mathematician, or physicist is still inside what can be inspected, and a system aimed at a corner of that does not become an account of why there is anything to inspect (7.4, 5.1).
+
+**21.42** The no-prior holding (21.3) is still an origin-account, and it seems to grade what gets treated as worth doing (6.17).
+
+**21.5** An origin-account one did not stop to set is still in use (6.17). It is placed before it is chosen (8.22, 2.2), and it came in with the tongue and with principalities already producing conduct (3.3, 9.4). The picture of why anything exists is already at work in the self that could later ask what a worldview is.
+
+**21.51** Where justice or ethics is being argued, the reasons are often this account, unobserved (17.71, 17.3, 21.12). The mind arguing did not set it, and may have no recall of it (7.3).
+
+**21.6** I will call an `ought` a claim about what should be done. The standards I hold a role to are already being graded by the origin-account under them (6.14). What I take another mind to be here for is graded by that same account, and the oughts come out of that grading (6.17).
+
+**21.61** If the origin-account cannot still support a claim that anything is important, the oughts already being lived have nothing under them.
+
+**21.7** How hard I feel a scene is set by the notion of why the scene is happening, and that notion is the origin-account, or a piece of it, releasing weight already stored (9.01, 9.04).
+
+**21.71** The same remnant can be in front of two principalities and the magnitudes come out far apart (5.14, 9.03). What the frames count as is the account each reader already had (7.2).
+
+**21.72** Near a singularity the feelings move first (9.13, 9.3). Information that would have been ordinary becomes a threat or a relief according to what the account needs it to be.
+
+**21.8** Where revising the origin-account would cost the picture the self is living inside, the fathoms go to defending the established account (9.13, 6.31).
+
+**21.81** Where attention is forced onto an account the mind did not set, and the identity or the membership would not survive the revision, the account is kept past the standards that still order other members of the same principality (6.14). Those standards are in the members whose record can still show the revision as available (8.23).
+
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -605,6 +656,10 @@ Terms as they are used here. The number is where the term is introduced.
 **analogy**
 
 :   A likeness held as a likeness: the same shape pointed at somewhere else, then a return. (15.0)
+
+**argument**
+
+:   A set of reasons, statements, and facts held. (17.0)
 
 **attachment**
 
@@ -818,6 +873,10 @@ Terms as they are used here. The number is where the term is introduced.
 
 :   A principality reading remnants with a conditioned reader; observation is a second reading. (7.5)
 
+**origin-account**
+
+:   The story a mind tells itself to account for the phenomenon of that mind existing. (21.4) That often extends to encompass the world and other minds as well, but not necessarily. 
+
 **physical remnant**
 
 :   What can still be encountered with the senses as leftover of what the stories are about; destroyable or modifiable. (3.2)
@@ -878,6 +937,10 @@ Terms as they are used here. The number is where the term is introduced.
 
 :   Where illumination stops; a silhouette has the outline and none of the substance. (12.22)
 
+**shared form**
+
+:   A form more than one mind can find in nearly the same outline. A story told once is not yet that. (18.1)
+
 **singularity**
 
 :   A region in the emotional landscape where the distortion is enough that the ordinary shape will not hold. (9.13)
@@ -901,6 +964,10 @@ Terms as they are used here. The number is where the term is introduced.
 **taboo**
 
 :   A shared weight, already in how we speak and act. (16.2)
+
+**temperature**
+
+:   What a lot of minds do together when a form is carried in nearly the same shape. A likeness, used for that effect in a principality above the body. Nothing in the membership is that temperature. (19.0, 19.1)
 
 **the gap**
 

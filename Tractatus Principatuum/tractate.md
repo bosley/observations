@@ -128,7 +128,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.2** The habits (1.62) that would go on driving a variant of "I" even with all recall removed, are then probably just this soft system's version of that unrecalled imprint. And bone, on this reading, is what would be left once even that stopped.
 
-**4.3** But looking closer at the soft system, I don't think it is one undifferentiated thing that simply changes as a whole. When something in it shifts, a cluster of related responses shifts with it, not the whole system at once. And these clusters seem to belong to larger clusters, which belong to larger ones again, without my having called a meeting to arrange it that way.
+**4.3** But looking closer at the soft system, I don't think it is one undifferentiated thing that simply changes as a whole. When something in it shifts, a cluster of related responses shifts with it, not the whole system at once. And these clusters seem to belong to larger clusters, which belong to larger ones.
 
 **4.31** I want a word for one of these groups of groups. I will call it a "principality." A principality is bounded enough that I can point at it and say this governs how I flinch, or this governs how I talk when I am frightened, while also being made of smaller principalities I could point to underneath it, and belonging to a larger one above it that I could also point to, if less precisely.
 

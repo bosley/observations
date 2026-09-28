@@ -116,33 +116,33 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 ## 4. What constitutes 'a body'
 
-**4.0** My body, like my environment, seems on inspection to hold both a hard part and a soft part, and the two do not last in the same way.
+**4.0** My body, like my environment, seems to hold both a hard part and a soft part, and the two do not last in the same way.
 
-**4.01** The hard part is bone. It is what stays longest. It was laid down slowly, over a span I did not witness and cannot recall, by processes that had mostly finished before I had anything like the "I" who is writing this. It does not update much now. It is closer to something acted on than something acting.
+**4.01** The hard part is bone, and it is what stays longest, laid down slowly over a span I did not witness and cannot recall, by processes that had mostly finished before I had anything like the "I" that I am, and it does not update much now, so it is closer to something acted on than something acting.
 
-**4.02** The soft part is the nervous system, or what gets called that. It is what is registering what is happening to me more or less as it happens, and it changes with what happens to it — a reflex gets sharper, a path gets worn in from use, a flinch gets installed from one bad encounter and stays installed without my having agreed to it.
+**4.02** The soft part is the nervous system, or what gets called that. It is what is registering what is happening to me more or less as it happens, and it changes with what happens to it (a reflex gets sharper, a path worn in from use, a flinch etched in from one bad encounter, etc).
 
-**4.03** Unlike bone, the nervous system barely survives death — it seems to be among the first things to stop. I do not observe what it was holding coming along with the bone. I only observe that the nervous system is not what remains.
+**4.03** The nervous system does not survive death the way bone does. I do not observe what it was holding coming along with the bone, and it is not what remains.
 
-**4.1** This is of a kind with 3.5: bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object, and the nervous system stands in the place of the social remnant, not an object at all but a disposition already producing conduct before I stopped to notice it, the way 3.3 describes.
+**4.1** Bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object (3.2, 3.5), and the nervous system stands in the place of the social remnant. That one does not exist as an object I can inspect. It is already producing conduct before I stop to notice it, the way the arrangements were already producing conduct when I arrived (3.3).
 
-**4.2** The habits (1.62) that would go on driving a variant of "I" even with all recall removed, are then probably just this soft system's version of that unrecalled imprint. And bone, on this reading, is what would be left once even that stopped.
+**4.2** The habits that would go on driving a variant of "I" even with all recall removed (1.62) are then probably just this soft system's version of that unrecalled imprint, and bone is what would be left once even that stopped.
 
-**4.3** But looking closer at the soft system, I don't think it is one undifferentiated thing that simply changes as a whole. When something in it shifts, a cluster of related responses shifts with it, not the whole system at once. And these clusters seem to belong to larger clusters, which belong to larger ones.
+**4.3** When something in the soft system shifts, a cluster of related responses shifts with it, and not the whole of it at once. These clusters seem to belong to larger clusters, which belong to larger ones.
 
 **4.31** I want a word for one of these groups of groups. I will call it a "principality." A principality is bounded enough that I can point at it and say this governs how I flinch, or this governs how I talk when I am frightened, while also being made of smaller principalities I could point to underneath it, and belonging to a larger one above it that I could also point to, if less precisely.
 
-**4.32** No principality got installed by a single act of will, mine or anyone else's. Each one seems to have formed the way bone formed, by repetition and consequence accumulating past the point where I was tracking it, except that what accumulates here is not a fixed shape but an arrangement that keeps organizing whatever happens to it next along lines already laid down.
+**4.32** No principality got installed by a single act of will, mine or anyone else's. Each one seems to have formed the way bone formed, by repetition and consequence accumulating past the point where I was tracking it, except that bone kept a fixed shape, and what accumulates here is an arrangement that keeps organizing whatever happens to it next along lines already laid down.
 
-**4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way, at the level of towns and provinces and nations, a local body answers to what is nearest it and reaches the top of the arrangement only indirectly. Nothing sits outside the whole thing running it from a single point, and yet the whole thing holds together and produces a shape.
+**4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way a town answers to what is nearest it and reaches a nation only through what sits between them. Nothing sits outside the whole of it running it from one point.
 
-**4.34** I notice I cannot find anything particular to bodies in this. A family is a principality outside the body. A town is a larger one it belongs to, a nation larger again. The same kind of arrangement seems to appear again when I look above the body and below it, so what I am seeing is not that bodies are empty of anything particular, but that the pattern appears to be analogous at scale.
+**4.34** A family is a principality outside the body, a town a larger one it belongs to, a nation larger again, and the same kind of arrangement seems to appear above the body and below it, analogous at scale, and not particular to bodies, though a body has what is particular to it.
 
-**4.341** Taken far enough, this seeing is what I think people lean on when they adopt occult correspondence as an internal justification, tarot, zodiac, star signs treated as relating to one's being, and the like, where the likeness across scales is no longer held as likeness and is treated as a readable identity.
+**4.341** I think this is what people lean on when they adopt occult correspondence as an internal justification, tarot, zodiac, star signs treated as relating to one's being, and the like, and the likeness across scales is no longer held as likeness and is treated as a readable identity.
 
-**4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape I will come to later, a place where the ordinary shape of the self will not hold and a finished map across scales is taken up because it is the nearest principality.
+**4.342** I suspect they do this in pursuit of a need, often something close to justifying their own existence, or more generally an attempt to reconcile what sits near a singularity in the emotional landscape (9.13), a place where the ordinary shape of the self will not hold, and the likeness across scales is taken up because it is the nearest principality.
 
-**4.343** When I catch myself treating the likeness as if it were the thing, I want to be suspicious of that. I check the other relations of the same shape until what I am pointing at can sit without the ones nearest it having to bend to hold it.
+**4.343** When I catch myself treating the likeness as if it were the thing, I check the other relations of the same shape, until what I am pointing at can sit without the ones nearest it having to bend to hold it.
 
 ## 5. Doubt and record
 

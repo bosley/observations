@@ -83,3 +83,15 @@ My own way of looking at it, which others need not share, is that it is perfectl
 At some point it has to be decided what the record is and what it is not. If the canon of Christ is marked as important for informing the oughts of the authentic self, then it has to be decided whether Paul really saw Jesus on the way to Damascus. The record says that on that road he met Jesus in a vision, and that the meeting is the warrant for his speaking. He was later attested by others who had known the physical Christ, Peter and James among them. The question is whether that attestation is good enough.
 
 Whether it is or not, the same kind of decision is still open. The Catholic bible and the Protestant bible share the New Testament, Paul included, and they divide on the Old. The Catholic canon keeps books the Protestant canon does not count as scripture, among them Wisdom, Sirach, and Maccabees. The Ethiopian canon is wider than either, and it holds writings neither carries, among them Enoch and Jubilees. A modern discerner of principalities who seeks Christ has to ask which Corpus, which body of writings, holds authenticity enough to inform the inner work. That is left to the reader to discern.
+
+## Space of Forms
+
+In my notion the primordiant exists as a boundary. The suspicion, not mentioned in the tractate, is that it could be a sort of pleroma of God, an adopted word with the baggage on it, for the closeness, without a new term, a sort of place where forms could exist as a `kind` of being that ultimately makes the substrate required for a mind to fathiom. I have my doubts as to the reality of this plane, but If we entertain the thought though, Christ as a persona may in fact be a face of God, and may be a bridge to cross the barrier at the last "now" inside the mind.
+
+Holding the thought for the sake of the argument, I am unable to validate the claims scientifically, as this is internal experience and experimentation, and science is external experience and experimentation.
+
+In order to prove such a hypothesis, it must be lived
+
+## Faith
+
+Gap assumptions, taken on in a swath, constitute the form of Faith.

@@ -7,6 +7,7 @@ SERVER_VERSION = "1.0.0"
 RANGE_ID_RE = re.compile(r"^(\d+\.\d+)\s*[–-]\s*(\d+\.\d+)$")
 NUM_RE = re.compile(r"^\d+(\.\d*)?$")
 MAX_IDS = 120
+SOURCE_URL = "https://github.com/bosley/observations"
 
 
 class RpcError(Exception):
@@ -131,6 +132,15 @@ class Tractate:
 
     def byline(self):
         return ", ".join(b for b in (self.meta.get("author"), self.meta.get("date")) if b)
+
+    def summary(self):
+        who = f" by {self.meta['author']}" if self.meta.get("author") else ""
+        when = f" ({self.meta['date']})" if self.meta.get("date") else ""
+        return (
+            f"{self.title} is a tractate{who}{when} written as {len(self.order)} numbered propositions "
+            f"across {len(self.chapters)} chapters, with a glossary of {len(self.terms)} terms. "
+            "Propositions cite one another by number, so the text forms a citation graph."
+        )
 
     def section_label(self, s):
         return f"{s['number']}. {s['title']}" if s["kind"] == "chapter" else s["title"]
@@ -448,10 +458,6 @@ class Tractate:
         return {"jsonrpc": "2.0", "id": msg["id"], "result": result}
 
     def llms_txt(self, base):
-        author = self.meta.get("author")
-        date = self.meta.get("date")
-        who = f" by {author}" if author else ""
-        when = f" ({date})" if date else ""
         tool_lines = "\n".join(f"- `{t['name']}`: {t['description']}" for t in TOOLS)
         section_links = "\n".join(
             f"- [{self.section_label(s)}]({base}/#{s['id']}): section id `{s['id']}`" for s in self.sections
@@ -459,9 +465,9 @@ class Tractate:
         notes = "\n".join("- " + n for n in self.numbering_notes())
         return f"""# {self.title}
 
-> {self.title} is a tractate{who}{when} written as {len(self.order)} numbered propositions across {len(self.chapters)} chapters, with a glossary of {len(self.terms)} terms. Propositions cite one another by number, so the text forms a citation graph.
+> {self.summary()}
 
-Agents can read the whole work or retrieve parts of it through an MCP server, or fetch the full text as plain Markdown.
+Start here: this file describes everything available. To read the whole work, fetch {base}/llms-full.txt. To explore it selectively, connect to the MCP server at {base}/mcp and call `get_overview`. The homepage {base}/ also contains the complete text as plain HTML; no JavaScript is required.
 
 ## MCP server
 
@@ -496,4 +502,10 @@ Resources:
 ## Sections
 
 {section_links}
+
+## License
+
+Copyright (c) {self.meta.get("date") or ""} {self.meta.get("author") or ""}. All rights reserved, with permission to read, share, quote, adapt, and build upon this material provided that: any use explicitly names the author and the work and links to the original repository ({SOURCE_URL}); adapted material says it is adapted and links to the original; no endorsement by the author is implied; and redistributions include the license. Full terms: {SOURCE_URL}/blob/main/LICENSE.txt
+
+Source: {SOURCE_URL}
 """

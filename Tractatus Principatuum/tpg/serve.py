@@ -10,6 +10,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from mcp_server import Tractate
+from pages import Pages
 from parse import parse
 
 ROOT = Path(__file__).resolve().parent
@@ -21,7 +22,9 @@ MAX_BODY = 1 << 20
 class Handler(BaseHTTPRequestHandler):
     graph_json = b"{}"
     tractate = None
+    pages = None
     base_url = ""
+    head_only = False
 
     def log_message(self, fmt, *args):
         sys.stderr.write("%s - %s\n" % (self.address_string(), fmt % args))
@@ -44,14 +47,32 @@ class Handler(BaseHTTPRequestHandler):
         )
         self.send_header("Access-Control-Expose-Headers", "Mcp-Session-Id")
 
-    def _send_bytes(self, status, data, ctype):
+    def _agent_link(self):
+        self.send_header(
+            "Link",
+            '</llms.txt>; rel="alternate"; type="text/plain"; title="llms.txt", '
+            '</llms-full.txt>; rel="alternate"; type="text/plain"; title="llms-full.txt"',
+        )
+
+    def _send_bytes(self, status, data, ctype, link=False):
         self.send_response(status)
         self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(data)))
         self.send_header("Cache-Control", "no-cache")
+        if link:
+            self._agent_link()
         self._cors()
         self.end_headers()
-        self.wfile.write(data)
+        if not self.head_only:
+            self.wfile.write(data)
+
+    def _not_found(self):
+        html = Handler.pages.not_found(self._base(), urlparse(self.path).path)
+        self._send_bytes(404, html.encode("utf-8"), "text/html; charset=utf-8", link=True)
+
+    def do_HEAD(self):
+        self.head_only = True
+        self.do_GET()
 
     def _send_json(self, status, obj):
         data = json.dumps(obj, ensure_ascii=False).encode("utf-8")
@@ -71,8 +92,12 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         parsed = urlparse(self.path)
         path = parsed.path
-        if path == "/":
-            self._send_file(STATIC / "index.html")
+        if path in ("/", "/index.html"):
+            html = Handler.pages.index(self._base())
+            self._send_bytes(200, html.encode("utf-8"), "text/html; charset=utf-8", link=True)
+            return
+        if path == "/robots.txt":
+            self._send_bytes(200, Handler.pages.robots(self._base()).encode("utf-8"), "text/plain; charset=utf-8")
             return
         if path == "/api/graph":
             self._send_bytes(200, Handler.graph_json, "application/json; charset=utf-8")
@@ -91,21 +116,21 @@ class Handler(BaseHTTPRequestHandler):
             rel = path[len("/static/") :]
             target = (STATIC / rel).resolve()
             if not str(target).startswith(str(STATIC.resolve())) or not target.is_file():
-                self.send_error(404)
+                self._not_found()
                 return
             self._send_file(target)
             return
-        self.send_error(404)
+        self._not_found()
 
     def do_DELETE(self):
         if urlparse(self.path).path == "/mcp":
             self._send_empty(405, {"Allow": "POST, OPTIONS"})
             return
-        self.send_error(404)
+        self._not_found()
 
     def do_POST(self):
         if urlparse(self.path).path != "/mcp":
-            self.send_error(404)
+            self._not_found()
             return
         try:
             length = int(self.headers.get("Content-Length") or 0)
@@ -150,7 +175,8 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Content-Length", str(len(data)))
         self.send_header("Cache-Control", "no-cache")
         self.end_headers()
-        self.wfile.write(data)
+        if not self.head_only:
+            self.wfile.write(data)
 
 
 def main():
@@ -178,6 +204,7 @@ def main():
     text = json.dumps(graph, ensure_ascii=False)
     Handler.graph_json = text.encode("utf-8")
     Handler.tractate = Tractate(graph)
+    Handler.pages = Pages(Handler.tractate, (STATIC / "index.html").read_text(encoding="utf-8"))
     Handler.base_url = args.base_url.rstrip("/")
     nprop = len(graph["propositions"])
     nterm = len(graph["terms"])

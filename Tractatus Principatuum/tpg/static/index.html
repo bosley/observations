@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Tractatus Principatuum</title>
+  {{head}}
   <link rel="stylesheet" href="/static/app.css">
 </head>
 <body>
@@ -11,16 +11,18 @@
     <header class="mast">
       <div>
         <h1 id="doc-title">Tractatus Principatuum</h1>
-        <p class="byline" id="doc-byline"></p>
+        <p class="byline" id="doc-byline">{{byline}}</p>
       </div>
-      <p class="status" id="status">loading</p>
+      <p class="status" id="status">{{status}}</p>
     </header>
     <div class="cols">
       <nav class="col nav pane-nav">
         <input id="search" type="search" placeholder="Number or passage" autocomplete="off" spellcheck="false">
-        <div id="nav-list"></div>
+        <div id="nav-list">{{nav}}</div>
       </nav>
-      <main class="col read pane-read" id="read"></main>
+      <main class="col read pane-read" id="read">
+{{read}}
+      </main>
       <aside class="col side pane-side">
         <div id="panel"></div>
         <div id="graph" hidden></div>

@@ -139,6 +139,8 @@ body {
 
 .read > h1,
 .read > h2,
+.read > h3,
+.read > ul,
 .read article,
 .read > p {
   max-width: 38rem;

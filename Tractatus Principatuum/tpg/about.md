@@ -10,6 +10,12 @@ A personal philosophy in 267 numbered propositions: how a self is shaped by stor
 
 Tractatus Principatuum is a personal work of philosophy written as 267 short numbered propositions that cite one another. It starts from the fact that no mind can see directly into another, or fully into itself, and builds an account of the self from there: a person is shaped both by stories they can recall and by habits imprinted without their noticing, and we know people, ourselves included, more reliably by the record of what they have done than by the stories they tell. It calls the nested clusters of habit inside a person "principalities," and treats families, towns, and nations as the same kind of arrangement at larger scales. From there it takes up authenticity, meaning, the "weight" that makes some subjects hit far harder than others, free will, love, argument, death, and why anything exists at all, offered throughout as how the world looks from where the author stands, not as an argument the reader is meant to accept.
 
+## Author's note
+
+I'm not a professional philosopher, and I'm not trying to be. I'm not advocating for anything. This is just my perspective.
+
+I'm aware that the tractate form and its numbered system seem to demand logical rigor like Wittgenstein's Tractatus Logico-Philosophicus. This work doesn't have that. I adopted the form to make sure my reasoning wasn't circular, and I wrote a program to check that. The name "Tractatus" honors the work where I first saw this style. Don't read into it.
+
 ## Where to start
 
 Read the Preface first. For the core idea, read chapter 5 (Doubt and record) and chapter 6 (Authentic self). Chapter 4 introduces principalities. Chapter 9 (Weight and landscape) is the most practical: it describes why some subjects carry so much weight and how to read that. Chapters 11 and 20 build toward the Primordiant and the questions of origin and death, and chapter 21 applies the whole framework to why each of us holds the account of existence we do.
@@ -58,6 +64,6 @@ People usually arrive here by pasting the link into a chat and asking what it is
 - What would the tractate say about a fight with my brother that got out of hand?
 - Walk me through the authentic-self check for my role as a parent.
 - Why does one subject hit me so much harder than others?
-- What is the Primordiant, and is it God?
+- What is the Primordiant, and is it God (no, its a boundary)?
 - What does the tractate say about free will?
 - Where should I start reading?

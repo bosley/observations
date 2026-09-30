@@ -168,6 +168,7 @@ class Tractate:
         h = "#" * level
         parts = [f"{h} About this work (the author's summary)", self.summary(), self.format_line()] if lead else []
         for key, label in (
+            ("author's note", "A note from the author"),
             ("where to start", "Where to start"),
             ("guidance for assistants", "For AI assistants"),
             ("example questions", "Questions people ask"),

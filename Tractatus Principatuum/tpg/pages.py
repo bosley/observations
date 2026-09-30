@@ -101,6 +101,7 @@ class Pages:
             f"<p>{esc(t.format_line())}</p>",
         ]
         for key, label in (
+            ("author's note", "A note from the author"),
             ("where to start", "Where to start"),
             ("guidance for assistants", "For AI assistants"),
             ("example questions", "Questions people ask"),

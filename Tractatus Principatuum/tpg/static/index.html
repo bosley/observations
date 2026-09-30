@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Tractatus Principatuum</title>
   <link rel="stylesheet" href="/static/app.css">
 </head>
 <body>
-  <div id="app">
+  <div id="app" data-pane="read">
     <header class="mast">
       <div>
         <h1 id="doc-title">Tractatus Principatuum</h1>
@@ -16,16 +16,21 @@
       <p class="status" id="status">loading</p>
     </header>
     <div class="cols">
-      <nav class="col nav">
+      <nav class="col nav pane-nav">
         <input id="search" type="search" placeholder="Number or passage" autocomplete="off" spellcheck="false">
         <div id="nav-list"></div>
       </nav>
-      <main class="col read" id="read"></main>
-      <aside class="col side">
+      <main class="col read pane-read" id="read"></main>
+      <aside class="col side pane-side">
         <div id="panel"></div>
         <div id="graph" hidden></div>
       </aside>
     </div>
+    <nav class="tabs" id="tabs">
+      <button type="button" data-pane="nav">Contents</button>
+      <button type="button" data-pane="read" class="on">Read</button>
+      <button type="button" data-pane="side">Links</button>
+    </nav>
   </div>
   <script src="/static/vendor/cytoscape.min.js"></script>
   <script src="/static/app.js"></script>

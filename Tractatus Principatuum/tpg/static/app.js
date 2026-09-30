@@ -5,6 +5,35 @@ const sectionById = {};
 let lastRead = "";
 let cy = null;
 let chapterCounts = null;
+let pendingCy = null;
+const narrowQuery = window.matchMedia("(max-width: 760px)");
+
+function isNarrow() {
+  return narrowQuery.matches;
+}
+
+function sideVisible() {
+  return !isNarrow() || $("app").dataset.pane === "side";
+}
+
+function setPane(name) {
+  $("app").dataset.pane = name;
+  document.querySelectorAll("#tabs button").forEach((b) => {
+    b.classList.toggle("on", b.dataset.pane === name);
+  });
+  if (name === "side") flushGraph();
+}
+
+function flushGraph() {
+  if (pendingCy) {
+    const args = pendingCy;
+    pendingCy = null;
+    startCy(args.elements, args.layout, args.focusId);
+  } else if (cy) {
+    cy.resize();
+    cy.fit(undefined, 18);
+  }
+}
 
 function escapeHtml(s) {
   return String(s)
@@ -306,6 +335,7 @@ function renderPanel(sel) {
 }
 
 function clearGraph() {
+  pendingCy = null;
   if (cy) {
     cy.destroy();
     cy = null;
@@ -328,6 +358,11 @@ function startCy(elements, layout, focusId) {
     cy.destroy();
     cy = null;
   }
+  if (!sideVisible()) {
+    pendingCy = { elements, layout, focusId };
+    return;
+  }
+  pendingCy = null;
   cy = cytoscape({
     container: box,
     elements,
@@ -387,7 +422,9 @@ function startCy(elements, layout, focusId) {
   });
   cy.on("tap", "node", (evt) => {
     const href = evt.target.data("href");
-    if (href) location.hash = href;
+    if (!href) return;
+    if (isNarrow() && "#" + href === location.hash) setPane("read");
+    else location.hash = href;
   });
   if (focusId) {
     const n = cy.getElementById(focusId);
@@ -513,6 +550,7 @@ function apply() {
     ? sectionById[sel.id].title + " — " + (graph.meta.title || "Tractate")
     : graph.meta.title || "Tractate";
   renderNav(sel, $("search").value);
+  if (isNarrow()) setPane("read");
   renderCenter(sel);
   renderPanel(sel);
 }
@@ -528,6 +566,19 @@ async function boot() {
     graph.order.length + " propositions · " + Object.keys(graph.terms).length + " terms";
   $("search").addEventListener("input", () => {
     renderNav(parseSel(location.hash), $("search").value);
+  });
+  document.querySelectorAll("#tabs button").forEach((b) => {
+    b.addEventListener("click", () => setPane(b.dataset.pane));
+  });
+  for (const id of ["nav-list", "panel"]) {
+    $(id).addEventListener("click", (e) => {
+      const a = e.target.closest("a[href^='#']");
+      if (a && isNarrow() && a.getAttribute("href") === location.hash) setPane("read");
+    });
+  }
+  narrowQuery.addEventListener("change", () => {
+    if (!isNarrow()) setPane("read");
+    if (sideVisible()) flushGraph();
   });
   window.addEventListener("hashchange", apply);
   apply();

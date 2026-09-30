@@ -26,6 +26,7 @@ body {
 
 #app {
   height: 100%;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -295,4 +296,108 @@ body {
   overflow: hidden;
   border-top: 1px solid var(--line);
   background: #e7e0d2;
+}
+
+.tabs {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  .mast {
+    padding: 0.5rem 0.9rem 0.45rem;
+  }
+
+  .status {
+    display: none;
+  }
+
+  .cols {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .col {
+    display: none;
+  }
+
+  #app[data-pane="nav"] .pane-nav,
+  #app[data-pane="read"] .pane-read {
+    display: block;
+  }
+
+  #app[data-pane="side"] .pane-side {
+    display: flex;
+  }
+
+  .nav,
+  .side {
+    border: 0;
+  }
+
+  #search {
+    font-size: 16px;
+    padding: 0.4rem 0;
+  }
+
+  #nav-list {
+    font-size: 15px;
+  }
+
+  #nav-list a {
+    padding: 0.55rem 0.9rem;
+  }
+
+  .read {
+    padding: 1rem 0 2.5rem;
+  }
+
+  .read > h1,
+  .read > h2,
+  .read article,
+  .read > p,
+  .prop,
+  .term {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .read h1 {
+    font-size: 1.35rem;
+  }
+
+  #panel {
+    font-size: 14px;
+  }
+
+  #panel li {
+    margin-bottom: 0.5rem;
+  }
+
+  #graph {
+    flex: 0 0 45vh;
+    height: 45vh;
+  }
+
+  .tabs {
+    display: flex;
+    flex: 0 0 auto;
+    border-top: 1px solid var(--line);
+    background: var(--paper-2);
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .tabs button {
+    flex: 1;
+    min-height: 48px;
+    border: 0;
+    background: transparent;
+    color: var(--mute);
+    font: 600 13px/1 system-ui, sans-serif;
+    letter-spacing: 0.04em;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .tabs button.on {
+    background: var(--mark);
+    color: var(--ink);
+  }
 }

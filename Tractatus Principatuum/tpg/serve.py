@@ -107,7 +107,7 @@ class Handler(BaseHTTPRequestHandler):
             self._send_bytes(200, text.encode("utf-8"), "text/plain; charset=utf-8")
             return
         if path == "/llms-full.txt":
-            self._send_bytes(200, Handler.tractate.full_text.encode("utf-8"), "text/plain; charset=utf-8")
+            self._send_bytes(200, Handler.tractate.llms_full().encode("utf-8"), "text/plain; charset=utf-8")
             return
         if path == "/mcp":
             self._send_empty(405, {"Allow": "POST, OPTIONS"})
@@ -203,7 +203,8 @@ def main():
     graph = parse(md)
     text = json.dumps(graph, ensure_ascii=False)
     Handler.graph_json = text.encode("utf-8")
-    Handler.tractate = Tractate(graph)
+    about = ROOT / "about.md"
+    Handler.tractate = Tractate(graph, about.read_text(encoding="utf-8") if about.is_file() else "")
     Handler.pages = Pages(Handler.tractate, (STATIC / "index.html").read_text(encoding="utf-8"))
     Handler.base_url = args.base_url.rstrip("/")
     nprop = len(graph["propositions"])

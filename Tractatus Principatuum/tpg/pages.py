@@ -38,23 +38,50 @@ class Pages:
 
         return INLINE_RE.sub(sub, esc(text))
 
+    def md(self, text):
+        out = []
+        for block in re.split(r"\n\s*\n", (text or "").strip()):
+            lines = [l for l in block.splitlines() if l.strip()]
+            if not lines:
+                continue
+            if lines[0].lstrip().startswith("- "):
+                out.append(self.md_list(lines))
+            else:
+                out.append(f"<p>{self.inline(' '.join(l.strip() for l in lines))}</p>")
+        return "\n".join(out)
+
+    def md_list(self, lines):
+        html = []
+        stack = []
+        for line in lines:
+            indent = len(line) - len(line.lstrip())
+            text = line.strip()
+            item = text[2:] if text.startswith("- ") else text
+            while stack and indent < stack[-1]:
+                stack.pop()
+                html.append("</ul></li>")
+            if not stack or indent > stack[-1]:
+                if stack and html[-1].endswith("</li>"):
+                    html[-1] = html[-1][:-5]
+                html.append("<ul>")
+                stack.append(indent)
+            html.append(f"<li>{self.inline(item)}</li>")
+        while stack:
+            stack.pop()
+            html.append("</ul></li>" if stack else "</ul>")
+        return "".join(html)
+
     def description(self):
-        t = self.t
-        who = f" by {t.meta['author']}" if t.meta.get("author") else ""
-        when = f" ({t.meta['date']})" if t.meta.get("date") else ""
-        return (
-            f"{t.title}{who}{when}: {len(t.order)} numbered propositions across {len(t.chapters)} chapters, "
-            "with a citation graph and glossary. For agents: /llms.txt, full text at /llms-full.txt, MCP server at /mcp."
-        )
+        return self.t.short_description()
 
     def head(self, base):
         t = self.t
         desc = attr(self.description())
         return "\n".join(
             [
-                f"<title>{esc(t.title)}</title>",
+                f"<title>{esc(t.full_title)}</title>",
                 f'<meta name="description" content="{desc}">',
-                f'<meta property="og:title" content="{attr(t.title)}">',
+                f'<meta property="og:title" content="{attr(t.full_title)}">',
                 f'<meta property="og:description" content="{desc}">',
                 f'<meta property="og:url" content="{attr(base)}/">',
                 '<meta property="og:type" content="article">',
@@ -63,12 +90,26 @@ class Pages:
             ]
         )
 
-    def nav(self):
-        out = []
-        for s in self.t.sections:
-            num = f'<span class="num">{s["number"]}</span> ' if s["kind"] == "chapter" else ""
-            out.append(f'<a href="#{attr(s["id"])}">{num}{esc(s["title"])}</a>')
-        return "".join(out)
+    def about_html(self, base):
+        t = self.t
+        out = [
+            f"<h1>{esc(t.title)}</h1>",
+            f"<p><em>{esc(t.subtitle)}</em></p>" if t.subtitle else "",
+            f"<p>{esc(t.byline())} · {esc(domain(base))}</p>",
+            "<h2>About this work (the author's summary)</h2>",
+            f"<p>{self.inline(t.summary())}</p>",
+            f"<p>{esc(t.format_line())}</p>",
+        ]
+        for key, label in (
+            ("where to start", "Where to start"),
+            ("guidance for assistants", "For AI assistants"),
+            ("example questions", "Questions people ask"),
+            ("themes", "Themes"),
+        ):
+            if t.about.get(key):
+                out.append(f"<h2>{label}</h2>")
+                out.append(self.md(t.about[key]))
+        return "\n".join(x for x in out if x)
 
     def agent_block(self, base):
         t = self.t
@@ -80,10 +121,7 @@ class Pages:
         )
         return "\n".join(
             [
-                f"<h1>{esc(t.title)}</h1>",
-                f"<p>{esc(t.byline())} · {esc(domain(base))}</p>",
-                f"<p>{esc(t.summary())}</p>",
-                "<h2>For agents and scripts</h2>",
+                "<h2>Reading this with tools</h2>",
                 "<p>This page is an interactive reader that runs in the browser, but nothing here requires JavaScript. "
                 "The complete text is included below this section, and the same material is available in agent-friendly forms:</p>",
                 "<ul>",
@@ -131,10 +169,11 @@ class Pages:
         return "\n".join(out)
 
     def index(self, base):
-        body = self.agent_block(base) + "\n" + "\n".join(self.section_html(s) for s in self.t.sections)
+        body = "\n".join(
+            [self.about_html(base), self.agent_block(base)] + [self.section_html(s) for s in self.t.sections]
+        )
         return (
             self.template.replace("{{head}}", self.head(base))
-            .replace("{{nav}}", self.nav())
             .replace("{{read}}", body)
             .replace("{{status}}", esc(f"{len(self.t.order)} propositions · {len(self.t.terms)} terms"))
             .replace("{{byline}}", esc(self.t.byline()))

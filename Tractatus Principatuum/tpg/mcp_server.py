@@ -112,10 +112,18 @@ TOOLS = [
 for _tool in TOOLS:
     _tool["annotations"] = {"readOnlyHint": True, "openWorldHint": False}
 
+ABOUT_HEADING_RE = re.compile(r"^## (.+)$", re.M)
+
+
+def parse_about(text):
+    parts = ABOUT_HEADING_RE.split(text or "")
+    return {parts[i].strip().lower(): parts[i + 1].strip() for i in range(1, len(parts) - 1, 2)}
+
 
 class Tractate:
-    def __init__(self, graph):
+    def __init__(self, graph, about_text=""):
         self.graph = graph
+        self.about = parse_about(about_text)
         self.meta = graph["meta"]
         self.sections = graph["sections"]
         self.section_by_id = {s["id"]: s for s in self.sections}
@@ -133,14 +141,45 @@ class Tractate:
     def byline(self):
         return ", ".join(b for b in (self.meta.get("author"), self.meta.get("date")) if b)
 
-    def summary(self):
+    @property
+    def subtitle(self):
+        return self.about.get("subtitle", "")
+
+    @property
+    def full_title(self):
+        return f"{self.title}: {self.subtitle}" if self.subtitle else self.title
+
+    def format_line(self):
         who = f" by {self.meta['author']}" if self.meta.get("author") else ""
         when = f" ({self.meta['date']})" if self.meta.get("date") else ""
         return (
-            f"{self.title} is a tractate{who}{when} written as {len(self.order)} numbered propositions "
+            f"{self.title}{who}{when} is written as {len(self.order)} numbered propositions "
             f"across {len(self.chapters)} chapters, with a glossary of {len(self.terms)} terms. "
             "Propositions cite one another by number, so the text forms a citation graph."
         )
+
+    def summary(self):
+        return self.about.get("summary") or self.format_line()
+
+    def short_description(self):
+        return self.about.get("short description") or self.summary()
+
+    def about_markdown(self, level=2, lead=True):
+        h = "#" * level
+        parts = [f"{h} About this work (the author's summary)", self.summary(), self.format_line()] if lead else []
+        for key, label in (
+            ("where to start", "Where to start"),
+            ("guidance for assistants", "For AI assistants"),
+            ("example questions", "Questions people ask"),
+            ("themes", "Themes"),
+        ):
+            if self.about.get(key):
+                parts.append(f"{h} {label}\n\n{self.about[key]}")
+        return "\n\n".join(parts)
+
+    def llms_full(self):
+        head = f"# {self.full_title}\n\n{self.byline()}\n\n"
+        return head + self.about_markdown() + "\n\n---\n\n" + self.full_text
 
     def section_label(self, s):
         return f"{s['number']}. {s['title']}" if s["kind"] == "chapter" else s["title"]
@@ -194,12 +233,10 @@ class Tractate:
         ]
 
     def overview(self):
-        parts = [f"# {self.title}"]
+        parts = [f"# {self.full_title}"]
         if self.byline():
             parts.append(self.byline())
-        parts.append(
-            f"{len(self.order)} propositions in {len(self.chapters)} chapters, {len(self.terms)} glossary terms."
-        )
+        parts.append(self.about_markdown())
         parts.append("## How it is organized\n\n" + "\n".join("- " + n for n in self.numbering_notes()))
         parts.append("## Sections\n\n" + "\n".join(self.section_lines()))
         return "\n\n".join(parts)
@@ -387,12 +424,19 @@ class Tractate:
         return {"contents": [{"uri": uri, "mimeType": "text/markdown", "text": text}]}
 
     def instructions(self):
-        return (
-            f"Read-only access to \"{self.title}\"{' by ' + self.meta['author'] if self.meta.get('author') else ''}. "
-            "Start with get_overview. Use read_full to read everything, read_section for one chapter, "
-            "get_propositions for specific numbered propositions and their citation neighborhood, "
-            "search to locate passages, and get_term for glossary definitions. Cite propositions by number."
+        tools = (
+            "Tools: get_overview for the summary, themes, and section ids; read_full for everything; "
+            "read_section for one chapter; get_propositions for numbered propositions and their citation neighborhood; "
+            "search to locate passages; get_term for glossary definitions."
         )
+        parts = [
+            f"Read-only access to \"{self.full_title}\"{' by ' + self.meta['author'] if self.meta.get('author') else ''}.",
+            "About this work (the author's summary): " + self.summary(),
+        ]
+        if self.about.get("guidance for assistants"):
+            parts.append("How to help users with it:\n" + self.about["guidance for assistants"])
+        parts.append(tools)
+        return "\n\n".join(parts)
 
     def dispatch(self, method, params):
         if method == "initialize":
@@ -463,11 +507,15 @@ class Tractate:
             f"- [{self.section_label(s)}]({base}/#{s['id']}): section id `{s['id']}`" for s in self.sections
         )
         notes = "\n".join("- " + n for n in self.numbering_notes())
-        return f"""# {self.title}
+        return f"""# {self.full_title}
 
 > {self.summary()}
 
-Start here: this file describes everything available. To read the whole work, fetch {base}/llms-full.txt. To explore it selectively, connect to the MCP server at {base}/mcp and call `get_overview`. The homepage {base}/ also contains the complete text as plain HTML; no JavaScript is required.
+That is the author's own summary. {self.format_line()}
+
+Start here: this file describes the work, how to help someone who asks about it, and every way to read it. To read the whole work, fetch {base}/llms-full.txt. To explore it selectively, connect to the MCP server at {base}/mcp and call `get_overview`. The homepage {base}/ also contains the complete text as plain HTML; no JavaScript is required.
+
+{self.about_markdown(lead=False)}
 
 ## MCP server
 

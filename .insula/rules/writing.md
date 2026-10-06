@@ -71,6 +71,7 @@ This is a separate genre. Do not write conversational ramble, essay paragraphs, 
 - Keep false starts if they are a thought being found. Drop only pure duplicates and mic noise.
 - If a stretch is inaudible or nonsense, mark it. Do not smooth it into a polished claim.
 - A minted draft should still sound spoken. Stop before it sounds published.
+- An odd noun, a stiff verb, a category slip, a singular where the grammar wants a plural: if it is a possible hearing, keep it. Odd is not an error. A person mid-thought reaches for the near word and stays with it. That nearness is the voice. Do not promote it to the term a careful writer would have chosen, and do not rebuild the clause so the odd word sits cleanly. Only a recognition error moves. A stretch that could be either is marked, not resolved toward the tidier reading.
 
 ## Translating minted essays
 

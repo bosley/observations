@@ -75,6 +75,7 @@ The job is to iron those mistakes back into the speaker's voice. Ironing is loca
 4. Once the word is identified, spell and inflect it the way the surrounding text does, including `its` / `it's` and agreement. Standard English is not the target. Their voice is.
 5. If two restorations fit the sound, take the one closer to diction already on the page. Not the more precise one. Not the more impressive one.
 6. Change the token, the boundary, or the bad mark. Leave the clause. Leave the order. Leave the hedge, the deixis, the "sort of," the self-correction.
+7. An odd noun, a stiff verb, a category slip, a singular where the grammar wants a plural: if it is a possible hearing, keep it. Odd is not an error. A person mid-thought reaches for the near word and stays with it. That nearness is the voice. Do not promote it to the term a careful writer would have chosen, and do not rebuild the clause so the odd word sits cleanly. Only a recognition error moves. A stretch that could be either is marked, not resolved toward the tidier reading.
 7. If no candidate fits both the sound and the subject, mark the stretch. Do not supply the sentence they must have meant.
 
 **Ironing versus rephrasing.** You have started rephrasing when you touch a stretch that was already a possible hearing. Upgrading "sort of the joint" to "the articulation." Turning the order they noticed the

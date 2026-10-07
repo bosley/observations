@@ -4,11 +4,11 @@ A treatise on principalities
 
 ## Short description
 
-A personal philosophy in 267 numbered propositions: how a self is shaped by stories and by habit, why we know people by what they do more than by what they say, and how families and nations act like larger selves.
+A personal philosophy in 271 numbered propositions: how a self is shaped by stories and by habit, why we know people by what they do more than by what they say, and how families and nations act like larger selves.
 
 ## Summary
 
-Tractatus Principatuum is a personal work of philosophy written as 267 short numbered propositions that cite one another. It starts from the fact that no mind can see directly into another, or fully into itself, and builds an account of the self from there: a person is shaped both by stories they can recall and by habits imprinted without their noticing, and we know people, ourselves included, more reliably by the record of what they have done than by the stories they tell. It calls the nested clusters of habit inside a person "principalities," and treats families, towns, and nations as the same kind of arrangement at larger scales. From there it takes up authenticity, meaning, the "weight" that makes some subjects hit far harder than others, free will, love, argument, death, and why anything exists at all, offered throughout as how the world looks from where the author stands, not as an argument the reader is meant to accept.
+Tractatus Principatuum is a personal work of philosophy written as 271 short numbered propositions that cite one another. It starts from the fact that no mind can see directly into another, or fully into itself, and builds an account of the self from there: a person is shaped both by stories they can recall and by habits imprinted without their noticing, and we know people, ourselves included, more reliably by the record of what they have done than by the stories they tell. It calls the nested clusters of habit inside a person "principalities," and treats families, towns, and nations as the same kind of arrangement at larger scales. From there it takes up authenticity, meaning, the "weight" that makes some subjects hit far harder than others, free will, love, argument, death, and why anything exists at all, offered throughout as how the world looks from where the author stands, not as an argument the reader is meant to accept.
 
 ## Author's note
 

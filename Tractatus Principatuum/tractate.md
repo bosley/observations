@@ -1,6 +1,6 @@
 ---
 title: Tractatus Principatuum
-author: "Josh A. Bosley"
+author: "Josh Bosley"
 date: 2026
 ---
 

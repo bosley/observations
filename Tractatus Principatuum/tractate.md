@@ -124,11 +124,11 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.03** The nervous system does not survive death the way bone does. I do not observe what it was holding coming along with the bone, and it is not what remains.
 
-**4.1** Bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object (3.2, 3.5), and the nervous system stands in the place of the social remnant. That one does not exist as an object I can inspect. It is already producing conduct before I stop to notice it, the way the arrangements were already producing conduct when I arrived (3.3).
+**4.1** Bone is the likeness for things that get left behind. A body leaves bone. A nation leaves ruins. That is the likeness, and that is the end of it. I am not saying bone keeps what the stories can still attest to, and I am not saying a ruin is a bone.
 
-**4.11** What the bone is standing in for is the part that stays and can still be found. A bone does not carry, in its makeup, what the stories can still attest to. That attesting sits with the physical remnant, whose makeup can be destroyed or modified, and when it is, what the stories can still attest to changes with it (3.2). A ruin and a written record do that. Bone does not, and I am not claiming that it does.
+**4.11** Storage is the other half, and it is not the bone. The nervous system is where what happens gets stored as it happens (4.02). A path worn in from use, a flinch etched in from one bad encounter, a habit that goes on driving when recall is gone (1.62, 4.2). That storing is in the body. It does not sit in the environment as an object I can inspect, the way a ruin does (3.2).
 
-**4.12** The same limit sits on the other half of the pair. The nervous system stands in for a remnant that is not an object I can inspect, already producing conduct (4.1, 3.3). It does not become that remnant once the principality is a family, a town, or a nation (4.34). Those are analogous at scale, and the social remnant there is still in the language, the unspoken conduct, and the arrangements.
+**4.12** The social remnant is the same kind of storing outside one body (3.3). Language, unspoken conduct, arrangements already producing conduct when I arrived, impressed the way habits are imprinted onto the body (3.3, 3.5). I am not saying a nation's nervous system is that remnant. I am saying the storing is the likeness, and the remnant is still in the language and the arrangements.
 
 **4.2** The habits that would go on driving a variant of "I" even with all recall removed (1.62) are then probably just this soft system's version of that unrecalled imprint, and bone is what would be left once even that stopped.
 
@@ -156,7 +156,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **5.02** Since I cannot cross that gap directly, I proceed on an assumption instead: that other minds of a kind similar to mine have internal mechanisms my mind could fathom. That is, I can hold a representation of another's worldview close enough to their actual worldview that I can make inferences about their motivations from it.
 
-**5.03** The representation does not hold still once formed, and it is under constant refinement. I refine my sense of another mind's worldview by weighing their apparent motivations against new information, drawn from the record their interactions leave in the environment, in contexts tied to carrying out whatever motivation is in question. This record seems to be of the same kind as the physical remnant (3.2) and the bone (4.01), the hard part, the part that stays and can still be inspected after the fact, unlike the mind's own recall of itself, to which I have no direct access at all. Where I can revise my model of a mind I did not witness directly, it is because that mind, like me, leaves something durable behind in the environment, and the refining is done by reading that remnant.
+**5.03** The representation does not hold still once formed, and it is under constant refinement. I refine my sense of another mind's worldview by weighing their apparent motivations against new information, drawn from the record their interactions leave in the environment, in contexts tied to carrying out whatever motivation is in question. This record seems to be of the same kind as the physical remnant (3.2), something left behind that can still be inspected after the fact (4.1), unlike the mind's own recall of itself, to which I have no direct access at all. Where I can revise my model of a mind I did not witness directly, it is because that mind, like me, leaves something durable behind in the environment, and the refining is done by reading that remnant.
 
 **5.1** Since stories can be told that do not map to reality (5.01), I have to assume that any story I have ever been told may contain some degree of error.
 
@@ -166,7 +166,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **5.13** If a mind is bound up in a principality (4.31–4.33), the doubt does not stop at the one mind. It has to extend to the whole principality, since no principality answers only to itself, and what a story carries in from its assumptions may belong to the group as much as to the single mind that spoke it.
 
-**5.14** Doubting all of this at once leaves very little to be believed, and what is left to work from is the hardened record, the remnant of 3.2, the part of a principality's action that survives past the telling of it and can still be inspected. The bone (4.01) is the likeness for that staying and that inspectability, and only that (4.11). I read the record with an instrument conditioned by stories (2.2, 3.6), so a given account can be held up to it without that holding being a view from outside the conditioning.
+**5.14** Doubting all of this at once leaves very little to be believed, and what is left to work from is the hardened record, the remnant of 3.2, the part of a principality's action that survives past the telling of it and can still be inspected. Bone is only the likeness for something getting left behind (4.1). I read the record with an instrument conditioned by stories (2.2, 3.6), so a given account can be held up to it without that holding being a view from outside the conditioning.
 
 **5.141** "Hardened" here is relative. It means only durable compared to recall (5.03), not fixed the way bone is fixed (4.01). The record can still be destroyed or altered (3.2), and it is reached only through a reader it did not produce alone (7.2).
 
@@ -306,7 +306,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **9.132** The rituals of deliberate self-induced extremity that appear in that tradition are, as I take it, attempts to rapidly recondition the emotional landscape by force. If weight is installed by consequence and experience (9.02), then deliberately induced extreme experience is a method of collapsing the geometry already there and installing new high-weight notions in its place. I do not know whether the method does what its practitioners intend. Why one would attempt it follows from the installing (9.02). The same pattern may sit `above and below` the individual scale (7.4): a singularity in a single mind, in a culture, in a civilization.
 
-**9.133** This structure seems to have been arrived at independently, from a direction with no overlap with the one taken here, and I take that as some corroboration, though not as authority.
+**9.133** I am not offering Choronzon as evidence for 9.13. I am saying I see a thing, and the same thing, represented elsewhere, arose under that name. That is the likeness. It is not a second inspection, and it is not corroboration.
 
 **9.2** When I observe this across many minds, certain regions produce the same or similar distortion repeatedly. A singularity particular to one mind tells me something about that mind's history. A singularity that appears in the same region across many minds signals to me something about the territory, and the weight there seems to be a property of the region itself, whatever history any one mind brings to it.
 
@@ -689,7 +689,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **bone**
 
-:   The hard part of the body; what stays longest; laid down slowly; closer to acted-on than acting; stands in for the physical remnant only as the part that stays and can still be found, not as what the stories can still attest to. (4.01, 4.11)
+:   The hard part of the body; the likeness for things that get left behind. A body leaves bone. A nation leaves ruins. That is the likeness. (4.01, 4.1)
 
 **boundary**
 
@@ -821,7 +821,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **hardened record**
 
-:   The part of a principality's action that survives the telling and can still be inspected; the remnant of 3.2; bone is the likeness for the staying and the inspectability only. Durable relative to recall, not fixed as bone is fixed. (5.14, 4.11)
+:   The part of a principality's action that survives the telling and can still be inspected; the remnant of 3.2. Bone is only the likeness for something getting left behind. Durable relative to recall, not fixed as bone is fixed. (5.14, 4.1)
 
 **hate**
 
@@ -917,7 +917,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **Primordiant**
 
-:   What the record sequence and the group both keep asking after and do not find; the superset from which abstractions and implementations emerge; preceded the beginning of time, or at least the first fathomable fathom, and is holding every present instant. (11.41)
+:   The last level of reduction of vertical and horizontal causality. (11.421)
 
 **principality**
 
@@ -933,7 +933,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **record**
 
-:   What interactions leave in the environment; of the same kind as the physical remnant, whose makeup can still attest; bone is the likeness for what stays and can still be inspected, not a second host of that attesting. (5.03, 4.11)
+:   What interactions leave in the environment; of the same kind as the physical remnant, something left behind that can still be inspected. Bone is only the likeness for that leaving. (5.03, 4.1)
 
 **relation**
 
@@ -981,7 +981,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **soft system**
 
-:   The nervous system; what registers as it happens and changes with what happens to it; stands in the place of the social remnant, and does not become that remnant at the scale of family, town, or nation. (4.02, 4.12)
+:   The nervous system; what registers as it happens and stores it as it happens, a path worn in, a flinch etched in, a habit that goes on when recall is gone. The likeness for the social remnant is that storing, not a nation's nervous system. (4.02, 4.11, 4.12)
 
 **standard**
 

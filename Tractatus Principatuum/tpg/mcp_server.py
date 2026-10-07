@@ -6,6 +6,7 @@ PROTOCOL_VERSIONS = ["2025-06-18", "2025-03-26", "2024-11-05"]
 SERVER_VERSION = "1.0.0"
 RANGE_ID_RE = re.compile(r"^(\d+\.\d+)\s*[–-]\s*(\d+\.\d+)$")
 NUM_RE = re.compile(r"^\d+(\.\d*)?$")
+STATED_COUNT_RE = re.compile(r"\b\d+\b(?=\s+(?:short\s+)?numbered propositions\b)")
 MAX_IDS = 120
 SOURCE_URL = "https://github.com/bosley/observations"
 
@@ -158,11 +159,14 @@ class Tractate:
             "Propositions cite one another by number, so the text forms a citation graph."
         )
 
+    def live_count(self, text):
+        return STATED_COUNT_RE.sub(str(len(self.order)), text or "")
+
     def summary(self):
-        return self.about.get("summary") or self.format_line()
+        return self.live_count(self.about.get("summary") or self.format_line())
 
     def short_description(self):
-        return self.about.get("short description") or self.summary()
+        return self.live_count(self.about.get("short description") or self.summary())
 
     def about_markdown(self, level=2, lead=True):
         h = "#" * level

@@ -132,7 +132,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.31** I want a word for one of these groups of groups. I will call it a "principality." A principality is bounded enough that I can point at it and say this governs how I flinch, or this governs how I talk when I am frightened, while also being made of smaller principalities I could point to underneath it, and belonging to a larger one above it that I could also point to, if less precisely.
 
-**4.32** No principality got installed by a single act of will, mine or anyone else's. Each one seems to have formed the way bone formed, by repetition and consequence accumulating past the point where I was tracking it, except that bone kept a fixed shape, and what accumulates here is an arrangement that keeps organizing whatever happens to it next along lines already laid down.
+**4.32** No principality got installed by a single act of will, mine or anyone else's. Each one seems to have formed the way bone formed, by repetition and consequence accumulating past the point where I was still noticing it, except that bone kept a fixed shape, and what accumulates here is an arrangement that keeps organizing whatever happens to it next along lines already laid down.
 
 **4.33** Each principality seems to answer mostly to the principalities nearest it, the ones just below and just above, the way a town answers to what is nearest it and reaches a nation only through what sits between them. Nothing sits outside the whole of it running it from one point.
 
@@ -276,7 +276,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **9.01** I think weight is stored in the soft system (4.02) of the mind that meets the subject, and the subject is only the key that releases it.
 
-**9.02** Weight is installed the way anything is conditioned into the soft system: by repetition and consequence accumulating past the point where the mind was tracking it (4.32). The recalled story may have no clear account of why a given subject carries what it carries. The imprint is there regardless (7.3).
+**9.02** Weight is installed the way anything is conditioned into the soft system: by repetition and consequence accumulating past the point where the mind was still noticing it (4.32). The recalled story may have no clear account of why a given subject carries what it carries. The imprint is there regardless (7.3).
 
 **9.03** The spectrum of weight runs from mild to extreme. At the low end a subject produces a small release, with little impressed on the soft system, and what was associated with the subject is still there once the response has passed. At the high end the impress has extended past sensory contact to the representation itself, and a symbol, a word, an abstraction is enough to release what the original encounter installed. The more extreme the original consequence, and the deeper it was imprinted, the more abstract the trigger can become while still releasing the full response.
 
@@ -386,7 +386,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **12.12** A fathom is the span a flame takes, and the flame is attention (10.12, 10.2). Passing a fathom is how a relation can be made. Where attention is, the relation can become. Where attention is pushed off a subject, the relation is not made, and that is a boundary. The flame failing to finish is the other case in the same place, and I am not using it here (10.22).
 
-**12.121** Repeating a relation already made (12.12) across further fathoms, with the reader as one end (12.1), is the consequence accumulating past the point where I am tracking it (4.32). I will call that repetition etch. The relation can be found later as imprint (12.11) without a return through the senses (1.2).
+**12.121** Repeating a relation already made (12.12) across further fathoms, with the reader as one end (12.1), is the consequence accumulating past the point where I am still noticing it (4.32). I will call that repetition etch. The relation can be found later as imprint (12.11) without a return through the senses (1.2).
 
 **12.13** Without that, a principality is close to any pattern that nests. The emotional landscape is not any pattern (9.1). It is notions existing and relating, and weight is what bends the relations nearest a notion (9.12). The grouping in 11.21 is the same requirement at another scale: a group of things that depend on each other, and nothing in the group is the group.
 

@@ -126,6 +126,10 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **4.1** Bone stands in the place of the physical remnant, something I or another could later find sitting in the environment as an object (3.2, 3.5), and the nervous system stands in the place of the social remnant. That one does not exist as an object I can inspect. It is already producing conduct before I stop to notice it, the way the arrangements were already producing conduct when I arrived (3.3).
 
+**4.11** What the bone is standing in for is the part that stays and can still be found. A bone does not carry, in its makeup, what the stories can still attest to. That attesting sits with the physical remnant, whose makeup can be destroyed or modified, and when it is, what the stories can still attest to changes with it (3.2). A ruin and a written record do that. Bone does not, and I am not claiming that it does.
+
+**4.12** The same limit sits on the other half of the pair. The nervous system stands in for a remnant that is not an object I can inspect, already producing conduct (4.1, 3.3). It does not become that remnant once the principality is a family, a town, or a nation (4.34). Those are analogous at scale, and the social remnant there is still in the language, the unspoken conduct, and the arrangements.
+
 **4.2** The habits that would go on driving a variant of "I" even with all recall removed (1.62) are then probably just this soft system's version of that unrecalled imprint, and bone is what would be left once even that stopped.
 
 **4.3** When something in the soft system shifts, a cluster of related responses shifts with it, and not the whole of it at once. These clusters seem to belong to larger clusters, which belong to larger ones.
@@ -162,7 +166,7 @@ I'm not speaking with authority over others, only with authenticity of self, in 
 
 **5.13** If a mind is bound up in a principality (4.31–4.33), the doubt does not stop at the one mind. It has to extend to the whole principality, since no principality answers only to itself, and what a story carries in from its assumptions may belong to the group as much as to the single mind that spoke it.
 
-**5.14** Doubting all of this at once leaves very little to be believed, and what is left to work from is the hardened record, the remnant of 3.2 and the bone of 4.01, the part of a principality's action that survives past the telling of it and can still be inspected. I read it with an instrument conditioned by stories (2.2, 3.6), so a given account can be held up to it without that holding being a view from outside the conditioning.
+**5.14** Doubting all of this at once leaves very little to be believed, and what is left to work from is the hardened record, the remnant of 3.2, the part of a principality's action that survives past the telling of it and can still be inspected. The bone (4.01) is the likeness for that staying and that inspectability, and only that (4.11). I read the record with an instrument conditioned by stories (2.2, 3.6), so a given account can be held up to it without that holding being a view from outside the conditioning.
 
 **5.141** "Hardened" here is relative. It means only durable compared to recall (5.03), not fixed the way bone is fixed (4.01). The record can still be destroyed or altered (3.2), and it is reached only through a reader it did not produce alone (7.2).
 
@@ -681,7 +685,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **bone**
 
-:   The hard part of the body; what stays longest; laid down slowly; closer to acted-on than acting; stands in the place of the physical remnant. (4.01)
+:   The hard part of the body; what stays longest; laid down slowly; closer to acted-on than acting; stands in for the physical remnant only as the part that stays and can still be found, not as what the stories can still attest to. (4.01, 4.11)
 
 **boundary**
 
@@ -813,7 +817,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **hardened record**
 
-:   The part of a principality's action that survives the telling and can still be inspected; durable relative to recall, not fixed as bone is fixed. (5.14)
+:   The part of a principality's action that survives the telling and can still be inspected; the remnant of 3.2; bone is the likeness for the staying and the inspectability only. Durable relative to recall, not fixed as bone is fixed. (5.14, 4.11)
 
 **hate**
 
@@ -925,7 +929,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **record**
 
-:   What interactions leave in the environment; of the same kind as the physical remnant and the bone. (5.03)
+:   What interactions leave in the environment; of the same kind as the physical remnant, whose makeup can still attest; bone is the likeness for what stays and can still be inspected, not a second host of that attesting. (5.03, 4.11)
 
 **relation**
 
@@ -973,7 +977,7 @@ Terms as they are used here. The number is where the term is introduced.
 
 **soft system**
 
-:   The nervous system; what registers as it happens and changes with what happens to it; stands in the place of the social remnant. (4.02)
+:   The nervous system; what registers as it happens and changes with what happens to it; stands in the place of the social remnant, and does not become that remnant at the scale of family, town, or nation. (4.02, 4.12)
 
 **standard**
 

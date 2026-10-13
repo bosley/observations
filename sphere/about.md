@@ -1,0 +1,1 @@
+this was derived from my note book. i took photos of the concepts displayed and had gork generate the pdf with images. there is some slop drift in the visuals, but it gets the general idea across. its not entirely fleshed out yet though -- once it is i can revisit. keeping this copy here for now

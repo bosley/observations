@@ -126,7 +126,7 @@ flowchart TD
 flowchart TD
   hammer["Martin Luther did his big hammer swing"]
   hammer --> northSouth["Science going north was different from science in the more southern regions"]
-  northSouth --> wingling["Descendants of Wingling"]
+  northSouth --> zwingli["Descendants of Zwingli"]
   northSouth --> noDenom["I don't want to tie this to specific denominations"]
   hammer --> confessions["His confessions: this is exactly what I believe"]
   confessions --> friction["Inspired the friction for the Catholic Church to make the catechism"]
@@ -138,8 +138,8 @@ flowchart TD
   physics --> light["Light, and the science of light and pigments"]
   reformation["Broke away from the Catholic Church in the Reformation"]
   reformation --> oldGods["Shed the old gods. Study of God's creation, the singular."]
-  oldGods --> bypass["An intellectual bypass: doing was not matching what they were saying they were thinking"]
-  bypass --> enMasse["Metacognition comes in en masse. Not Catholic mass. A group of people."]
+  oldGods --> bias["An intellectual bias: doing was not matching what they were saying they were thinking"]
+  bias --> enMasse["Metacognition comes in en masse. Not Catholic mass. A group of people."]
 ```
 
 ## Different shades of a principality
@@ -277,7 +277,7 @@ flowchart TD
   gender --> dominating["Everything has a sort of dominating power"]
   dominating --> most["Most cultures tie that to masculine, but not all"]
   most --> pair["Dominating and passive, or receptive"]
-  pair --> imagery["Chalices, and the athame. The phallic and the receptacle."]
+  pair --> imagery["Chalices, and the Athame. The phallic and the receptacle."]
   imagery --> purpose["The Tractatus should communicate layers of nothingness"]
   purpose --> noCrowley["Without Crowley and the 33 degrees of masonry"]
   purpose --> pheno["A phenomenological approach"]

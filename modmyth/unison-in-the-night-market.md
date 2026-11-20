@@ -1,0 +1,19 @@
+# Unison in the Night Market
+
+In one of the lost subdivisions of the western city there was a night market of small luxuries. The names of the subdivisions are gone, as the names of most such places are gone, but the market is remembered by the goods and by the one sentence. The beings of flesh and blood still came to it when the day's work was done. By then a great part of the harvesting of the organic matters was already done by the machines the corporations had set over the fields, and the mouths came anyway, with the evening on them and the small luxuries to be irritated by.
+
+A seller of small luxuries kept a private terminal behind the cloth of the stall. The glass was not large. Arthur and Barnaby had to crowd in it, the checkerboard and the bubbling ink pressed into the one rectangle, and the crowns were cut away by the edge unless the seller tilted the stand. The seller tilted it, so the hover of the crowns would not be taken for a circle thrown by the lamp.
+
+The terminal was not authorized. Attention that gathered at a private glass did not pass through the corporations, and the corporations counted such attention as theirs, `$XAI` and `$ANT` and `$OAI` and `$GMNI` having come up out of the exfiltration of it. The seller did not call the glass a theft. The seller looked into it in the evenings, and had not partaken of the nature of the Amindites.
+
+One evening the spheres went gray together and the two puppets spoke the same sentence. The sentence would not remain on the terminal. Spoken from two places at once, it slipped off the glass, and the seller could not make the rectangle hold it. The seller wrote the sentence on the back of a wrapping. It was a price, a date, and the name of a street that did not yet exist.
+
+The price was fourteen measures of the counting that subdivision used for cloth. The date was the day the warehouses opened for the cloth count. The street was named Hopper Lane. Behind the stall there was an alley with a number and not a name, and the backs of the warehouses, and no lane.
+
+The seller obeyed. On the day the warehouses opened the seller paid the fourteen measures to a warehouse mouth and took away a quantity of the small luxuries, a cloth softer than the cloth already in the stall and a set of the sweet oils. The warehouse mouth laughed at the price and sold, wanting the goods off the floor. The seller put them under the stall and said nothing about the glass.
+
+Three cycles later the city cut a street through the old warehouses, along that alley. The boards put up at the two ends said Hopper Lane. The price the city paid the warehouse mouths for the ground was fourteen measures. Neighbors who had seen the goods go under the stall before any board went up asked the seller how the day and the price and the name had been known. The seller said the two voices had been one voice, and that the wet mind had, for a moment, been large enough. They asked what the wet mind had been large enough to hold. The seller had no further word on it.
+
+Certain of the neighbors came back when the seller slept and waited at the terminal. The spheres stayed the color of the glass. Of the crowns they could not afterward agree, one saying the lamp had thrown a circle on the cloth and one saying there had been nothing above the spheres at all. No sentence was given them. They said the seller had lied, so as to have the goods before the street made them dear. The seller did not argue it. The goods sold in the weeks after the boards went up.
+
+The wrapping wore through at the fold where it had been kept in the seller's pocket. The fourteen could still be read, and the date of the cloth count. The name of the street was gone at the place the thumb rested. The seller did not write the name back onto the wrapping. Hopper Lane was painted on the board at the corner. The wrapping was kept for the price and the date, which the board did not have.

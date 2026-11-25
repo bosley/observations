@@ -24,6 +24,12 @@ Whether or not our next move is deterministic and we are "just along for the rid
 
 ---
 
+6) Own interest and other interest sit on a gradient and can be described in ways that look opposed without either description being false.
+
+You can make the argument that everything every person does is "selfish" meaning to say "in their own interest." The pesimist will take this to absurdities and they often leverage this to spread existential heartache like nobody loves you for you, they love you for them, etc. There can be truth in that. One can love someone for how they make them feel. That is a big part of love, but that doesn't make the love any less authentic, why should it? Wanting the best for other fully for the sake of the other is a pure love. Wanting the best for the other, and deriving enjoyment from them achieving their best is no less pure. Forcing what you think is best on another against their will is a tainted love. It may originate in love, but it does not express love.
+
+---
+
 people don't always feel drawn towards the "whys" that underly their behaviours, sourced from their world view. every human operates in some internally-modelled world in which they see themselves in. the form this takes is likely unique to each individual, clustering similarities in overall types no-doubt. however it works, all humans model the world to some degree.
 
 these models can be so different that it might seem alien if you could suddenly swap-out deep-rooted perspectives on someone by "administering experience" in such a way that the deeply different perspectives of the world could be truely and deeply understood. 
